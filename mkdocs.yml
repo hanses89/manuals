@@ -38,6 +38,9 @@ nav:
   - Start: index.md
   - Bagtag: bagtag.md
   - MyBag: bag.md
+  - Bagbyggjar: hjelp.md
+  - Flightbane: flight.md
+  - Fadderordning: fadder.md
 
 markdown_extensions:
   - admonition
