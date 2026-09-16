@@ -4,7 +4,7 @@ For spelarane i Kvam Frisbeegolf. Same tekst ligg inne i appen på
 [bagtag.kvamdgs.no/#/hjelp](https://bagtag.kvamdgs.no/#/hjelp), og på
 [manuals.hanses.no](https://manuals.hanses.no/bagtag/).
 
-<!-- Synka til hanses89/manuals. Endrar du noko her, endre viewHelp i public/app.js òg. -->
+<!-- Einaste kjelde: synka til hanses89/manuals, og servert som HTML til Hjelp-sida i appen (src/manual.js). -->
 
 ## Kva appen gjer
 
@@ -82,11 +82,14 @@ nummeret, og kva nummer eigaren har hatt.
 
 Etter runden trykkjer du **Ny runde**:
 
-| Val | Kva du gjer |
-|---|---|
-| **Casual** (standard) | Kryss av dei som spelte, og skriv inn totalt tal kast, t.d. frå UDisc. Søkjefeltet finn spelarar kjapt – skriv namn eller tag-nummer og trykk Enter. Du sjølv er alt kryssa av. |
-| **Metrix** | Lim inn lenkja til konkurransen, t.d. vekesgolf. |
-| **PDGA** | Lim inn lenkja til turneringa på pdga.com. |
+**Casual:** Kryss av dei som spelte, og skriv inn totalt tal kast, t.d. frå
+UDisc. Søkjefeltet finn spelarar kjapt – skriv namn eller tag-nummer og trykk
+Enter. Du sjølv er alt kryssa av.
+
+!!! note "Metrix og PDGA kjem"
+    Resultat frå ei Metrix-konkurranse eller ei PDGA-turnering kan hentast
+    automatisk, men det er førebels berre admin som kan det, til vi har prøvt
+    det skikkeleg. Spør admin, eller legg runden inn som casual.
 
 Forslaget til nye tagar syner seg med ein gong, medan du skriv. **Ingenting blir
 endra før nokon trykkjer «Utfør byte».**
@@ -99,7 +102,7 @@ Alle som får ny tag må stadfeste, så ingen kan skrive inn kva som helst:
 - Har nokon ikkje appen, kan dei stadfeste på telefonen til den som la inn
   runden: opne **Ikkje installert appen? Stadfest her på same telefon** og
   skrive sitt eige Metrix-passord.
-- Resultat henta rett frå Metrix eller PDGA treng inga stadfesting.
+- Resultat henta rett frå Metrix eller PDGA (admin) treng inga stadfesting.
 
 ### Utføre bytet
 
