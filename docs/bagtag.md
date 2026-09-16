@@ -78,6 +78,11 @@ Framsida syner alle 50 tagane: kven som har dei, Metrix-rating, PDGA-rating og
 kva tag dei hadde før. Trykk på ein tag for å sjå historikken: kven som har hatt
 nummeret, og kva nummer eigaren har hatt.
 
+Lista blir henta frå Metrix, og ho held seg fersk av seg sjølv: appen hentar ho
+på nytt kvar gong du opnar han eller byter attende til han, og medan han står
+framme. Har nokon bytt tag direkte i Metrix, dukkar det opp innan eit halvt
+minutt. Vil du vere heilt sikker, trykk **Oppdater**.
+
 ### Registrere ein runde
 
 Etter runden trykkjer du **Ny runde**:
