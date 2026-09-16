@@ -6,6 +6,7 @@ ikkje logge inn for å lese dei.
 | App | Kva han gjer |
 |---|---|
 | [Bagtag](bagtag.md) | Bagtag-byte for Kvam Frisbeegolf: registrer runden, så reknar appen ut nye tagar og oppdaterer Metrix |
+| [MyBag](bag.md) | Hald orden på discane du eig, byggj bagger, sjå kva baggen manglar og del han med andre |
 
 !!! tip "Manualen finst òg i appen"
     Bagtag-manualen ligg inne i appen på

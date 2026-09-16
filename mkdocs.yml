@@ -36,7 +36,8 @@ theme:
 
 nav:
   - Start: index.md
-  - Bagtag (Kvam Frisbeegolf): bagtag.md
+  - Bagtag: bagtag.md
+  - MyBag: bag.md
 
 markdown_extensions:
   - admonition
