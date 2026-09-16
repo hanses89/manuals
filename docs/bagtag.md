@@ -58,7 +58,7 @@ lagra, og du held deg innlogga til du loggar ut.
 **«Hald Metrix-innlogginga mi»** lèt appen byte tag *som deg* i Metrix, så bytet
 hamnar i historikken din der, og du slepp å skrive passordet på nytt.
 Innlogginga blir lagra kryptert og sletta når du loggar ut. Du kan slå det av
-seinare: trykk på namnet ditt øvst og vel **Gløym Metrix-innlogginga**.
+seinare: opne **Mi side** (namnet ditt øvst) og vel **Gløym Metrix-innlogginga**.
 
 ## 3. Slå på varsel
 
@@ -68,7 +68,7 @@ taggen din er bytt.
 1. Rett etter innlogging kjem eit banner: **Slå på varsel**. Trykk der.
 2. Telefonen spør om løyve. Vel **Tillat**.
 
-Trykte du «Ikkje no»? Trykk på namnet ditt øvst og vel **Slå på varsel**.
+Trykte du «Ikkje no»? Opne **Mi side** (namnet ditt øvst) og vel **Slå på varsel**.
 
 ## 4. Slik brukar du appen
 
@@ -134,7 +134,7 @@ Spelarar utan tag er ikkje med. Alle reglane står under **Reglar** i appen:
 
 - På iPhone: opne appen frå **heimeskjermen**, ikkje Safari, og slå på varsel der.
 - Sjekk at varsel er tillate for appen i innstillingane på telefonen.
-- Trykk på namnet ditt øvst og sjå om det står at varsel er på.
+- Opne **Mi side** (namnet ditt øvst) og sjå om det står at varsel er på.
 
 ### Appen ser gammal ut, eller manglar noko nytt
 
