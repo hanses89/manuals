@@ -780,7 +780,7 @@
 <p>For spelarane i Kvam Frisbeegolf. Same tekst ligg inne i appen på
 <a href="https://bagtag.kvamdgs.no/#/hjelp">bagtag.kvamdgs.no/#/hjelp</a>, og på
 <a href="https://manuals.hanses.no/bagtag/">manuals.hanses.no</a>.</p>
-<!-- Synka til hanses89/manuals. Endrar du noko her, endre viewHelp i public/app.js òg. -->
+<!-- Einaste kjelde: synka til hanses89/manuals, og servert som HTML til Hjelp-sida i appen (src/manual.js). -->
 
 <h2 id="kva-appen-gjer">Kva appen gjer<a class="headerlink" href="#kva-appen-gjer" title="Permanent link">&para;</a></h2>
 <p>Appen held styr på bagtagane i klubben. Etter ein runde reknar han ut kven som
@@ -852,28 +852,15 @@ kva tag dei hadde før. Trykk på ein tag for å sjå historikken: kven som har 
 nummeret, og kva nummer eigaren har hatt.</p>
 <h3 id="registrere-ein-runde">Registrere ein runde<a class="headerlink" href="#registrere-ein-runde" title="Permanent link">&para;</a></h3>
 <p>Etter runden trykkjer du <strong>Ny runde</strong>:</p>
-<table>
-<thead>
-<tr>
-<th>Val</th>
-<th>Kva du gjer</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Casual</strong> (standard)</td>
-<td>Kryss av dei som spelte, og skriv inn totalt tal kast, t.d. frå UDisc. Søkjefeltet finn spelarar kjapt – skriv namn eller tag-nummer og trykk Enter. Du sjølv er alt kryssa av.</td>
-</tr>
-<tr>
-<td><strong>Metrix</strong></td>
-<td>Lim inn lenkja til konkurransen, t.d. vekesgolf.</td>
-</tr>
-<tr>
-<td><strong>PDGA</strong></td>
-<td>Lim inn lenkja til turneringa på pdga.com.</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Casual:</strong> Kryss av dei som spelte, og skriv inn totalt tal kast, t.d. frå
+UDisc. Søkjefeltet finn spelarar kjapt – skriv namn eller tag-nummer og trykk
+Enter. Du sjølv er alt kryssa av.</p>
+<div class="admonition note">
+<p class="admonition-title">Metrix og PDGA kjem</p>
+<p>Resultat frå ei Metrix-konkurranse eller ei PDGA-turnering kan hentast
+automatisk, men det er førebels berre admin som kan det, til vi har prøvt
+det skikkeleg. Spør admin, eller legg runden inn som casual.</p>
+</div>
 <p>Forslaget til nye tagar syner seg med ein gong, medan du skriv. <strong>Ingenting blir
 endra før nokon trykkjer «Utfør byte».</strong></p>
 <h3 id="stadfesting">Stadfesting<a class="headerlink" href="#stadfesting" title="Permanent link">&para;</a></h3>
@@ -883,7 +870,7 @@ endra før nokon trykkjer «Utfør byte».</strong></p>
 <li>Har nokon ikkje appen, kan dei stadfeste på telefonen til den som la inn
   runden: opne <strong>Ikkje installert appen? Stadfest her på same telefon</strong> og
   skrive sitt eige Metrix-passord.</li>
-<li>Resultat henta rett frå Metrix eller PDGA treng inga stadfesting.</li>
+<li>Resultat henta rett frå Metrix eller PDGA (admin) treng inga stadfesting.</li>
 </ul>
 <h3 id="utfre-bytet">Utføre bytet<a class="headerlink" href="#utfre-bytet" title="Permanent link">&para;</a></h3>
 <p>Når alle har stadfesta, trykkjer ein av dykk <strong>Utfør byte og oppdater Metrix</strong>.
