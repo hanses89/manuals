@@ -1,4 +1,4 @@
-# manuals.kvamdgs.no
+# manuals.hanses.no
 
 Brukarmanualar for appane, opne for alle – i motsetnad til
 [docs.hanses.no](https://docs.hanses.no), som er intern og teknisk.

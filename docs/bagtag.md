@@ -2,7 +2,7 @@
 
 For spelarane i Kvam Frisbeegolf. Same tekst ligg inne i appen på
 [bagtag.kvamdgs.no/#/hjelp](https://bagtag.kvamdgs.no/#/hjelp), og på
-[manuals.kvamdgs.no](https://manuals.kvamdgs.no/bagtag/).
+[manuals.hanses.no](https://manuals.hanses.no/bagtag/).
 
 <!-- Einaste kjelde: synka til hanses89/manuals, og servert som HTML til Hjelp-sida i appen (src/manual.js). -->
 
