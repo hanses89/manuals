@@ -1,0 +1,61 @@
+site_name: Brukarmanualar
+site_description: Brukarrettleiingar for appane til Kvam Frisbeegolf og Hanses.no
+site_url: https://manuals.hanses.no
+docs_dir: docs
+site_dir: site
+
+# Open for alle, i motsetnad til docs.hanses.no som er intern og teknisk.
+# Innhaldet blir synka hit frå kvart prosjekt sin docs/brukarmanual.md.
+
+theme:
+  name: material
+  language: nb
+  palette:
+    - scheme: default
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Byt til mørk modus
+    - scheme: slate
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Byt til lys modus
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - search.share
+    - content.tabs.link
+    - content.code.copy
+
+nav:
+  - Start: index.md
+  - Bagtag (Kvam Frisbeegolf): bagtag.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+
+extra:
+  generator: false
+
+copyright: "© 2026 Kvam Frisbeegolf"

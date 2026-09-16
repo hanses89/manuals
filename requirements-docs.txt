@@ -1,0 +1,5 @@
+# Same versjonskapping som docs.hanses.no: eit major-release skal ikkje kunne
+# bryte deployen av seg sjølv.
+mkdocs-material>=9.5,<10
+mkdocs>=1.6,<2
+pymdown-extensions>=10.7,<11
