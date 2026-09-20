@@ -180,6 +180,10 @@ for ein time sidan. **Lagre versjon** gjer det same med ein gong.
     Loggar du inn, er det serveren som hugsar for deg. Set du deg ved ei anna
     maskin, kjem banen du jobba med sist opp av seg sjølv.
 
+Har du fleire baner på serveren, står dei i same panelet under **Andre baner
+på serveren**. Trykk *Opne* for å byte. Den du har oppe blir lagra først, så
+du mistar ingenting.
+
 Står det at lagringa ikkje gjekk gjennom, ligg arbeidet likevel trygt i
 nettlesaren. Neste endring prøver på nytt.
 
