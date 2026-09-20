@@ -19,6 +19,11 @@ OB er objekt du plasserer sjølv, så ingenting blir gjetta.
 5. **Vel ein mal** – *Malar*. Trykk **Bruk på alle hull**.
 6. **Eksporter** – *Generer alt*, eller *Eksport* om du vil styre formata sjølv.
 
+!!! tip "Logg inn om du vil ha banen på fleire maskiner"
+    Appen verkar utan innlogging - alt blir lagra i nettlesaren. Loggar du
+    inn, blir banen lagra på serveren i tillegg, og kvar lagring legg igjen ein
+    versjon du kan gå tilbake til. Sjå [Ta vare på arbeidet](#ta-vare-pa-arbeidet).
+
 !!! tip "Demoen er der for å utforskast"
     Appen startar med **Kvam Disc Golf Course** ferdig utfylt – 18 hull og fire
     layouts. Klikk deg rundt i den før du lagar din eigen bane, så ser du
@@ -142,23 +147,51 @@ Forhåndsvisninga i midten viser faktisk papirstorleik, så du ser kva du får.
 
 ## Ta vare på arbeidet
 
-Prosjektet blir lagra automatisk i nettlesaren din medan du jobbar.
+Arbeidet ditt ligg to stader, og dei har kvar sin jobb.
 
-På *Oversikt* finn du panelet **Lagring og sikkerhetskopi**. Der ser du om
-lagringa er varig, kor mykje plass banen brukar, og dei siste kopiane.
+### I nettlesaren
+
+Prosjektet blir lagra automatisk i nettlesaren medan du jobbar - òg når du er
+utan dekning. På *Oversikt* finn du panelet **Lagring og sikkerhetskopi**. Der
+ser du om lagringa er varig, kor mykje plass banen brukar, og dei siste
+kopiane.
 
 Appen tek ein kopi ved oppstart, kvart tiande minutt, og alltid før du byter
 prosjekt. Dei 12 siste blir tekne vare på, og kvar av dei kan hentast tilbake
-med eitt klikk – det du har no blir lagra som ein ny kopi først, så du kan
+med eitt klikk - det du har no blir lagra som ein ny kopi først, så du kan
 angre.
 
 !!! warning "Kopiane ligg i same nettlesar"
     Dei bergar deg frå ei uheldig endring, men ikkje frå at du tømmer
     nettlesardata eller byter maskin.
 
-    **Last ned prosjektfila** med jamne mellomrom – knappen står i same panel.
-    Fila inneheld *alt*: hull, kart, bilete og malar. **Importer** les ho
-    tilbake.
+### På serveren
+
+Ved sida av ligg panelet **Server**. Loggar du inn, blir banen lagra på
+serveren medan du jobbar - og då finst han att på ei anna maskin.
+
+Panelet viser kven som er innlogga, om alt er lagra, og versjonslista. **Kvar
+full lagring legg igjen ein versjon**, så du kan gå tilbake til slik banen sto
+for ein time sidan. **Lagre versjon** gjer det same med ein gong.
+
+!!! tip "Du treng ikkje logge inn"
+    Appen verkar utan. Då ligg banen berre i denne nettlesaren.
+
+    Loggar du inn, er det serveren som hugsar for deg. Set du deg ved ei anna
+    maskin, kjem banen du jobba med sist opp av seg sjølv.
+
+Står det at lagringa ikkje gjekk gjennom, ligg arbeidet likevel trygt i
+nettlesaren. Neste endring prøver på nytt.
+
+Rekkjefølgja er med vilje: nettlesaren først, serveren etterpå. Du skal kunne
+teikne ferdig eit hòl ute på banen utan dekning, og finne det att når du kjem
+heim.
+
+### Prosjektfila
+
+**Last ned prosjektfila** med jamne mellomrom. Fila inneheld *alt*: hol, kart,
+bilete og malar. **Importer** les ho tilbake. Det er ho du sender til nokon
+andre.
 
 ## Nyttige triks
 
