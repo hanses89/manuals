@@ -41,6 +41,7 @@ nav:
   - Bagbyggjar: hjelp.md
   - Flightbane: flight.md
   - Fadderordning: fadder.md
+  - Banedesign: banedesign.md
 
 markdown_extensions:
   - admonition
