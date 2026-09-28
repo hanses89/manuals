@@ -55,10 +55,18 @@ lagra, og du held deg innlogga til du loggar ut.
     passord* og lag eit. Du kan framleis logge inn med Google eller Facebook på
     Metrix etterpå.
 
-**«Hald Metrix-innlogginga mi»** lèt appen byte tag *som deg* i Metrix, så bytet
-hamnar i historikken din der, og du slepp å skrive passordet på nytt.
-Innlogginga blir lagra kryptert og sletta når du loggar ut. Du kan slå det av
-seinare: opne **Mi side** (namnet ditt øvst) og vel **Gløym Metrix-innlogginga**.
+**«Hald Metrix-innlogginga mi»** er kryssa av på førehand, og bør stå slik. Då
+byter appen tag *som deg* i Metrix, så bytet hamnar i historikken din der med
+éi linje, og du slepp å skrive passordet på nytt. Utan det gjer klubben sin
+admin-konto bytet, og Metrix loggar det ikkje – då må det ryddast opp i
+etterkant. Innlogginga blir lagra kryptert og sletta når du loggar ut. Du kan
+slå det av seinare: opne **Mi side** (namnet ditt øvst) og vel **Gløym
+Metrix-innlogginga**.
+
+!!! note "«Tag-bytet ditt manglar i Metrix»"
+    Får du eit slikt varsel, eller eit banner øvst i appen, tyder det at taggen
+    din er rett, men at sjølve bytet ikkje står i Metrix sin historikk. Logg inn
+    med Metrix-passordet, så ordnar appen resten sjølv.
 
 ## 3. Slå på varsel
 
