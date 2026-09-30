@@ -22,13 +22,18 @@ Du treng **ingen konto**. Alt som står her kan kven som helst sjå.
 ## Bli med i konkurransane
 
 Runden er gratis. Vil du vere med i CTP eller ace pot, vippsar du til klubben
-**før eller under runden**:
+**før runden startar**:
 
 | Du vippsar | Melding | Kva du er med på |
 |---|---|---|
 | 25 kr | `CTP` | CTP-konkurransen |
 | 25 kr | `ACE` | Ace potten |
 | 50 kr | (uansett) | Begge to |
+
+!!! warning "Du må vippse før runden startar"
+    Er du ikkje betalt når første kast går, er du ikkje med den runden. CTP-en
+    blir gjord opp same kveld, og ein pott som blir større etter at nokon har
+    vunne han er ingen pott.
 
 !!! warning "Meldinga avgjer kva du er med på"
     Står det ingenting i meldinga på ein 25-lapp, veit vi ikkje kva du ville
@@ -102,8 +107,8 @@ synleg i historikken.
 Nei. Runden er gratis. Innbetalinga gjeld berre CTP og ace pot.
 
 **Kan eg vippse etter runden?**
-Ja, men gjer det same kveld. CTP-en blir betalt ut med ein gong, og då er den
-potten gjort opp.
+Nei. Betalinga må vere gjord før runden startar, elles er du ikkje med. CTP-en
+blir gjord opp same kveld.
 
 **Eg vippsa, men står ikkje i potten.**
 Innbetalingane blir lagde inn etter runden, ikkje i sanntid. Er det gått eit
