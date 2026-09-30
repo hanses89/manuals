@@ -42,6 +42,7 @@ nav:
   - Flightbane: flight.md
   - Fadderordning: fadder.md
   - Banedesign: banedesign.md
+  - Vekesgolf: vekesgolf.md
 
 markdown_extensions:
   - admonition
