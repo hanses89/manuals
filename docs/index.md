@@ -10,6 +10,7 @@ ikkje logge inn for å lese dei.
 | [Bagbyggjar](hjelp.md) | Svar på kor langt du kastar og kva du manglar, og få framlegg til discar frå butikken |
 | [Flightbane](flight.md) | Sjå kastebanen til ein disc teikna, og samanlikn discar mot kvarandre |
 | [Fadderordning](fadder.md) | Adopter eit hol på banen, ta oppgåver på dugnad og gi tilbakemelding |
+| [Banedesign](banedesign.md) | Lag teesign, infoboard og caddybook for ein heil bane frå éi innlegging |
 | [Vekesgolf](vekesgolf.md) | Når neste runde er, kva som ligg i ace potten, og korleis du blir med i CTP |
 
 !!! tip "Manualen finst òg i appen"
