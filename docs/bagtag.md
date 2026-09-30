@@ -137,8 +137,9 @@ seg får varsel.
 
 ## 6. Reglane
 
-Best score får lågaste nummer blant dei som spelte. Lik score gir ingen bytte.
-Spelarar utan tag er ikkje med. Alle reglane står under **Reglar** i appen:
+Bagtaggen gjeld **berre på Kvam Disc Golf Course** – rundar på andre banar tel
+ikkje. Best score får lågaste nummer blant dei som spelte. Lik score gir ingen
+bytte. Spelarar utan tag er ikkje med. Alle reglane står under **Reglar** i appen:
 [bagtag.kvamdgs.no/#/reglar](https://bagtag.kvamdgs.no/#/reglar).
 
 ## Spørsmål og svar
