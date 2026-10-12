@@ -103,13 +103,17 @@ synleg i historikken.
 
 ## Korleis får eg premien?
 
-CTP-premien blir vanlegvis gjord opp i **kontantar same kvelden**. Er ikkje du
-der, eller passar det betre, kan klubben i staden kjøpe eit **gåvekort** til deg
-i nettbutikken på [kvamdgs.no](https://kvamdgs.no). Då treng den som registrerer
-vinnaren e-postadressa di, og butikken sender kortet dit når klubben har betalt.
+CTP-premien kjem som eit **gåvekort i nettbutikken** på
+[kvamdgs.no](https://kvamdgs.no). Klubben kjøper kortet, og butikken sender det
+til deg på e-post.
 
-Det kjem altså ikkje med ein gong — det ligg eit menneske og ei betaling
-imellom.
+Difor blir du spurd om e-postadressa di når du vinn. Har du handla i butikken
+før, finn vi henne oftast sjølve — men ikkje alle har det, og då er det greitt
+om du seier henne.
+
+Kortet kjem ikkje i same sekundet. Det ligg eit menneske og ei betaling
+imellom, så rekn med nokre dagar. Har det gått lang tid, sei frå til ein i
+styret.
 
 ## Vanlege spørsmål
 
