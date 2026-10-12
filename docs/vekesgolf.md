@@ -101,6 +101,16 @@ Er det noko som ser feil ut — ein vinnar som manglar, eit beløp som ikkje
 stemmer — sei frå til ein i styret. Alt kan rettast, og rettinga blir ståande
 synleg i historikken.
 
+## Korleis får eg premien?
+
+CTP-premien blir vanlegvis gjord opp i **kontantar same kvelden**. Er ikkje du
+der, eller passar det betre, kan klubben i staden kjøpe eit **gåvekort** til deg
+i nettbutikken på [kvamdgs.no](https://kvamdgs.no). Då treng den som registrerer
+vinnaren e-postadressa di, og butikken sender kortet dit når klubben har betalt.
+
+Det kjem altså ikkje med ein gong — det ligg eit menneske og ei betaling
+imellom.
+
 ## Vanlege spørsmål
 
 **Må eg betale for å spele?**
