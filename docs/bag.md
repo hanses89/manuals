@@ -84,8 +84,15 @@ Klumpar dei seg saman ein stad, har du fleire discar som gjer den same jobben.
 
 ## Flight paths
 
-Vel ut discar frå ein bag og sjå flygekurvene teikna oppå kvarandre. Nyttig når
-du skal samanlikne to discar som ligg nær kvarandre i flygetal.
+Vel ut discar frå ein bag og sjå flygekurvene teikna oppå kvarandre, sett
+ovanfrå med distanse i meter. Nyttig når du skal samanlikne to discar som ligg
+nær kvarandre i flygetal.
+
+Du kan velje hand (høgre/venstre), backhand eller forehand, kastefart
+(sakte/middels/hardt) og vinkel (hyzer/flat/anhyzer). Kurvene blir rekna ut med
+same modell som flight.kvamdgs.no og flight charten på kvamdgs.no, så ein disc
+ser lik ut på alle tre stadene. Har du lagt inn eigne flygetal på ein disc, er
+det dei som blir brukte.
 
 ## Manglar i samlinga
 
