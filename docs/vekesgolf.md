@@ -61,11 +61,11 @@ CTP-holet varierer frå runde til runde og står på framsida før kvar runde.
 - **Pott** – ace potten, forrige CTP-vinnar og dei siste vinnarane.
 - **Historikk** – alle spelte runder, gruppert på sesong.
 - **Hjul** – lykkehjulet som trekkjer ein premievinnar blant spelarane. Det blir
-  brukt under runden, når det er over ti påmeldte.
+  brukt under runden, når det er ti eller fleire påmeldte.
 
 ## Lykkehjulet
 
-Er det meir enn ti påmeldte, blir det trekt ein disk blant deltakarane. Hjulet
+Er det ti eller fleire påmeldte, blir det trekt ein disk blant deltakarane. Hjulet
 hentar spelarlista rett frå Metrix, så alle som faktisk spelte runden er med.
 
 Det er laga for å visast fram: trykk **Fullskjerm**, og snurr. Har du opna det
