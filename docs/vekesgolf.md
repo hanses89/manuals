@@ -71,6 +71,11 @@ hentar spelarlista rett frå Metrix, så alle som faktisk spelte runden er med.
 Det er laga for å visast fram: trykk **Fullskjerm**, og snurr. Har du opna det
 éin gong, virkar det jamvel om dekninga forsvinn.
 
+**Er du innlogga når du trekkjer, blir vinnaren lagra** og dukkar opp under
+«Disc-trekninger» på Historikk-sida. Hjulet seier det sjølv, under vinnarlista.
+Er du ikkje innlogga, går trekninga som før — ho blir berre ikkje hugsa, og då
+må du skrive henne inn etterpå under **Admin → Runder**, på raden «Disc».
+
 ## Lyst eller mørkt
 
 Knappen oppe til høgre har tre stillingar:
