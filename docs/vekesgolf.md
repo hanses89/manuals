@@ -29,6 +29,13 @@ Runden er gratis. Vil du vere med i CTP eller ace pot, vippsar du til klubben
 | 25 kr | `CTP` | CTP-konkurransen |
 | 25 kr | `ACE` | Ace potten |
 | 50 kr | (uansett) | Begge to |
+| 100, 150, 200 … | (la stå tom) | Begge to, for fleire personar |
+
+!!! merk "Betaler du for fleire, la meldinga stå tom"
+    Vippsar du 100 for deg og ein kamerat, blir beløpet delt likt mellom
+    pottane av seg sjølv. Skriv du `ACE` eller `CTP` på eit slikt beløp, blir
+    innbetalinga liggjande til nokon tek stilling til henne — for då er det
+    uklart om du meinte to personar på begge pottane eller fire på éi.
 
 !!! warning "Du må vippse før runden startar"
     Er du ikkje betalt når første kast går, er du ikkje med den runden. CTP-en
