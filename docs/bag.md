@@ -16,7 +16,9 @@ nettbrett og PC.
 1. Gå til [bag.kvamdgs.no](https://bag.kvamdgs.no).
 2. Vel **Fortsett med Google**, eller lag ein konto med e-post og passord.
    Lagar du konto med e-post, får du ei stadfestingslenkje på e-post som du må
-   klikke på før du kjem inn.
+   klikke på før du kjem inn. Kjem ikkje e-posten, sjekk søppelpost, eller
+   trykk **Send lenken på nytt**. Knappen dukkar opp etter registreringa, og
+   når du prøver å logge inn før adressa er stadfesta.
 3. Første gongen får du ein kort intro. Du kan hoppe over han – rett etterpå
    blir du beden om å lage den første baggen din.
 
