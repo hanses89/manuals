@@ -86,6 +86,10 @@ Framsida syner alle 50 tagane: kven som har dei, Metrix-rating, PDGA-rating og
 kva tag dei hadde før. Trykk på ein tag for å sjå historikken: kven som har hatt
 nummeret, og kva nummer eigaren har hatt.
 
+Begge ratingane er lenker: Metrix-ratinga til spelarprofilen på Metrix,
+PDGA-ratinga til spelarsida på PDGA. Står eit tal utan lenke, har appen ikkje
+funne spelaren der endå – sei det til ein admin, så kan det koplast manuelt.
+
 Lista blir henta frå Metrix, og ho held seg fersk av seg sjølv: appen hentar ho
 på nytt kvar gong du opnar han eller byter attende til han, og medan han står
 framme. Har nokon bytt tag direkte i Metrix, dukkar det opp innan eit halvt
