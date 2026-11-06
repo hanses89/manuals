@@ -55,6 +55,11 @@ For kvar disc kan du setje:
 | Legg i bag | Kva bag disken skal liggje i |
 | Bilde og notat | Valfritt, til dømes «slitt kant, hyzer-disk» |
 
+Biletet ditt gjeld berre din disk og blir vist i staden for katalogbiletet
+overalt: i **Mine disker**, på dashboardet og inne i baggen. Katalogen sjølv
+held på standardbiletet. Legg du til ein disk frå **Kjøpt i butikken**, får han
+biletet av akkurat den disken du kjøpte.
+
 !!! info "Å eige ein disc og å ha han i baggen er to ulike ting"
     Ein disc du eig treng ikkje liggje i ein bag, og den same disken kan liggje
     i fleire bagger. Difor kan talet i **Mine disker** vere høgare enn talet i
