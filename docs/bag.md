@@ -109,14 +109,16 @@ stad å starte når du lurer på kva du bør kjøpe neste gong.
 
 ## Profil
 
-Under **Profil** fyller du ut namn, brukarnamn, kort om deg sjølv, lokasjon og
-heimebane. I tillegg kan du:
+Under **Profil** trykkjer du **Rediger** for å fylle ut namn, brukarnamn, kort
+om deg sjølv, lokasjon, heimebane, sosiale medium, land og kor langt du kastar
+backhand og forehand. I tillegg kan du:
 
 - **PDGA-oppslag** – søk opp namnet ditt og knyt PDGA-nummeret til profilen, så
   blir ratinga vist.
 - **Bagtag** – slå opp bagtag-lista til klubben, vel namnet ditt i lista, og få
   taggen og bagtag-historikken din på profilen.
-- **Sosiale medium og land** – valfritt, blir vist på den offentlege profilen.
+- **Sosiale medium** – lenkjene blir viste som ikon på den offentlege profilen.
+  Har du ikkje lagt inn nokon, finn du **+ Legg til sosiale medium** på profilen.
 
 ## Dele bag og profil
 
@@ -143,9 +145,14 @@ kommentarar, likes og følgjarar.
 
 ## Innstillingar
 
-Bak namnet ditt oppe til høgre ligg **Innstillinger**, der du set visningsnamn
-(det som blir vist i feeden og når du deler bagen), sosiale medium, land og
-e-post. Same stad loggar du ut.
+Bak namnet ditt nede i menyen ligg **Innstillinger**. Under **Preferanser**
+vel du om andre kan bla i discane dine, og om grafane skal snuast for
+venstrehendt kasting. Under **Konto** ser du e-posten din. Same stad loggar du
+ut. Alt som blir vist på profilen, endrar du under **Profil → Rediger**.
+
+Kvar side har si eiga adresse, til dømes `bag.kvamdgs.no/disker` og
+`bag.kvamdgs.no/baggar/namnet-pa-bagen`. Lastar du sida på nytt, blir du
+verande der du var, og tilbake-knappen går til førre side i appen.
 
 ## Om noko ikkje verkar
 
