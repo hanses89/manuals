@@ -68,7 +68,8 @@ CTP-holet varierer frå runde til runde og står på framsida før kvar runde.
 - **Pott** – ace potten, forrige CTP-vinnar og dei siste vinnarane.
 - **Historikk** – alle spelte runder, gruppert på sesong.
 - **Hjul** – lykkehjulet som trekkjer ein premievinnar blant spelarane. Det blir
-  brukt under runden, når det er ti eller fleire påmeldte.
+  brukt under runden, når det er ti eller fleire påmeldte. **Krev innlogging** —
+  lenka står i botnfeltet når du er logga inn.
 
 ## Lykkehjulet
 
@@ -78,10 +79,17 @@ hentar spelarlista rett frå Metrix, så alle som faktisk spelte runden er med.
 Det er laga for å visast fram: trykk **Fullskjerm**, og snurr. Har du opna det
 éin gong, virkar det jamvel om dekninga forsvinn.
 
-**Er du innlogga når du trekkjer, blir vinnaren lagra** og dukkar opp under
-«Disc-trekninger» på Historikk-sida. Hjulet seier det sjølv, under vinnarlista.
-Er du ikkje innlogga, går trekninga som før — ho blir berre ikkje hugsa, og då
-må du skrive henne inn etterpå under **Admin → Runder**, på raden «Disc».
+**Hjulet krev innlogging**, og det er dei same få i klubben som kan registrere
+vinnarar som kan halde trekninga. Det var ope før, og då kunne kven som helst
+spinne og få ein vinnar på skjermen.
+
+Vinnaren blir lagra av seg sjølv og dukkar opp under «Disc-trekninger» på
+Historikk-sida. Hjulet seier det under vinnarlista. Står det at du ikkje kan
+halde trekninga, er du innlogga men ikkje i skrivarlista — sei frå til ein i
+styret.
+
+Hjulet finn runda på Metrix sjølv, same kva eining du opnar han på. Du skal
+ikkje lenger måtte lime inn lenka.
 
 ## Lyst eller mørkt
 
