@@ -103,10 +103,15 @@ Etter runden trykkjer du **Ny runde**:
 UDisc. Søkjefeltet finn spelarar kjapt – skriv namn eller tag-nummer og trykk
 Enter. Du sjølv er alt kryssa av.
 
-!!! note "Metrix og PDGA kjem"
-    Resultat frå ei Metrix-konkurranse eller ei PDGA-turnering kan hentast
-    automatisk, men det er førebels berre admin som kan det, til vi har prøvt
-    det skikkeleg. Spør admin, eller legg runden inn som casual.
+!!! note "Turneringar kan hentast automatisk"
+    Resultat frå ei Metrix-konkurranse, ei PDGA-turnering eller ei
+    UDisc-turnering kan hentast med ei lenke, men det er førebels berre admin
+    som kan det, til vi har prøvt det skikkeleg. Spør admin, eller legg runden
+    inn som casual.
+
+    Casual rundar frå UDisc kan ikkje hentast: dei personlege scorekorta er
+    stengde for robotar, og spelarane står der med kallenamn som taglista ikkje
+    kjenner.
 
 Forslaget til nye tagar syner seg med ein gong, medan du skriv. **Ingenting blir
 endra før nokon trykkjer «Utfør byte».**
