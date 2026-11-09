@@ -111,6 +111,12 @@ Enter. Du sjølv er alt kryssa av.
 Forslaget til nye tagar syner seg med ein gong, medan du skriv. **Ingenting blir
 endra før nokon trykkjer «Utfør byte».**
 
+**Legg ved scorekortet.** På runde-sida kan den som la inn runden trykkje
+*Legg ved scorekortet* og velje eit skjermbilete frå UDisc eller eit foto av
+papirkortet. Appen les ingenting ut av biletet – det ligg der for at dei som
+skal stadfeste, kan samanlikne med kortet i staden for å hugse scoren frå
+banen. Biletet blir borte med runden om han blir sletta.
+
 ### Stadfesting
 
 Alle som får ny tag må stadfeste, så ingen kan skrive inn kva som helst:
@@ -119,6 +125,7 @@ Alle som får ny tag må stadfeste, så ingen kan skrive inn kva som helst:
 - Har nokon ikkje appen, kan dei stadfeste på telefonen til den som la inn
   runden: opne **Ikkje installert appen? Stadfest her på same telefon** og
   skrive sitt eige Metrix-passord.
+- Ligg scorekortet ved runden, bruk det: samanlikn tala før du trykkjer.
 - Resultat henta rett frå Metrix eller PDGA (admin) treng inga stadfesting.
 
 ### Utføre bytet
