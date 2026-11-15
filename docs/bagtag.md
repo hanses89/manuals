@@ -105,8 +105,12 @@ Enter. Du sjølv er alt kryssa av.
 
 !!! note "Turneringar kan hentast automatisk"
     Resultat frå ei Metrix-konkurranse, ei PDGA-turnering eller ei
-    UDisc-turnering kan hentast med ei lenke. Det er bagtag-admin som gjer det
-    – spør ein av dei, eller legg runden inn som casual.
+    UDisc-turnering kan hentast inn ferdig utfylte. Det er bagtag-admin som
+    gjer det – spør ein av dei, eller legg runden inn som casual.
+
+    Under **Metrix** ligg rundene i turneringa klare, nyaste først, så
+    vekesgolfrunden er eitt trykk unna. Andre konkurransar blir henta med ei
+    lenke.
 
     Casual rundar frå UDisc kan ikkje hentast: dei personlege scorekorta er
     stengde for robotar, og spelarane står der med kallenamn som taglista ikkje
