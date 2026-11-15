@@ -105,9 +105,8 @@ Enter. Du sjølv er alt kryssa av.
 
 !!! note "Turneringar kan hentast automatisk"
     Resultat frå ei Metrix-konkurranse, ei PDGA-turnering eller ei
-    UDisc-turnering kan hentast med ei lenke, men det er førebels berre admin
-    som kan det, til vi har prøvt det skikkeleg. Spør admin, eller legg runden
-    inn som casual.
+    UDisc-turnering kan hentast med ei lenke. Det er bagtag-admin som gjer det
+    – spør ein av dei, eller legg runden inn som casual.
 
     Casual rundar frå UDisc kan ikkje hentast: dei personlege scorekorta er
     stengde for robotar, og spelarane står der med kallenamn som taglista ikkje
@@ -131,7 +130,8 @@ Alle som får ny tag må stadfeste, så ingen kan skrive inn kva som helst:
   runden: opne **Ikkje installert appen? Stadfest her på same telefon** og
   skrive sitt eige Metrix-passord.
 - Ligg scorekortet ved runden, bruk det: samanlikn tala før du trykkjer.
-- Resultat henta rett frå Metrix eller PDGA (admin) treng inga stadfesting.
+- Eit uendra resultat henta rett frå Metrix, PDGA eller UDisc treng inga
+  stadfesting: kjelda er fasit.
 
 ### Utføre bytet
 
