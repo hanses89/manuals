@@ -45,7 +45,7 @@ Nedst på skjermen ligg tre knappar:
   å redigere ein bag, eller på **+** for å lage ein ny. Under baggane finn du
   snarvegar til **Alle disker**, **Ikke i bag** og **Tapt**. Deretter kjem
   sidene i appen (Dashboard, Feed, Flight paths og så vidare), søk og
-  **Innstillinger**.
+  **Innstillinger**. **📖 Brukarmanual** opnar denne manualen.
 - **Den gule knappen** byter mellom grafen og diskkorta når du er i ein bag.
 
 Når du opnar appen, kjem du rett til baggen du brukte sist, med grafen
@@ -208,4 +208,6 @@ verande der du var, og tilbake-knappen går til førre side i appen.
   om litt.
 - **Discar eller bagger som ikkje dukkar opp:** last sida på nytt. Appen hentar
   data frå nettet, så ei ustabil linje på banen kan gi tomme lister.
+- **Lurer du på korleis noko verkar?** Opne **📖 Brukarmanual** i menyen
+  (på PC: trykk på namnet ditt nedst til venstre).
 - **Framleis feil?** Sei frå i klubben, så ser vi på det.
