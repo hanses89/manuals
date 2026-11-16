@@ -32,6 +32,10 @@ nettbrett og PC.
 
 ## Menyen på mobil
 
+Øvst på skjermen ser du MyBag-logoen, bjølla for varsel og biletet ditt.
+Trykk på biletet for å kome til profilen din, eller på logoen for å gå
+tilbake til baggen.
+
 Nedst på skjermen ligg tre knappar:
 
 - **+** legg til ein disk.
