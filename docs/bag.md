@@ -22,11 +22,13 @@ nettbrett og PC.
 3. Første gongen får du ein kort intro. Du kan hoppe over han – rett etterpå
    blir du beden om å lage den første baggen din.
 
-!!! tip "Legg appen på heimeskjermen"
-    MyBag er ei nettside, ikkje ein app frå App Store eller Google Play. Bruk
-    **Del → Legg til på Hjem-skjerm** (iPhone) eller menyen ⋮ → **Legg til på
-    startsiden** (Android), så ligg han som eit ikon saman med dei andre appane
-    dine.
+!!! tip "Installer appen på telefonen"
+    MyBag ligg ikkje i App Store eller Google Play, men kan installerast rett
+    frå nettlesaren. På iPhone opnar du sida i Safari og vel **Del → Legg til
+    på Hjem-skjerm**. På Android vel du **Installer app** i menyen ⋮ i Chrome.
+    Då ligg MyBag som eit ikon saman med dei andre appane dine og opnar i
+    fullskjerm, utan adresselinje. Når det kjem ein ny versjon, får du ei
+    melding nede på skjermen. Trykk **Oppdater** for å ta henne i bruk.
 
 ## Lag ein bag
 
