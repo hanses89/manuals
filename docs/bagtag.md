@@ -95,6 +95,28 @@ på nytt kvar gong du opnar han eller byter attende til han, og medan han står
 framme. Har nokon bytt tag direkte i Metrix, dukkar det opp innan eit halvt
 minutt. Vil du vere heilt sikker, trykk **Oppdater**.
 
+### Live: kva du ligg an til midt i runden
+
+Medan ein runde går, kjem det eit kort øvst på taglista: *«16. Runde går no»*,
+med taggen du sjølv ligg an til. Trykk på det, og du får heile stillinga.
+
+Lista syner kva tag kvar spelar får **om alt blir ståande slik det er no**, kor
+mange hol kvar har spelt, og di eiga rad uthevd. Ho hentar seg sjølv kvart
+halvminutt, så du kan la sida ligge framme.
+
+!!! note "Ingenting er avgjort her"
+    Live er berre ei utrekning av stillinga. Taggane byter først når runden blir
+    henta inn og **utført** etterpå, på vanleg måte.
+
+Medan spelarane står på ulike hol, blir dei rangerte på score **til par**. Det
+er einaste måten å samanlikne nokon som har spelt ni hol med nokon som har
+spelt femten. Sida seier sjølv kor mykje rekkjefølgja er verdt: står alle på
+same holet, er ho reell; gjer dei ikkje det, kan ho snu.
+
+Har nokon ikkje ført eit hol endå, står namnet deira oppført for seg. Dei er
+ikkje med i fordelinga før første holet er inne – og då flyttar dei alle under
+seg.
+
 ### Registrere ein runde
 
 Etter runden trykkjer du **Ny runde**:
