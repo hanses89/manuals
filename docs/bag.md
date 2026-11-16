@@ -30,6 +30,22 @@ nettbrett og PC.
     fullskjerm, utan adresselinje. Når det kjem ein ny versjon, får du ei
     melding nede på skjermen. Trykk **Oppdater** for å ta henne i bruk.
 
+## Menyen på mobil
+
+Nedst på skjermen ligg tre knappar:
+
+- **+** legg til ein disk.
+- **Midtknappen** viser kva bag eller side du er på. Trykk på han for å opne
+  menyen. Øvst ser du baggane dine, og den du er i, er gul. Trykk på **⋮** for
+  å redigere ein bag, eller på **+** for å lage ein ny. Under baggane finn du
+  snarvegar til **Alle disker**, **Ikke i bag** og **Tapt**. Deretter kjem
+  sidene i appen (Dashboard, Feed, Flight paths og så vidare), søk og
+  **Innstillinger**.
+- **Den gule knappen** byter mellom grafen og diskkorta når du er i ein bag.
+
+Når du opnar appen, kjem du rett til baggen du brukte sist, med grafen
+framme. Dashboardet finn du i menyen.
+
 ## Lag ein bag
 
 Trykk **+** eller **Ny bag** og gi baggen eit namn. Du kan ha fleire bagger –
@@ -96,6 +112,11 @@ i staden for å slette, så held historikken seg.
 Inne i ein bag finn du grafen som plottar discane etter fart og stabilitet.
 Klumpar dei seg saman ein stad, har du fleire discar som gjer den same jobben.
 
+På mobil fyller grafen heile skjermen. Trykk på den gule knappen nede til
+høgre for å sjå discane som kort i staden: bilete, flygetal og plastikk og
+vekt. Under **Valg** over korta legg du til nye discar, hentar discar frå
+samlinga, ser kva baggen manglar, eller vel alle.
+
 ## Flight paths
 
 Vel ut discar frå ein bag og sjå flygekurvene teikna oppå kvarandre, sett
@@ -157,8 +178,8 @@ vel du om andre kan bla i discane dine, og om grafane skal snuast for
 venstrehendt kasting. Under **Konto** ser du e-posten din. Same stad loggar du
 ut. Alt som blir vist på profilen, endrar du under **Profil → Rediger**.
 
-Kvar side har si eiga adresse, til dømes `bag.kvamdgs.no/disker` og
-`bag.kvamdgs.no/baggar/namnet-pa-bagen`. Lastar du sida på nytt, blir du
+Kvar side har si eiga adresse, til dømes `bag.kvamdgs.no/disker`,
+`bag.kvamdgs.no/dashboard` og `bag.kvamdgs.no/baggar/namnet-pa-bagen`. Lastar du sida på nytt, blir du
 verande der du var, og tilbake-knappen går til førre side i appen.
 
 ## Om noko ikkje verkar
