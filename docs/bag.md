@@ -176,6 +176,21 @@ bagger og innlegg dei skriv. Du kan like og kommentere, og på profilen til ein
 annan spelar trykkjer du **Følg**. Bjølla oppe til høgre viser varsel om nye
 kommentarar, likes og følgjarar.
 
+### Varsel på mobilen
+
+Etter at du har logga inn, spør appen om du vil ha varsel på mobilen. Trykk
+**Slå på varsler** og så **Tillat** når telefonen spør. Då får du eit varsel
+når nokon følgjer deg, likar eller kommenterer innlegga dine, eller taggar
+deg. Trykk på varselet for å kome rett til innlegget eller profilen. Vel du
+**Ikke nå**, kan du slå varsla på seinare under **Innstillinger →
+Preferanser**, der du òg slår dei av att.
+
+!!! note "iPhone"
+    På iPhone må MyBag vere lagt til på heimeskjermen før du kan få varsel
+    (sjå «Installer appen på telefonen» øvst). Har du sagt nei til varsel
+    tidlegare, må du slå dei på att under **Innstillingar → Varslingar →
+    MyBag** på telefonen.
+
 ## Innstillingar
 
 Bak namnet ditt nede i menyen ligg **Innstillinger**. Under **Preferanser**
