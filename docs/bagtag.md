@@ -97,8 +97,11 @@ minutt. Vil du vere heilt sikker, trykk **Oppdater**.
 
 ### Live: kva du ligg an til midt i runden
 
-Medan ein runde går, kjem det eit kort øvst på taglista: *«16. Runde går no»*,
-med taggen du sjølv ligg an til. Trykk på det, og du får heile stillinga.
+**Live** i menyen syner stillinga i runden som går i dag. Går det ingen runde,
+seier sida når den neste er.
+
+Medan ein runde går, kjem det i tillegg eit kort øvst på taglista: *«16. Runde
+går no»*, med taggen du sjølv ligg an til. Trykk på det, og du får same sida.
 
 Lista syner kva tag kvar spelar får **om alt blir ståande slik det er no**, kor
 mange hol kvar har spelt, og di eiga rad uthevd. Ho hentar seg sjølv kvart
