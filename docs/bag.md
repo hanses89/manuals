@@ -27,8 +27,9 @@ nettbrett og PC.
     frå nettlesaren. På iPhone opnar du sida i Safari og vel **Del → Legg til
     på Hjem-skjerm**. På Android vel du **Installer app** i menyen ⋮ i Chrome.
     Då ligg MyBag som eit ikon saman med dei andre appane dine og opnar i
-    fullskjerm, utan adresselinje. Når det kjem ein ny versjon, får du ei
-    melding nede på skjermen. Trykk **Oppdater** for å ta henne i bruk.
+    fullskjerm, utan adresselinje. Når det kjem ein ny versjon, dukkar det
+    opp eit gult banner øvst på skjermen. Trykk på banneret, så blir den nye
+    versjonen teken i bruk med ein gong.
 
 ## Menyen på mobil
 
