@@ -37,6 +37,11 @@ til dømes ein turneringsbag og ein til skogsrunden. I baggen kan du òg krysse
 av for utstyr som retriever, paraply og vassflaske, slik at totalvekta blir
 rett.
 
+Alle bagger får eit standardbilete som viser bagen med utstyret du har kryssa
+av. Vil du heller ha eit bilete av din eigen bag, trykkjer du på biletet på
+dashboardet og vel **Endre bag-bilde**. Då blir ditt bilete vist i staden,
+både for deg og på den offentlege profilen.
+
 ## Legg til discar
 
 Trykk **Legg til disk**. Då kan du:
