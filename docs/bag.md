@@ -64,8 +64,8 @@ Trykk **Legg til disk**. Då kan du:
 
 - **Søkje i diskdatabasen** – rundt 4 000 diskar. Skriv til dømes `Destroyer`,
   `Buzzz` eller `Berg`, og vel disken. Flygetala blir fylte inn automatisk.
-- **Fylle inn sjølv** – merke, modell, flygetal, plastikk og vekt, dersom
-  disken ikkje finst i katalogen.
+- **Finst han ikkje?** Trykk **Finst han ikkje? Foreslå han til katalogen**,
+  så kan du leggje han til når administrator har godkjent forslaget.
 
 For kvar disk kan du setje:
 
@@ -110,6 +110,8 @@ i staden for å slette, så held historikken seg.
 ## Speed vs. stabilitet
 
 Inne i ein bag finn du grafen som plottar diskane etter fart og stabilitet.
+Øvst står det kva side som er overstabil og understabil, og den stipla gule
+linja er 0 (rett). Er baggen tom, trykkjer du **+ Legg til første disk**.
 Klumpar dei seg saman ein stad, har du fleire diskar som gjer den same jobben.
 
 På mobil fyller grafen heile skjermen. Trykk på den gule knappen nede til
@@ -173,7 +175,8 @@ kommentarar, likes og følgjarar.
 
 ### Varsel på mobilen
 
-Etter at du har logga inn, spør appen om du vil ha varsel på mobilen. Trykk
+Når du har lagt inn dei første diskane, spør appen om du vil ha varsel på
+mobilen. Trykk
 **Slå på varsel** og så **Tillat** når telefonen spør. Då får du eit varsel
 når nokon følgjer deg, likar eller kommenterer innlegga dine, eller taggar
 deg. Trykk på varselet for å kome rett til innlegget eller profilen. Vel du
