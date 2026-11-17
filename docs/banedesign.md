@@ -79,6 +79,18 @@ raud er 360 m par 3 på det same hòlet.
 Skal du fylle inn mange hull, er *Bulk-redigering* raskare. Der kan du òg la
 appen **foreslå par** ut frå lengda, og fylle verdiar nedover.
 
+!!! tip "Har du ikkje kart enno?"
+    Gå ein runde med mobilen og ta eit punkt på kvar tee og kvar kurv.
+    **GPS** i *Bulk-redigering* tek imot ei GPX-fil eller ein innlimt tabell,
+    og teiknar hola i rett målestokk: tee og kurv på plass, holet snudd så det
+    peikar oppover, rett nord, og ei kastelinje du kan bende etterpå.
+
+    Du får skjelettet. Fairway, tre og OB teiknar du oppå.
+
+    GPS gir geometrien, ikkje talet på skiltet — ein mobil er nokre meter
+    unna. Lengda du har tasta blir ståande, men appen seier frå om ho avvik
+    mykje frå det han reknar seg til.
+
 !!! tip "Har du tala i eit rekneark alt?"
     Då treng du ikkje taste dei om att. **Lim inn tabell** i
     *Bulk-redigering* tek imot det du kopierer frå Excel, Google Sheets eller
