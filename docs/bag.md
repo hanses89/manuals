@@ -1,6 +1,6 @@
-# MyBag – brukarmanual
+# BagBuilder – brukarmanual
 
-MyBag er bag-byggjaren til Kvam Disc Golf: du registrerer diskane du eig, set
+BagBuilder er bag-byggjaren til Kvam Disc Golf: du registrerer diskane du eig, set
 dei saman i baggar, ser kva baggen dekkjer og kva han manglar, og kan dele
 baggen med andre. Appen ligg på
 [bag.kvamdgs.no](https://bag.kvamdgs.no) og fungerer i nettlesaren på mobil,
@@ -18,17 +18,17 @@ nettbrett og PC.
    blir du beden om å lage den første baggen din.
 
 !!! tip "Installer appen på telefonen"
-    MyBag ligg ikkje i App Store eller Google Play, men kan installerast rett
+    BagBuilder ligg ikkje i App Store eller Google Play, men kan installerast rett
     frå nettlesaren. På iPhone opnar du sida i Safari og vel **Del → Legg til
     på Hjem-skjerm**. På Android vel du **Installer app** i menyen ⋮ i Chrome.
-    Då ligg MyBag som eit ikon saman med dei andre appane dine og opnar i
+    Då ligg BagBuilder som eit ikon saman med dei andre appane dine og opnar i
     fullskjerm, utan adresselinje. Når det kjem ein ny versjon, dukkar det
     opp eit gult banner øvst på skjermen. Trykk på banneret, så blir den nye
     versjonen teken i bruk med ein gong.
 
 ## Menyen på mobil
 
-Øvst på skjermen ser du MyBag-logoen, bjølla for varsel og biletet ditt.
+Øvst på skjermen ser du BagBuilder-logoen, bjølla for varsel og biletet ditt.
 Trykk på biletet for å kome til profilen din, eller på logoen for å gå
 tilbake til baggen.
 
@@ -184,10 +184,10 @@ deg. Trykk på varselet for å kome rett til innlegget eller profilen. Vel du
 Preferansar**, der du òg slår dei av att.
 
 !!! note "iPhone"
-    På iPhone må MyBag vere lagt til på heimeskjermen før du kan få varsel
+    På iPhone må BagBuilder vere lagt til på heimeskjermen før du kan få varsel
     (sjå «Installer appen på telefonen» øvst). Har du sagt nei til varsel
     tidlegare, må du slå dei på att under **Innstillingar → Varslingar →
-    MyBag** på telefonen.
+    BagBuilder** på telefonen.
 
 ## Innstillingar
 
