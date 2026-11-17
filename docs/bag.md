@@ -42,6 +42,7 @@ Nedst på skjermen ligg tre knappar:
   sidene i appen (Dashboard, Feed, Flight paths og så vidare), søk og
   **Innstillingar**. **📖 Brukarmanual** opnar denne manualen.
 - **Den gule knappen** byter mellom grafen og diskkorta når du er i ein bag.
+  Teksten under ikonet seier kva du byter til («Kort» eller «Graf»).
 
 Når du opnar appen, kjem du rett til baggen du brukte sist, med grafen
 framme. Dashboardet finn du i menyen.
