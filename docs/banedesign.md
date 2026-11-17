@@ -79,6 +79,16 @@ raud er 360 m par 3 på det same hòlet.
 Skal du fylle inn mange hull, er *Bulk-redigering* raskare. Der kan du òg la
 appen **foreslå par** ut frå lengda, og fylle verdiar nedover.
 
+!!! tip "Har du tala i eit rekneark alt?"
+    Då treng du ikkje taste dei om att. **Lim inn tabell** i
+    *Bulk-redigering* tek imot det du kopierer frå Excel, Google Sheets eller
+    UDisc.
+
+    Kolonnar som heiter det same som layoutane dine blir lesne som lengde, og
+    ein kolonne som heiter **Par** gjeld alle. Appen viser korleis han har
+    tolka kvar kolonne før du importerer, og seier frå om det han ikkje
+    forstod.
+
 ## Vel ein mal
 
 *Malar* i menyen. Kvar mal er eit ferdig design. Trykk **Bruk på alle hull**,
@@ -140,6 +150,15 @@ For trykk kan du skru på **bleed** og **skjæremerke**. Skal du ha alle 18
 skilta, blir dei pakka i éi ZIP-fil.
 
 Forhåndsvisninga i midten viser faktisk papirstorleik, så du ser kva du får.
+
+### Skiltet i tre lag
+
+Under **Innhald** vel du kva som blir eksportert: **Komplett**, **Layout**
+(alt bortsett frå kartet, med kartflata open) eller **Kart** (berre kartet).
+
+Det gjer at designet kan vere ferdig før kartet finst. Du kan sende *Layout*
+til trykkeriet no og *Kart* etterpå — legg dei kartet nedst og layouten over,
+får dei det komplette skiltet.
 
 !!! tip "Har du det travelt?"
     *Generer alt* sjekkar banen for manglar og lagar heile settet – alle
