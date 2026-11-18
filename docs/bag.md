@@ -14,7 +14,12 @@ nettbrett og PC.
    klikke på før du kjem inn. Kjem ikkje e-posten, sjekk søppelpost, eller
    trykk **Send lenkja på nytt**. Knappen dukkar opp etter registreringa, og
    når du prøver å logge inn før adressa er stadfesta.
-3. Første gongen får du ein kort intro. Du kan hoppe over han – rett etterpå
+3. **Gløymt passordet?** Trykk **Gløymt passord?** under innloggingsknappen,
+   skriv e-postadressa di og trykk **Send lenkje**. Opne lenkja i e-posten
+   (ho varer i ein time), vel nytt passord to gonger og trykk **Lagre nytt
+   passord**. Då er du innlogga. Brukar du **Fortsett med Google**, har du
+   ikkje noko passord hos oss og treng ikkje dette.
+4. Første gongen får du ein kort intro. Du kan hoppe over han – rett etterpå
    blir du beden om å lage den første baggen din.
 
 !!! tip "Installer appen på telefonen"
@@ -174,6 +179,9 @@ baggar og innlegg dei skriv. Du kan like og kommentere, og på profilen til ein
 annan spelar trykkjer du **Følg**. Bjølla oppe til høgre viser varsel om nye
 kommentarar, likes og følgjarar.
 
+Kommentarane dine kan du slette med **Slett**. Har andre svart på kommentaren,
+står svara att, og kommentaren din blir vist som «[sletta]».
+
 ### Varsel på mobilen
 
 Når du har lagt inn dei første diskane, spør appen om du vil ha varsel på
@@ -205,6 +213,8 @@ verande der du var, og tilbake-knappen går til førre side i appen.
 
 - **«Under vedlikehald»** tyder at appen er teken ned ei lita stund. Prøv igjen
   om litt.
+- **«Noko gjekk gale»** tyder at ei side krasja. Trykk **Last på nytt**. Skjer
+  det rett etter ein ny versjon, lastar appen seg på nytt av seg sjølv.
 - **Diskar eller baggar som ikkje dukkar opp:** last sida på nytt. Appen hentar
   data frå nettet, så ei ustabil linje på banen kan gi tomme lister.
 - **Lurer du på korleis noko verkar?** Opne **📖 Brukarmanual** i menyen
