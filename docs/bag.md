@@ -185,6 +185,9 @@ baggar og innlegg dei skriv. Du kan like og kommentere, og på profilen til ein
 annan spelar trykkjer du **Følg**. Bjølla oppe til høgre viser varsel om nye
 kommentarar, likes og følgjarar.
 
+Skriv `@brukarnamn` for å nemne nokon, òg brukarnamn med bindestrek
+(til dømes `@hans-erik`). Dei får varsel.
+
 Kommentarane dine kan du slette med **Slett**. Har andre svart på kommentaren,
 står svara att, og kommentaren din blir vist som «[sletta]».
 
