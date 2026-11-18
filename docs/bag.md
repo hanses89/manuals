@@ -119,6 +119,8 @@ Inne i ein bag finn du grafen som plottar diskane etter fart og stabilitet.
 Øvst står det kva side som er overstabil og understabil, og den stipla gule
 linja er 0 (rett). Er baggen tom, trykkjer du **+ Legg til første disk**.
 Klumpar dei seg saman ein stad, har du fleire diskar som gjer den same jobben.
+Har du kryssa av for venstrehendt under **Innstillingar → Preferansar**, er
+grafen spegla, så den overstabile sida ligg til høgre.
 
 På mobil fyller grafen heile skjermen. Trykk på den gule knappen nede til
 høgre for å sjå diskane som kort i staden: bilete, flygetal og plastikk og
@@ -131,7 +133,8 @@ Vel ut diskar frå ein bag og sjå flygekurvene teikna oppå kvarandre, sett
 ovanfrå med distanse i meter. Nyttig når du skal samanlikne to diskar som ligg
 nær kvarandre i flygetal.
 
-Du kan velje hand (høgre/venstre), backhand eller forehand, kastefart
+Du kan velje hand (høgre/venstre – startar på det du har valt i
+**Innstillingar**), backhand eller forehand, kastefart
 (sakte/middels/hardt) og vinkel (hyzer/flat/anhyzer). Kurvene blir rekna ut med
 same modell som flight.kvamdgs.no og flight charten på kvamdgs.no, så ein disk
 ser lik ut på alle tre stadene. Har du lagt inn eigne flygetal på ein disk, er
@@ -140,7 +143,9 @@ det dei som blir brukte.
 ## Manglar i samlinga
 
 Gap-analysen ser på kva fartsområde og stabilitetar baggen dekkjer, og peikar på
-hòla – til dømes at du manglar noko understabilt i midrange. Det er ein god
+hòla – til dømes at du manglar noko understabilt i midrange. Forslaga følgjer
+kor langt du kastar (under **Profil → Rediger**) og blir oppdaterte når du
+legg til diskar. Det er ein god
 stad å starte når du lurer på kva du bør kjøpe neste gong.
 
 ## Profil
@@ -152,7 +157,8 @@ backhand og forehand. I tillegg kan du:
 - **PDGA-oppslag** – søk opp namnet ditt og knyt PDGA-nummeret til profilen, så
   blir ratinga vist.
 - **Bagtag** – slå opp bagtag-lista til klubben, vel namnet ditt i lista, og få
-  taggen og bagtag-historikken din på profilen.
+  taggen og bagtag-historikken din på profilen. Historikken krev at den som ser
+  på, er innlogga.
 - **Sosiale medium** – lenkjene blir viste som ikon på den offentlege profilen.
   Har du ikkje lagt inn nokon, finn du **+ Legg til sosiale medium** på profilen.
 
