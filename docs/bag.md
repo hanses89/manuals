@@ -8,7 +8,10 @@ nettbrett og PC.
 
 ## Kom i gang
 
-1. Gå til [bag.kvamdgs.no](https://bag.kvamdgs.no).
+1. Gå til [bag.kvamdgs.no](https://bag.kvamdgs.no). Under innlogginga (til
+   venstre på PC) ser du skjermbilete av det viktigaste i appen: bagkartet,
+   flight paths, «Manglar i samlinga» og dashboardet. På mobil kan du sveipe
+   mellom bileta.
 2. Vel **Fortsett med Google**, eller lag ein konto med e-post og passord.
    Lagar du konto med e-post, får du ei stadfestingslenkje på e-post som du må
    klikke på før du kjem inn. Kjem ikkje e-posten, sjekk søppelpost, eller
