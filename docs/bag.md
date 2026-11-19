@@ -228,6 +228,8 @@ verande der du var, og tilbake-knappen går til førre side i appen.
   om litt.
 - **«Noko gjekk gale»** tyder at ei side krasja. Trykk **Last på nytt**. Skjer
   det rett etter ein ny versjon, lastar appen seg på nytt av seg sjølv.
+  Feilen blir sendt til administrator av seg sjølv (feilmelding, side,
+  nettlesar og brukarnamnet ditt), så vi kan rette han.
 - **Diskar eller baggar som ikkje dukkar opp:** last sida på nytt. Appen hentar
   data frå nettet, så ei ustabil linje på banen kan gi tomme lister.
 - **Lurer du på korleis noko verkar?** Opne **📖 Brukarmanual** i menyen
