@@ -137,9 +137,39 @@ Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 
 ## Konkurransar
 
+### Meld deg på
+
+1. Opne konkurransen under **Konkurranser**, eller frå klubbsida.
+2. Trykk **Meld meg på**, og vel klasse om konkurransen har klassar.
+3. Er det fullt, kjem du på **venteliste**. Melder nokon seg av, rykkjer
+   den første på ventelista opp av seg sjølv.
+
+Du kan trykke **Meld meg av** heilt til konkurransen startar.
+
+### Før score i konkurranse
+
+Når konkurransen har starta, ser du **Din gruppe** med starthol og tid.
+
+1. Trykk **Åpne scorekortet**.
+2. Alle på kortet kan føre score på sin eigen telefon. Det de andre fører,
+   dukkar opp hos deg når telefonane har nett.
+3. Øvst på holet ser du **Kasterekkefølge**: den med lågast score på førre hol
+   kastar først.
+4. Når kortet er fullført, blir det låst. Ein feil må rettast av arrangøren.
+
+Alle kan følgje stillinga live på konkurransesida utan å logge inn.
+
+### Resultatlister
+
 Under **Konkurranser** ser du resultatlister. Dei som er merka
 **Importert fra DiscGolfMetrix** er henta frå Metrix. Har konkurransen fleire
 klassar, kan du filtrere på klasse.
+
+## Klubbar
+
+Under **Konkurranser → Klubber** finn du klubbane. Trykk **Bli medlem** for å
+bli med. På klubbsida ser du kunngjeringar, konkurransane til klubben og
+medlemene. Du kan òg opprette ein ny klubb.
 
 ## Rating
 
