@@ -143,9 +143,24 @@ klassar, kan du filtrere på klasse.
 
 ## Rating
 
-Sida **Rating** (via **Profil**) forklarer korleis DiscPulse Rating blir
-rekna ut, og har ein kalkulator for kva ein score gir i rating på ei bane.
-DiscPulse Rating er ikkje den offisielle Metrix-ratingen.
+DiscPulse Rating blir rekna ut kvar natt kl. 03:00 ut frå konkurranserundane
+dine. Ein runde tel når konkurransen hadde minst 10 spelarar og bana har
+rating. Du får rating etter tre slike rundar.
+
+Med konto finn du ratingen din øvst på **Profil**. Trykk **Se rating** for å sjå:
+
+- ratingen no og endringa sidan førre utrekning, og **Quick Rating** (dei siste
+  8 rundane);
+- ein graf over utviklinga, som du òg kan sjå som tabell;
+- kvar runde med rundens rating og om han **Teller**, ligg **Over 70 poeng unna**
+  eller er **Utenfor de siste 288 hull**.
+
+I resultatlistene ser du rundens rating, og du kan trykke på ein spelar for å sjå
+ratingen hans. Sida **Rating** forklarar utrekninga og har ein kalkulator.
+
+!!! note "Ikkje Metrix-ratingen"
+    DiscPulse Rating følgjer same metode som Metrix, men er rekna ut av DiscPulse.
+    Han er ikkje den offisielle Metrix-ratingen.
 
 ## Språk og tema
 
