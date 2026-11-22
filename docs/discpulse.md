@@ -5,9 +5,8 @@ følgje resultat. Han fungerer òg der det ikkje er mobildekning: alt du skriv
 inn blir lagra på telefonen med ein gong, og sendt vidare når du får nett att.
 
 !!! info "Appen er under utvikling"
-    Innlogging og spelarprofilar kjem seinare. Rundane dine blir lagra på
-    telefonen og synkroniserte utan namn på konto. Knappane i appen er på
-    bokmål.
+    Knappane i appen er på bokmål. Du kan føre score utan konto; med konto
+    blir rundane lagra på profilen din.
 
 ## Legg appen på heimeskjermen
 
@@ -91,6 +90,25 @@ som vanleg, òg om du lukkar appen eller lastar sida på nytt.
 
 Rundar du har spelt, finn du under **Siste runder** på heimesida og under
 **Profil → Mine runder**. Trykk på ein runde for å opne han att.
+
+## Konto
+
+Du treng ikkje konto for å føre score. Med konto blir rundane lagra på
+profilen din, og du ser dei frå alle einingane dine.
+
+1. Gå til **Profil** og trykk **Opprett konto**.
+2. Skriv namn, e-post og eit passord på minst 10 teikn.
+
+Rundar du alt har spelt på telefonen utan å vere innlogga, blir knytte til
+kontoen av seg sjølv neste gong appen synkroniserer. Den første spelaren i
+runden blir rekna som deg.
+
+Under **Profil** ser du **Runder på kontoen**, og der loggar du òg ut med
+**Logg ut**.
+
+!!! note "Gløymt passordet?"
+    Nullstilling av passord kjem seinare. Sei frå til ein administrator i
+    mellomtida.
 
 ## Baner
 
