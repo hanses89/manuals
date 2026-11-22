@@ -79,13 +79,16 @@ hentar spelarlista rett frå Metrix, så alle som faktisk spelte runden er med.
 Det er laga for å visast fram: trykk **Fullskjerm**, og snurr. Har du opna det
 éin gong, virkar det jamvel om dekninga forsvinn.
 
-**Hjulet krev innlogging**, og det er dei same få i klubben som kan registrere
-vinnarar som kan halde trekninga. Det var ope før, og då kunne kven som helst
-spinne og få ein vinnar på skjermen.
+**Hjulet krev innlogging.** Det var ope før, og då kunne kven som helst spinne
+og få ein vinnar på skjermen.
+
+To slags tilgang kan halde trekninga: dei som registrerer vinnarar, og dei som
+har fått tilgang til **berre hjulet**. Den siste finst for at ein ikkje skal
+måtte gje frå seg meir enn naudsynt for å la nokon snurre.
 
 Vinnaren blir lagra av seg sjølv og dukkar opp under «Disc-trekninger» på
 Historikk-sida. Hjulet seier det under vinnarlista. Står det at du ikkje kan
-halde trekninga, er du innlogga men ikkje i skrivarlista — sei frå til ein i
+halde trekninga, er du innlogga utan tilgang til hjulet — sei frå til ein i
 styret.
 
 Hjulet finn runda på Metrix sjølv, same kva eining du opnar han på. Du skal
