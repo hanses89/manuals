@@ -67,6 +67,25 @@ Fanene øvst:
   og rette.
 - **Stilling** – kven som leiar, målt mot par.
 
+## Kart og avstand
+
+Har bana GPS-punkt for tee og korg, ser du to ruter under holboksen:
+**Til tee** og **Til kurv**.
+
+1. Trykk **📍 Slå på GPS**. Telefonen spør om lov til å bruke posisjonen.
+2. Avstandane oppdaterer seg medan du går, med kompassretning og kor nøyaktig
+   GPS-en er (±).
+3. Til høgre står kor langt det er frå korga til **neste tee**.
+
+Fana **Kart** viser holet du står på og kvar du er. Kartet over bana blir lagra
+når du startar runden, så det fungerer òg utan dekning.
+
+GPS-en er av til du slår han på, for å spare batteri.
+
+!!! note "Manglar avstandar?"
+    Mange baner har enno ikkje GPS-punkt for hola. Då ser du berre kartet over
+    området.
+
 ## Fullfør runden
 
 På siste hol blir **Neste** til **Fullfør runden**. Knappen er grå til alle
