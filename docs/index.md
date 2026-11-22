@@ -12,6 +12,7 @@ ikkje logge inn for å lese dei.
 | [Fadderordning](fadder.md) | Adopter eit hol på banen, ta oppgåver på dugnad og gi tilbakemelding |
 | [Banedesign](banedesign.md) | Lag teesign, infoboard og caddybook for ein heil bane frå éi innlegging |
 | [Vekesgolf](vekesgolf.md) | Når neste runde er, kva som ligg i ace potten, og korleis du blir med i CTP |
+| [DiscPulse](discpulse.md) | Før score på runden – òg utan dekning – finn baner og følg resultat |
 
 !!! tip "Manualen finst òg i appen"
     Bagtag-manualen ligg inne i appen på

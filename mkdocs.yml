@@ -43,6 +43,7 @@ nav:
   - Fadderordning: fadder.md
   - Banedesign: banedesign.md
   - Vekesgolf: vekesgolf.md
+  - DiscPulse: discpulse.md
 
 markdown_extensions:
   - admonition
