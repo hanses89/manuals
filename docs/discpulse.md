@@ -56,6 +56,7 @@ rett til spelarane.
 | Førre hol | **‹ Forrige**, eller sveip mot høgre |
 | Angre | **↶ Angre** tek bort den siste endringa, éi om gongen |
 | Endre par på holet | **−** / **+** ved «Par» i holboksen |
+| OB | **+ OB** under spelaren. Straffeslaget blir lagt til scoren av seg sjølv, og kortet viser «OB ×1». Trykte du feil, tek **−** bort både OB-en og straffeslaget |
 
 Fargen på scoren viser resultatet: gul er ace, blå eagle, grøn birdie, grå par,
 oransje bogey og raud dobbel bogey eller verre.
@@ -125,6 +126,20 @@ runden blir rekna som deg.
 Under **Profil** ser du **Runder på kontoen**, og der loggar du òg ut med
 **Logg ut**.
 
+### Personvern
+
+Under **Profil → Personvern** styrer du dataa dine:
+
+- **Offentleg profil:** av som standard. Då ser berre du ratinga og rundane dine,
+  og du er ikkje med på rangeringa. Slå på for å vere synleg for alle.
+- **Last ned dataa dine:** alt DiscPulse lagrar om deg, som éi JSON-fil.
+- **Slett kontoen:** skriv passordet ditt, kryss av og trykk **Slett kontoen for
+  godt**. Kontoen, profilen, dei private rundane dine, klubbmedlemskap og
+  påmeldingar blir sletta, og offline-dataa på eininga blir fjerna. Resultat frå
+  konkurransar blir verande, men anonymt som «Slettet spiller», fordi dei er ein
+  del av resultata til andre spelarar og baneratinga. Er du einaste eigar av ein
+  klubb med andre medlemer, må du gi eigarskapen til nokon andre først.
+
 !!! note "Gløymt passordet?"
     Nullstilling av passord kjem seinare. Sei frå til ein administrator i
     mellomtida.
@@ -146,6 +161,19 @@ Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 
 Du kan trykke **Meld meg av** heilt til konkurransen startar.
 
+### Sjekk inn
+
+På konkurransedagen trykkjer du **Sjekk inn** på konkurransesida når du er på bana.
+Arrangøren kan lage gruppene berre av dei som har sjekka inn, så gløym det ikkje.
+Trykte du feil, trykk **Angre**.
+
+### Eige kort (flex start)
+
+Står det **Flex start** på konkurransen, lagar du kortet sjølv når du er klar:
+meld deg på (det går òg medan konkurransen pågår), kryss av medspelarane du vil
+gå saman med under **Lag ditt eget kort**, vel starthol og trykk **Lag kortet**.
+Medspelarane ser kortet med ein gong og kan føre score på det.
+
 ### Før score i konkurranse
 
 Når konkurransen har starta, ser du **Din gruppe** med starthol og tid.
@@ -159,17 +187,58 @@ Når konkurransen har starta, ser du **Din gruppe** med starthol og tid.
 
 Alle kan følgje stillinga live på konkurransesida utan å logge inn.
 
+### Gløymt å avslutte?
+
+Ein konkurranse som framleis står som «Pågår» 48 timar etter start, blir avslutta
+automatisk om natta. Opne kort blir då markerte som fullførte.
+
 ### Resultatlister
 
 Under **Konkurranser** ser du resultatlister. Dei som er merka
 **Importert fra DiscGolfMetrix** er henta frå Metrix. Har konkurransen fleire
-klassar, kan du filtrere på klasse.
+klassar, kan du filtrere på klasse. Resultatlista kan lastast ned som rekneark
+med **Last ned resultater (CSV)**.
 
 ## Klubbar
 
 Under **Konkurranser → Klubber** finn du klubbane. Trykk **Bli medlem** for å
 bli med. På klubbsida ser du kunngjeringar, konkurransane til klubben og
 medlemene. Du kan òg opprette ein ny klubb.
+
+For norske klubbar viser klubbsida òg organisasjonsnummer, organisasjonsform,
+kommune og nettside frå Einingsregisteret (Brønnøysund), når klubben er
+registrert der. Er diskgolfgruppa ein del av eit større idrettslag, står
+morsorganisasjonen oppført. Personopplysningar som styremedlemer, e-post og
+telefon blir ikkje henta.
+
+### Administrere ein importert klubb
+
+Klubbar som er henta frå DiscGolfMetrix, har ingen administrator i DiscPulse
+før nokon tek dei over. Er du styremedlem eller baneansvarleg, logg inn, opne
+klubbsida, trykk **Be om å administrere klubben**, skriv inn rolla di og trykk
+**Send førespurnad**.
+Ein administrator i DiscPulse (eller eigaren av klubben) godkjenner førespurnaden. Den
+første som blir godkjend, blir eigar; seinare godkjende blir administratorar.
+
+### Vekeliga
+
+Ein liga er ein serie med ein runde kvar veke. På ligasida ser du **neste runde**,
+**samanlagtlista**, **ace pot** og **terminlista**.
+
+- Trykk **Meld på / sjå runden** for å melde deg på veka.
+- Berre fullførte kort tel. Delte plassar får same poeng.
+- Ligaer med **handicap** rangerer på nettoscore: resultatet ditt minus snittet av
+  dei siste ligarundane dine. Den første runden din har ikkje handicap.
+- Tel berre dei beste rundane, er poenga som ikkje tel, overstrokne.
+- Får du hole-in-one (1 på scorekortet), vinn du heile ace-potten. DiscPulse
+  handterer ikkje pengar; potten er berre bokføring for arrangøren.
+
+## Rangering
+
+**Konkurranser → Rangering** viser DiscPulse-ratinga til alle offentlege spelarar,
+per land (Noreg, Sverige, Danmark, Finland eller alle). Frå klubbsida kan du sjå
+rangeringa for medlemene i klubben. Ratinga er rekna ut av DiscPulse etter same
+metode som Metrix, men er **ikkje** den offisielle Metrix-ratinga.
 
 ## Rating
 
