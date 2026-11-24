@@ -136,6 +136,13 @@ GPS-en er av til du slår han på, for å spare batteri.
 På siste hol blir **Neste** til **Fullfør runden**. Knappen er grå til alle
 spelarane har score på alle hola. Etterpå viser appen stillinga.
 
+## Slette ein runde
+
+Trykk **🗑** ved runden under **Siste rundar** og stadfest med **Slett**. Uformelle
+rundar og treningsrundar blir sletta både på telefonen og på serveren, òg utan dekning
+(serveren får beskjed når du er på nett igjen). Konkurransekort kan ikkje slettast,
+fordi dei er ein del av resultatlista; då fjernar knappen berre kortet frå telefonen din.
+
 ## Utan dekning
 
 Merket øvst til høgre viser om rundane er sende vidare:
@@ -285,6 +292,14 @@ Ein liga er ein serie med ein runde kvar veke. På ligasida ser du **neste runde
 - Tel berre dei beste rundane, er poenga som ikkje tel, overstrokne.
 - Får du hole-in-one (1 på scorekortet), vinn du heile ace-potten. DiscPulse
   handterer ikkje pengar; potten er berre bokføring for arrangøren.
+
+## Bagtag
+
+**Konkurransar → Bagtag** viser alle bagtag-listene frå Disc Golf Metrix. Søk på
+klubb, namn eller Metrix-nummer. På lista ser du kven som har kvar tag, ratinga deira,
+og kor mange plassar dei har flytta sidan førre byte (▲ er eit betre nummer). Metrix er
+alltid fasit; DiscPulse oppdaterer kopien jamleg. Har du ein tag, står han på
+spelarsida di.
 
 ## Rangering
 
