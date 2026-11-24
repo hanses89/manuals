@@ -27,6 +27,15 @@ iPhone tek betre vare på rundane du har lagra.
 
 ## Start ein runde
 
+På mobilen er startsida laga for å spele:
+
+- **Hald fram med runden** står øvst når du har ein runde som ikkje er fullført.
+- **Baner nær deg** viser dei næraste banane. Har du gitt appen lov til å bruke
+  posisjonen, kjem lista av seg sjølv. Trykk **▶ Spill** ved bana for å starte.
+- **Spel igjen** gir deg dei siste banane dine med eitt trykk.
+
+Du kan òg starte slik:
+
 1. Trykk på den grøne **Spill**-knappen midt i menyen nedst.
 2. Søk etter bana, eller trykk på 📍 for å sjå baner nær deg. Trykk på bana.
 3. Vel layout. Har bana berre éin, går appen rett vidare.
