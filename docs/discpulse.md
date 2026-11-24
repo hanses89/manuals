@@ -58,6 +58,17 @@ rett til spelarane.
 | Endre par på holet | **−** / **+** ved «Par» i holboksen |
 | OB | **+ OB** under spelaren. Straffeslaget blir lagt til scoren av seg sjølv, og kortet viser «OB ×1». Trykte du feil, tek **−** bort både OB-en og straffeslaget |
 
+### Statistikk
+
+Trykk **📊** øvst på scorekortet for å slå på statistikkmodus. Under di eiga rad
+(berre di) kjem det knappar for **Fairway**, **C1** og **C2** (nådde sirkelen i
+regulation, altså på par − 2 kast eller færre; C1 gjeld òg som C2) og talet på
+**putt**. Statistikken blir synka som scoren og fungerer offline.
+
+Under **Profil → Statistikken min** ser du fordelinga av birdie, par og bogey frå
+alle individuelle rundar, og fairway-, C1R- og C2R-prosent og putt per hol frå hola
+der du førte statistikk.
+
 ### Lagrunde (doubles)
 
 Vel **Format** når du startar runden: *Doubles – best shot*, *alternate shot* eller
