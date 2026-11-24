@@ -295,11 +295,27 @@ Ein liga er ein serie med ein runde kvar veke. På ligasida ser du **neste runde
 
 ## Bagtag
 
-**Konkurransar → Bagtag** viser alle bagtag-listene frå Disc Golf Metrix. Søk på
-klubb, namn eller Metrix-nummer. På lista ser du kven som har kvar tag, ratinga deira,
-og kor mange plassar dei har flytta sidan førre byte (▲ er eit betre nummer). Metrix er
-alltid fasit; DiscPulse oppdaterer kopien jamleg. Har du ein tag, står han på
+**Bagtag** (i menyen ☰ på mobil, i toppmenyen på PC) viser alle bagtag-listene frå Disc Golf Metrix. Søk på
+klubb, namn eller Metrix-nummer. På lista ser du alle tag-nummera (ledige er merkte «Ledig»), kven som har kvar tag, ratinga deira,
+og kva tag dei hadde då dei kom inn på lista («Første tag»). Metrix er
+alltid fasit; DiscPulse oppdaterer kopien jamleg. Namnet på lista blir henta frå
+Metrix-sida hennar (til dømes «Kvam Frisbeegolf»). Manglar det, blir lista vist med banen
+spelarane hennar spelar mest. Under lista ser du **Siste endringar** og
+**Reglar**. Trykk på eit nummer for å sjå kven som har hatt det, og kva nummer den
+som har det no, har hatt (norsk tid). Har du ein tag, står han på
 spelarsida di.
+
+## Søk og filter
+
+Alle søkefelt føreslår treff medan du skriv. Du treng ikkje skrive æ, ø, å eller andre
+aksentar: «olberg» finn Ølberg. Bruk piltastane og Enter, eller trykk på eit forslag.
+**🔎** øvst søkjer i banar, konkurransar, klubbar, spelarar og bagtag-lister samtidig.
+
+Under søkefeltet på **Baner**, **Konkurransar** og **Klubbar** finn du filter, til dømes
+land, tal på hol, «med kart», kommande, pågåande eller ferdige konkurransar og
+DiscPulse eller Metrix. Filtera kan kombinerast med søket.
+
+På mobil ligg **Rangering**, **Klubbar**, **Bagtag** og **Søk** i menyen **☰** øvst til høgre.
 
 ## Rangering
 
