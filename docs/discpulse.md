@@ -115,9 +115,11 @@ Fanene øvst:
 ## Kart og avstand
 
 Har bana GPS-punkt for tee og korg, ser du to ruter under holboksen:
-**Til tee** og **Til kurv**.
+**Til tee** og **Til korg**. Lengda på holet står i holboksen. Er lengda
+ikkje registrert, blir ho rekna ut frå tee og korg og vist med **≈**.
 
-1. Trykk **📍 Slå på GPS**. Telefonen spør om lov til å bruke posisjonen.
+1. GPS-en slår seg på av seg sjølv når bana har GPS-punkt. Telefonen spør om lov
+   til å bruke posisjonen første gong.
 2. Avstandane oppdaterer seg medan du går, med kompassretning og kor nøyaktig
    GPS-en er (±).
 3. Til høgre står kor langt det er frå korga til **neste tee**.
@@ -125,7 +127,11 @@ Har bana GPS-punkt for tee og korg, ser du to ruter under holboksen:
 Fana **Kart** viser holet du står på og kvar du er. Kartet over bana blir lagra
 når du startar runden, så det fungerer òg utan dekning.
 
-GPS-en er av til du slår han på, for å spare batteri.
+På fanene **Kart**, **Kort** og **Stilling** står holet, lengda og avstanden til
+korga i ei stripe øvst, så du ser avstanden heile tida.
+
+Vil du spare batteri, trykk **📍 GPS på** for å slå han av. Valet blir hugsa til
+neste runde.
 
 !!! note "Manglar avstandar?"
     Mange baner har enno ikkje GPS-punkt for hola. Då ser du berre kartet over
@@ -182,6 +188,20 @@ runden blir rekna som deg.
 Under **Profil** ser du **Runder på kontoen**, og der loggar du òg ut med
 **Logg ut**.
 
+### Kople til Metrix-profilen din
+
+Resultata dine frå Disc Golf Metrix ligg på ein eigen spelarprofil som er henta
+frå Metrix. Metrix deler ikkje e-postadresser, så DiscPulse kan ikkje vite av
+seg sjølv at profilen er din.
+
+1. Gå til **Profil → Metrix-profilen din**. Namnet ditt er alt fylt inn i søket.
+2. Finn profilen din. Talet på rundar og klubben hjelper deg å velje rett.
+3. Trykk **Dette er meg**, skriv gjerne ei melding og trykk **Send førespurnad**.
+
+Ein administrator sjekkar førespurnaden og godkjenner han. Då blir Metrix-profilen
+og kontoen din éin profil, med både Metrix-resultata og rundane du har ført i
+DiscPulse. Nye resultat frå Metrix kjem automatisk på same profil etterpå.
+
 ### Personvern
 
 Under **Profil → Personvern** styrer du dataa dine:
@@ -207,9 +227,13 @@ Under **Baner** kan du søkje på namn eller stad, eller trykke **Nær meg**.
 Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 **Ufullstendige data** manglar noko informasjon.
 
+Trykk **📍 Slå på GPS** over kartet på banesida for å sjå kvar du er i høve til
+bana. Under kartet står den næraste teen eller korga og kor langt unna ho er.
+
 ### Kvifor har ikkje alle banane kart?
 
-Posisjonen til ei bane kjem frå Disc Golf Metrix eller OpenStreetMap. Når
+Hola får kart frå Disc Golf Metrix når banen er kartlagd der, og frå
+OpenStreetMap. Posisjonen til sjølve bana kjem frå dei same kjeldene. Når
 ingen av dei har han, slår DiscPulse opp staden bana ligg på. Då står det
 **≈ Omtrentleg posisjon** på banesida, og avstanden i «Baner nær deg» har
 «≈» framfor. Kartet blir ikkje vist før hola er kartlagde.
@@ -375,6 +399,13 @@ ratingen hans. Sida **Rating** forklarar utrekninga og har ein kalkulator.
 3. På telefonen eller PC-en: gå til **Profil → Garmin-klokke**, skriv inn koden og
    trykk **Kople til**. Klokka koplar seg til av seg sjølv etter nokre sekund.
 4. Vel **Baner nær meg**, så banen og layouten.
+
+**Start runden på telefonen, før han på klokka.** Har du starta ein runde på
+telefonen (eller PC-en) i løpet av dei siste 12 timane, hentar klokka han sjølv
+når du opnar appen. Klokka står då på første hol utan score. Scoren du fører på
+klokka, kjem på same scorekort som på telefonen, og avsluttar du runden på
+telefonen, blir han avslutta på klokka òg. Klokka fører berre din eigen score.
+Medspelarar og lagspel førast på telefonen.
 
 På klokka aukar **OPP** scoren og **NED** senkar han. Den første trykken på eit
 tomt hol set par. **SELECT** går til neste hol, og **TILBAKE** går til førre. Hald
