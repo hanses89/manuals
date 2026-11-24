@@ -167,6 +167,13 @@ På konkurransedagen trykkjer du **Sjekk inn** på konkurransesida når du er p�
 Arrangøren kan lage gruppene berre av dei som har sjekka inn, så gløym det ikkje.
 Trykte du feil, trykk **Angre**.
 
+### Skjulte resultat
+
+Står det **🙈 Skjul resultat til slutt** på konkurransen, ser du ikkje dei andre sine
+score før konkurransen er ferdig. Du ser kven som spelar og kor mange hol dei har spelt.
+Ditt eige kort fører du som vanleg. Ratinga for runden kjem òg først når konkurransen
+er ferdig.
+
 ### Eige kort (flex start)
 
 Står det **Flex start** på konkurransen, lagar du kortet sjølv når du er klar:
@@ -227,6 +234,8 @@ Ein liga er ein serie med ein runde kvar veke. På ligasida ser du **neste runde
 
 - Trykk **Meld på / sjå runden** for å melde deg på veka.
 - Berre fullførte kort tel. Delte plassar får same poeng.
+- Har ligaen divisjonar, vel du divisjonen din over tabellen. Der får du poeng
+  berre mot dei andre i same divisjon. **Samanlagt** viser alle.
 - Ligaer med **handicap** rangerer på nettoscore: resultatet ditt minus snittet av
   dei siste ligarundane dine. Den første runden din har ikkje handicap.
 - Tel berre dei beste rundane, er poenga som ikkje tel, overstrokne.
