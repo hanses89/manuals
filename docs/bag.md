@@ -166,6 +166,11 @@ backhand og forehand. I tillegg kan du:
 - **Sosiale medium** – lenkjene blir viste som ikon på den offentlege profilen.
   Har du ikkje lagt inn nokon, finn du **+ Legg til sosiale medium** på profilen.
 
+Profilen viser først statistikk og baggane dine, så disk-fordeling, sist lagt
+til, bagtag og PDGA. Nedst ligg **Sosialt og aktivitet**: trykk på overskrifta
+for å opne aktiviteten din, finne spelarar og sjå kven du følgjer og kven som
+følgjer deg.
+
 ## Dele bag og profil
 
 Under **Deling og personvern** vel du kva baggar som skal vere offentlege. Ein
