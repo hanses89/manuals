@@ -168,7 +168,12 @@ Du treng ikkje konto for å føre score. Med konto blir rundane lagra på
 profilen din, og du ser dei frå alle einingane dine.
 
 1. Gå til **Profil** og trykk **Opprett konto**.
-2. Skriv namn, e-post og eit passord på minst 10 teikn.
+2. Trykk **Hald fram med Google**, eller skriv namn, e-post og eit passord på
+   minst 10 teikn.
+
+Med Google treng du ikkje passord. Har du alt ein konto med same e-post, blir
+Google kopla til han, og du kan logge inn på begge måtar. Profilen viser
+«Loggar inn med Google» under namnet ditt når det er gjort.
 
 Rundar du alt har spelt på telefonen utan å vere innlogga, blir knytte til
 kontoen av seg sjølv neste gong appen synkroniserer. Den første spelaren i
@@ -184,7 +189,8 @@ Under **Profil → Personvern** styrer du dataa dine:
 - **Offentleg profil:** av som standard. Då ser berre du ratinga og rundane dine,
   og du er ikkje med på rangeringa. Slå på for å vere synleg for alle.
 - **Last ned dataa dine:** alt DiscPulse lagrar om deg, som éi JSON-fil.
-- **Slett kontoen:** skriv passordet ditt, kryss av og trykk **Slett kontoen for
+- **Slett kontoen:** skriv passordet ditt (eller e-postadressa di, om du berre
+  loggar inn med Google), kryss av og trykk **Slett kontoen for
   godt**. Kontoen, profilen, dei private rundane dine, klubbmedlemskap og
   påmeldingar blir sletta, og offline-dataa på eininga blir fjerna. Resultat frå
   konkurransar blir verande, men anonymt som «Slettet spiller», fordi dei er ein
