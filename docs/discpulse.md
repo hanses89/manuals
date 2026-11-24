@@ -137,6 +137,21 @@ neste runde.
     Mange baner har enno ikkje GPS-punkt for hola. Då ser du berre kartet over
     området. Sjå [Kvifor har ikkje alle banane kart?](#kvifor-har-ikkje-alle-banane-kart).
 
+## Fargar på scorekortet
+
+Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
+
+| Score | Farge | Merke |
+| --- | --- | --- |
+| Ace (hol-i-eitt) | Rosa | ★ |
+| Albatross (3 under) | Fiolett | ●●● |
+| Eagle (2 under) | Blå | ●● |
+| Birdie (1 under) | Grøn | ● |
+| Par | Grå | = |
+| Bogey (1 over) | Gul | ▲ |
+| Dobbel bogey (2 over) | Oransje | ▲▲ |
+| Trippel bogey eller verre | Raud | ▲▲▲ |
+
 ## Fullfør runden
 
 På siste hol blir **Neste** til **Fullfør runden**. Knappen er grå til alle
@@ -406,6 +421,32 @@ når du opnar appen. Klokka står då på første hol utan score. Scoren du før
 klokka, kjem på same scorekort som på telefonen, og avsluttar du runden på
 telefonen, blir han avslutta på klokka òg. Klokka fører berre din eigen score.
 Medspelarar og lagspel førast på telefonen.
+
+Du kan føre litt på klokka og litt på telefonen. Dei held seg i synk: klokka hentar
+det du har ført på telefonen etter kvart hol og kvart 10. sekund, og telefonen
+hentar det du har ført på klokka. Fører du same hol på begge, gjeld det siste.
+Hald **OPP** inne og vel **Kortet** for å sjå stillinga til medspelarane.
+
+Klokka viser **Hol 4** øvst og **Par 3 · 87 m** under. Har bana GPS-punkt, står
+avstanden til korga med grøn skrift nedst.
+
+### Statistikk på klokka
+
+Har du slått på statistikk for runden på telefonen (📊 eller 🎯), fører du
+statistikk på klokka òg. Du kan slå det av eller på for klokka: hald **OPP** inne
+og vel **Statistikk**.
+
+1. Stå der du kastar frå og trykk **SELECT**. Klokka merkar kastet med posisjonen
+   og avstanden til korga.
+2. Gå til disken og trykk **SELECT** igjen. Vel kvar han landa: **I kurven**,
+   **Sirkel 1**, **Sirkel 2**, **Fairway**, **Rough** eller **OB**. Øvst ser du
+   kor langt det er til korga derifrå.
+3. Landa han ikkje i korga, startar neste kast der du står.
+4. **I kurven** avsluttar holet og set scoren. **SELECT** går så til neste hol.
+
+**Angre** i lista tek bort det siste kastet. Fairway, C1/C2 i regulering og putt
+blir rekna ut av kasta, slik som på telefonen. Vil du berre føre score på eit hol,
+trykk **OPP** før du merkar eit kast.
 
 På klokka aukar **OPP** scoren og **NED** senkar han. Den første trykken på eit
 tomt hol set par. **SELECT** går til neste hol, og **TILBAKE** går til førre. Hald
