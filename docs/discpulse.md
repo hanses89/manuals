@@ -78,6 +78,22 @@ Under **Profil → Statistikken min** ser du fordelinga av birdie, par og bogey 
 alle individuelle rundar, og fairway-, C1R- og C2R-prosent og putt per hol frå hola
 der du førte statistikk.
 
+### Kast for kast
+
+Trykk **📊** to gonger, så knappen viser **🎯**. GPS-en slår seg på, og under di eiga
+rad kjem panelet **Kast for kast**:
+
+1. På teen: trykk **🥏 Kast 1 herifrå**.
+2. Gå til discen og trykk kvar kastet landa: **Fairway**, **Rough**, **OB**, **C2**,
+   **C1** eller **I kurva**. Neste kast startar då frå der du står.
+3. Når du trykkjer **I kurva**, blir scoren sett til talet på kast, pluss eitt straffeslag
+   per OB.
+
+Appen reknar ut kor langt kvart kast var, og viser kor langt det er att til kurva
+(når holet har koordinatar for kurva). Trykk på kasttypen (Drive, Innspel, Putt) for å
+endre han, og **↶ Angre** for å ta bort det siste. Under **Profil → Statistikken min**
+ser du putteprosent frå C1 og C2, scramble og snittlengda på drivane dine.
+
 ### Lagrunde (doubles)
 
 Vel **Format** når du startar runden: *Doubles – best shot*, *alternate shot* eller
