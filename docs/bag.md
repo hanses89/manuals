@@ -173,19 +173,27 @@ følgjer deg.
 
 ## Dele bag og profil
 
-Under **Deling og personvern** vel du kva baggar som skal vere offentlege. Ein
-offentleg bag kan sjåast av alle med lenkja, òg dei som ikkje har konto:
+Kvar bag er anten **🔒 Privat** (berre du ser han) eller **🌐 Offentleg**. Du
+byter på bagsida (pillene under oversikta), i **Rediger bag**, eller med
+brytaren på bagkortet under **Profil**. Ein ny bag er privat til du endrar det.
+Ein offentleg bag kan sjåast av alle med lenkja, òg dei som ikkje har konto:
 
 - Bag: `bag.kvamdgs.no/bag/brukarnamnet-ditt`
 - Profil: `bag.kvamdgs.no/p/brukarnamnet-ditt`
 
-Trykk **Kopier lenkje** for å få lenkja, eller **Del bag som bilete** for å lage
+Trykk **🔗 Del bag** på bagsida eller **Kopier lenkje** på profilen for å få
+lenkja. Er baggen privat når du trykkjer **Del bag**, spør appen om han skal
+gjerast offentleg først. Trykk **Del bag som bilete** for å lage
 eit bilete av baggen som du kan leggje ut i sosiale medium.
 
 !!! warning "Offentleg er offentleg"
     Ein bag du gjer offentleg kan lesast utan innlogging. Vil du ikkje det
-    lenger, skru han av att under **Deling og personvern** – då blir lenkja
-    tom for andre.
+    lenger, set han til **🔒 Privat** att – då blir lenkja tom for andre.
+
+**Hovudbag:** Merk éin bag som **★ Hovudbag** på bagsida, i **Rediger bag**
+eller på bagkortet under **Profil**. Hovudbaggen blir vist som «In the bag» på
+profilen din. Du kan berre ha éin hovudbag; vel du ein ny, blir den gamle
+vanleg bag att.
 
 ## Feed og følgje
 
