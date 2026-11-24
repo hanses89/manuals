@@ -167,8 +167,11 @@ backhand og forehand. I tillegg kan du:
   blir ratinga vist.
 - **Metrix-rating** – blir vist ved sida av PDGA-ratinga under **Rating**. Ho
   blir henta frå bagtag-listene på Metrix, så ho finst berre når du står i
-  minst éi bagtag-liste og bagtag-namnet ditt stemmer (sjå under). Ratinga blir
-  oppdatert kvar natt, og ny rating kjem i **Min aktivitet**. PDGA- og
+  minst éi bagtag-liste og bagtag-namnet ditt stemmer (sjå under). Bagtag-nummer
+  og Metrix-rating blir henta frå Metrix av seg sjølv når du opnar **Dashboard**
+  eller profilen din, og elles kvar natt. Ny rating kjem i **Min aktivitet**.
+  PDGA-ratinga blir oppdatert når PDGA publiserer nye ratingar (andre tysdag i
+  månaden), eller når du trykkjer ↻ ved PDGA på profilen. PDGA- og
   Metrix-ratinga di, og bagtag-nummera dine, står òg på **Dashboard**, under
   oversikta over baggen. Andre ser PDGA- og
   Metrix-ratinga di så lenge **Rating (PDGA og Metrix)** er synleg under
