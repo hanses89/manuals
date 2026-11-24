@@ -58,6 +58,14 @@ rett til spelarane.
 | Endre par på holet | **−** / **+** ved «Par» i holboksen |
 | OB | **+ OB** under spelaren. Straffeslaget blir lagt til scoren av seg sjølv, og kortet viser «OB ×1». Trykte du feil, tek **−** bort både OB-en og straffeslaget |
 
+### Lagrunde (doubles)
+
+Vel **Format** når du startar runden: *Doubles – best shot*, *alternate shot* eller
+*worst shot*. Skriv inn alle spelarane og vel **Lag** for kvar. Standard er to og to
+i den rekkjefølgja du skreiv dei inn. Kvart lag må ha 2–4 spelarar. På scorekortet
+blir kvart lag éi rad («Anna & Bo») med éin score per hol. Lagrundar tel ikkje i
+ratinga.
+
 Fargen på scoren viser resultatet: gul er ace, blå eagle, grøn birdie, grå par,
 oransje bogey og raud dobbel bogey eller verre.
 
