@@ -289,6 +289,22 @@ ratingen hans. Sida **Rating** forklarar utrekninga og har ein kalkulator.
     DiscPulse Rating følgjer same metode som Metrix, men er rekna ut av DiscPulse.
     Han er ikkje den offisielle Metrix-ratingen.
 
+## Garmin-klokke
+
+1. Installer **DiscPulse** på klokka frå Connect IQ.
+2. Opne appen. Klokka viser ein kode, til dømes `K7F2-9QXM`.
+3. På telefonen eller PC-en: gå til **Profil → Garmin-klokke**, skriv inn koden og
+   trykk **Kople til**. Klokka koplar seg til av seg sjølv etter nokre sekund.
+4. Vel **Baner nær meg**, så banen og layouten.
+
+På klokka aukar **OPP** scoren og **NED** senkar han. Den første trykken på eit
+tomt hol set par. **SELECT** går til neste hol, og **TILBAKE** går til førre. Hald
+**OPP** inne for å fullføre runden. Klokka lagrar runden etter kvart trykk og synkar
+gjennom telefonen. Ein grøn prikk nedst betyr at alt er synka.
+
+Under **Profil → Garmin-klokke** ser du dei kopla klokkene dine. Der kan du òg
+fjerne ei klokke du har mista eller selt.
+
 ## Språk og tema
 
 Under **Profil → Innstillinger** vel du språk (bokmål, nynorsk, engelsk,
