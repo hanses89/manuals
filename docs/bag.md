@@ -112,7 +112,8 @@ Dashboard viser baggen du brukar mest:
   midrange, fairway, distance) × stabilitet (understabil, rett, stabil,
   overstabil), men berre for baggen du har vald. ✓ = dekt, ✗ = manglar, 🔒 =
   utanfor kasteavstanden din (tel ikkje). Trykk på ✗ for forslag til diskar som
-  fyller holet. Har du alt ein slik disk i samlinga, står han øvst under **Frå
+  fyller holet. Tomme PDGA-, Metrix- og bagtag-felt opnar profilen når du trykkjer
+  på dei. Har du alt ein slik disk i samlinga, står han øvst under **Frå
   samlinga di** – trykk **+ Legg i baggen**.
 - **Diskar i baggen** – heile lista, der du kan fjerne diskar.
 
