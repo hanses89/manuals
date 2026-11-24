@@ -129,7 +129,7 @@ GPS-en er av til du slår han på, for å spare batteri.
 
 !!! note "Manglar avstandar?"
     Mange baner har enno ikkje GPS-punkt for hola. Då ser du berre kartet over
-    området.
+    området. Sjå [Kvifor har ikkje alle banane kart?](#kvifor-har-ikkje-alle-banane-kart).
 
 ## Fullfør runden
 
@@ -200,6 +200,23 @@ Under **Profil → Personvern** styrer du dataa dine:
 Under **Baner** kan du søkje på namn eller stad, eller trykke **Nær meg**.
 Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 **Ufullstendige data** manglar noko informasjon.
+
+### Kvifor har ikkje alle banane kart?
+
+Posisjonen til ei bane kjem frå Disc Golf Metrix eller OpenStreetMap. Når
+ingen av dei har han, slår DiscPulse opp staden bana ligg på. Då står det
+**≈ Omtrentleg posisjon** på banesida, og avstanden i «Baner nær deg» har
+«≈» framfor. Kartet blir ikkje vist før hola er kartlagde.
+
+Hola får kart når nokon har plassert tee og korg:
+
+- **Klubben som driv bana** kan gjere det sjølv. Eigarar og administratorar av
+  klubben ser knappen **Kartlegg bana** (eller **Rediger**) på banesida. Ei bane
+  utan klubb kan berre ein administrator i DiscPulse redigere.
+- **Spelarane** hjelper til utan å gjere noko ekstra. Når fleire spelarar har
+  ført kaststatistikk med GPS på eit hol, lærer DiscPulse kvar teen og korga er.
+  Det skjer berre når minst tre spelarar er einige om teen og minst fem om
+  korga. Ingen sitt eige spor blir vist, berre snittet.
 
 ## Konkurransar
 
