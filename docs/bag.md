@@ -108,7 +108,12 @@ Dashboard viser baggen du brukar mest:
 - **Totalvekt** – diskar, sjølve baggen og utstyret kvar for seg.
 - **Kategori-fordeling** – kor mange puttarar, midrange, fairway- og
   distansedrivarar du har.
-- **Dekningsgrad** – kor stor del av kastetypane baggen faktisk dekkjer.
+- **Dekningsgrad** – same rutenett som **Manglar i samlinga**: type (putter,
+  midrange, fairway, distance) × stabilitet (understabil, rett, stabil,
+  overstabil), men berre for baggen du har vald. ✓ = dekt, ✗ = manglar, 🔒 =
+  utanfor kasteavstanden din (tel ikkje). Trykk på ✗ for forslag til diskar som
+  fyller holet. Har du alt ein slik disk i samlinga, står han øvst under **Frå
+  samlinga di** – trykk **+ Legg i baggen**.
 - **Diskar i baggen** – heile lista, der du kan fjerne diskar.
 
 ## Mine diskar
@@ -164,7 +169,8 @@ backhand og forehand. I tillegg kan du:
   blir henta frå bagtag-listene på Metrix, så ho finst berre når du står i
   minst éi bagtag-liste og bagtag-namnet ditt stemmer (sjå under). Ratinga blir
   oppdatert kvar natt, og ny rating kjem i **Min aktivitet**. PDGA- og
-  Metrix-ratinga di står òg på **Dashboard**, under oversikta over baggen. Andre ser PDGA- og
+  Metrix-ratinga di, og bagtag-nummera dine, står òg på **Dashboard**, under
+  oversikta over baggen. Andre ser PDGA- og
   Metrix-ratinga di så lenge **Rating (PDGA og Metrix)** er synleg under
   **Deling og personvern**.
 - **Bagtag** – slå opp bagtag-lista til klubben, vel namnet ditt i lista, og få
