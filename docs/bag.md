@@ -160,13 +160,19 @@ backhand og forehand. I tillegg kan du:
 
 - **PDGA-oppslag** – søk opp namnet ditt og knyt PDGA-nummeret til profilen, så
   blir ratinga vist.
+- **Metrix-rating** – blir vist ved sida av PDGA-ratinga under **Rating**. Ho
+  blir henta frå bagtag-listene på Metrix, så ho finst berre når du står i
+  minst éi bagtag-liste og bagtag-namnet ditt stemmer (sjå under). Ratinga blir
+  oppdatert kvar natt, og ny rating kjem i **Min aktivitet**. Andre ser PDGA- og
+  Metrix-ratinga di så lenge **Rating (PDGA og Metrix)** er synleg under
+  **Deling og personvern**.
 - **Bagtag** – slå opp bagtag-lista til klubben, vel namnet ditt i lista, og få
   taggen og bagtag-historikken din på profilen. Historikken krev at den som ser
   på, er innlogga.
 - **Sosiale medium** – lenkjene blir viste som ikon på den offentlege profilen.
   Har du ikkje lagt inn nokon, finn du **+ Legg til sosiale medium** på profilen.
 
-Profilen viser først statistikk, PDGA og baggane dine, så disk-fordeling, sist
+Profilen viser først statistikk, rating (PDGA og Metrix) og baggane dine, så disk-fordeling, sist
 lagt til og bagtag. Nedst ligg **Sosialt og aktivitet**: trykk på overskrifta
 for å opne aktiviteten din, finne spelarar og sjå kven du følgjer og kven som
 følgjer deg.
