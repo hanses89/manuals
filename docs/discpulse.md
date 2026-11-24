@@ -133,6 +133,12 @@ korga i ei stripe øvst, så du ser avstanden heile tida.
 Vil du spare batteri, trykk **📍 GPS på** for å slå han av. Valet blir hugsa til
 neste runde.
 
+**Manglar holet GPS-punkt?** Då ser du knappane **📍 Eg står på teen** og
+**📍 Eg står ved korga**. Trykk når du står der, så hjelper du DiscPulse å lære
+kvar holet er. Når nok spelarar er samde (minst tre for teen og fem for korga),
+får holet GPS-punkt, og alle får avstandar der. Knappane er grå til GPS-en er
+nøyaktig nok (±25 m).
+
 !!! note "Manglar avstandar?"
     Mange baner har enno ikkje GPS-punkt for hola. Då ser du berre kartet over
     området. Sjå [Kvifor har ikkje alle banane kart?](#kvifor-har-ikkje-alle-banane-kart).
@@ -144,13 +150,14 @@ Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
 | Score | Farge | Merke |
 | --- | --- | --- |
 | Ace (hol-i-eitt) | Rosa | ★ |
-| Albatross (3 under) | Fiolett | ●●● |
+| Albatross (3 under) | Turkis | ●●● |
 | Eagle (2 under) | Blå | ●● |
 | Birdie (1 under) | Grøn | ● |
 | Par | Grå | = |
-| Bogey (1 over) | Gul | ▲ |
-| Dobbel bogey (2 over) | Oransje | ▲▲ |
-| Trippel bogey eller verre | Raud | ▲▲▲ |
+| Bogey (1 over) | Raud | ▲ |
+| Dobbel bogey (2 over) | Lilla | ▲▲ |
+| Trippel bogey (3 over) | Brun | ▲▲▲ |
+| 4 over eller verre | Mørk brun | ▲▲▲ |
 
 ## Fullfør runden
 
