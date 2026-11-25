@@ -67,7 +67,8 @@ utan dekning. Har bana eit notat for holet (til dømes om OB eller trafikk), st�
 rett under. Nedst står alle hola som tal: trykk eitt for å hoppe dit; hol du har ført,
 har fargen til scoren din.
 
-Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar.
+Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar. Er de fleire, er korta tettare (mindre knappar og
+**+ OB** ved sida av tala 1–6), så heile kortet får plass på skjermen.
 
 Med fleire spelarar kjem kasterekkjefølgja opp på heile skjermen når du trykkjer **Neste ›** til eit hol ingen har ført score på enno. Der står spelarane med store namn, totalen og scoren frå førre hol. Trykk **Start holet ›** (eller på eit namn) for å føre score. Korta står i same rekkjefølgje, med nummer framfor namnet. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
 
@@ -144,7 +145,8 @@ ikkje registrert, blir ho rekna ut frå tee og korg og vist med **≈**.
 
 Under holboksen ser du holet på eit lite kart: tee, korg og deg (når GPS er på). Står
 du innanfor 400 m, kjem du med i biletet, så du ser kvar du er i høve til holet; dei
-andre hola står dempa. Elles er holet i midten.
+andre hola står dempa. Elles er holet i midten. Rundt korga ser du **C1** (10 m, grøn)
+og **C2** (20 m, stipla). **⤢** opnar kartet i fullskjerm; **✕** tek deg tilbake.
 **Skjul kart** gøymer det, og valet blir hugsa. Kartet kjem berre når
 holet har tee- eller korgpunkt. Manglar dei, kan du hjelpe med **📍 Eg står på teen**
 og **📍 Eg står ved korga**, eller ein baneredaktør kan teikne dei inn i baneeditoren.
