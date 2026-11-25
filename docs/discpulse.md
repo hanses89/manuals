@@ -318,7 +318,13 @@ rundar, når du sist spelte og beste score. Trykk på ei bane for å sjå rundan
   ei bane med SSA får ei rating rekna ut med same formel, merkt **\***. Ho tel ikkje i den
   offisielle ratinga.
 
-**Utvikling** viser rundar, hol og kast, kor mange banar du har spelt og kva for ei du har
+**Utvikling** byrjar med **streaks**: kor mange veker og dagar på rad du har spelt, den
+lengste streaken, og eit varsel når du må spele denne veka (eller i dag) for å halde han.
+Under står **merka**: birdies, eagles, ace, par, rundar, hol, banar, rundar under par,
+bogeyfrie rundar og tre birdies på rad. Kvart merke har nivå (farga når du har nådd det),
+dato for når du nådde det, og ein strek som viser kor langt det er att til neste nivå.
+
+Vidare viser **Utvikling** rundar, hol og kast, kor mange banar du har spelt og kva for ei du har
 spelt mest, og for perioden du vel (**Siste 4**, **Siste 10**, **i år** eller **Alle**):
 fordelinga mot par (birdie eller betre, par, bogey, dobbel, trippel+), snittet per full
 runde, ace og beste runde. **Ratinghistorikk** viser ratinga for kvar runde (prikkar,
