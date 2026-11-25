@@ -393,6 +393,10 @@ Hola får kart når nokon har plassert tee og korg:
 - **Klubben som driv bana** kan gjere det sjølv. Eigarar og administratorar av
   klubben ser knappen **Kartlegg bana** (eller **Rediger**) på banesida. Ei bane
   utan klubb kan berre ein administrator i DiscPulse redigere.
+- **📊 Baneverktøy** (same personar som kan redigere bana): tal for dei siste fire vekene
+  samanlikna med dei fire før (spelarrundar, rundar, unike spelarar, snitt per kort),
+  spelarrundar per veke og per vekedag, layoutane med kor mykje dei er spelte og snittet mot
+  par, og hol for hol for ein layout du vel. Importerte resultat frå Metrix tel med.
 - **Posisjonen til bana:** står bana feil i kartet (til dømes midt i sentrum), opnar
   redaktøren editoren og vel **Trykk i kartet** (og trykkjer der bana startar) eller
   **Bruk posisjonen min** når han står ved bana. Importar frå Metrix eller OpenStreetMap
