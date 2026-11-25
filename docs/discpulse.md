@@ -95,11 +95,15 @@ rad kjem panelet **Kast for kast**:
 3. Når du trykkjer **I kurva**, blir scoren sett til talet på kast, pluss eitt straffeslag
    per OB og per mando-miss.
 
-Vala står med det mest sannsynlege først. Med GPS avgjer avstanden til kurva frå der du
-står: under 3 m kjem **I kurva** først, under 10 m **C1**, under 20 m **C2**, elles
-**Fairway**. Utan GPS følgjer rekkjefølgja par: drive på par 3 gir **C1**/**C2** først,
-drive på par 4 og 5 gir **Fairway**/**Rough**/**OB**/**Mando-miss** først, og kastet
-for par eller putt frå C1/C2 gir **I kurva** først.
+Vala står med det mest sannsynlege først:
+
+- **Putt frå C1 eller C2:** **I kurva** først, så **C1** (bom) og **C2**.
+- **Med GPS** (andre kast): avstanden til kurva frå der du står avgjer. Under 3 m kjem
+  **I kurva** først, under 10 m **C1**, under 20 m **C2**, elles **Fairway**.
+- **Utan GPS** følgjer rekkjefølgja par og kva kast det er. Har du tre eller fleire kast
+  att til par etter dette (drive på par 4 og 5), kjem **Fairway**, **Rough**, **OB** og
+  **Mando-miss** først. Elles kjem **C1** og **C2** først. På drive på par 3 står
+  **I kurva** (ace) sist, og på innspel for par står han som nummer to, etter **C1**.
 
 Appen reknar ut kor langt kvart kast var, og viser kor langt det er att til kurva
 (når holet har koordinatar for kurva). Trykk på kasttypen (Drive, Innspel, Putt) for å
@@ -129,6 +133,13 @@ Fanene øvst:
 Har bana GPS-punkt for tee og korg, ser du to ruter under holboksen:
 **Til tee** og **Til korg**. Lengda på holet står i holboksen. Er lengda
 ikkje registrert, blir ho rekna ut frå tee og korg og vist med **≈**.
+
+Under holboksen ser du holet på eit lite kart: tee, korg og deg (når GPS er på). Står
+du innanfor 400 m, kjem du med i biletet, så du ser kvar du er i høve til holet; dei
+andre hola står dempa. Elles er holet i midten.
+**Skjul kart** gøymer det, og valet blir hugsa. Kartet kjem berre når
+holet har tee- eller korgpunkt. Manglar dei, kan du hjelpe med **📍 Eg står på teen**
+og **📍 Eg står ved korga**, eller ein baneredaktør kan teikne dei inn i baneeditoren.
 
 1. GPS-en slår seg på av seg sjølv når bana har GPS-punkt. Telefonen spør om lov
    til å bruke posisjonen første gong.
@@ -188,6 +199,18 @@ Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
 
 På siste hol blir **Neste** til **Fullfør runden**. Knappen er grå til alle
 spelarane har score på alle hola. Etterpå viser appen stillinga.
+
+Du kan avslutte når som helst med **🏁** øvst til høgre. Du ser kor mange hol du har
+ført og kan velje:
+
+- **Lagre runden**: runden blir fullført med dei hola du har spelt. Eit
+  konkurransekort kan berre lagrast når alle hola er førte.
+- **Slett runden**: to trykk. Runden blir sletta på telefonen og på serveren (utan
+  dekning så snart du får nett). Eit konkurransekort blir berre fjerna frå telefonen din.
+- **Hald fram å spele**: tilbake til runden.
+
+På klokka: hald **OPP** inne og vel **Lagre runden** eller **Slett runden** (med
+stadfesting).
 
 ## Slette ein runde
 
@@ -272,6 +295,9 @@ Under **Profil → Personvern** styrer du dataa dine:
 
 Under **Baner** står dei næraste banane øvst av seg sjølv når appen får bruke
 posisjonen (**📍 Oppdater** hentar dei på nytt). Under kan du søkje på namn eller stad.
+Vel **🗺 Kart** for å sjå alle banane som passar søket og filtera på eitt kart. Tal i
+ein sirkel er fleire baner: trykk for å zoome inn. Trykk på ei bane for å opne
+banesida eller **▶ Spill**. **☰ Liste** tek deg tilbake til lista.
 Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 **Ufullstendige data** manglar noko informasjon.
 
@@ -454,7 +480,18 @@ ratingen hans. Sida **Rating** forklarar utrekninga og har ein kalkulator.
 
 **Start runden på telefonen, før han på klokka.** Har du starta ein runde på
 telefonen (eller PC-en) i løpet av dei siste 12 timane, hentar klokka han sjølv
-når du opnar appen. Klokka står då på første hol utan score. Scoren du fører på
+når du opnar appen. Startar du runden etter at appen er open, finn klokka han av seg
+sjølv innan 10 sekund medan hovudmenyen er open, eller med ein gong når du vel
+**Runde frå mobil**. Klokka står då på holet du er på. Er de fleire på kortet, viser
+klokka kasterekkjefølgja når du kjem til eit nytt hol (same regel som på telefonen);
+trykk ein knapp for å føre score.
+
+**Før for heile kortet.** Har du starta runden, kan du føre for alle på kortet frå
+klokka. Namnet til den som står for tur, står over scoren (til dømes «1/3 Bo»).
+**OPP**/**NED** endrar scoren, og **SELECT** stadfestar og går til nestemann i
+kasterekkjefølgja; etter den siste går klokka til neste hol. **TILBAKE** går til
+førre spelar. Statistikk og OB fører du berre for deg sjølv. Det du fører for dei
+andre, kjem på telefonen òg, og omvendt. Scoren du fører på
 klokka, kjem på same scorekort som på telefonen, og avsluttar du runden på
 telefonen, blir han avslutta på klokka òg. Klokka fører berre din eigen score.
 Medspelarar og lagspel førast på telefonen.
