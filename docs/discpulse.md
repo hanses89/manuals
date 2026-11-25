@@ -74,6 +74,10 @@ Du kan òg starte slik:
    står i lista under av seg sjølv. Trykk på bana.
 3. Vel layout. Har bana berre éin, går appen rett vidare.
 4. Skriv inn spelarane. Den første er deg; namnet blir hugsa til neste gong.
+   Er du innlogga, ser du **Spelar ofte med**: trykk eit namn for å leggje det til. I
+   søkjefeltet finn du DiscPulse-spelarar med offentleg profil. Spelarar med **🔗** er
+   kopla til kontoen sin: runden kjem på profilen deira (og tel i statistikken deira) når
+   dei har godteke under **Profil → Rundar du er lagd til i**.
    Trykk **+ Legg til spiller** for fleire (opptil 30).
 5. Sjekk **Antall hull** og **Starthull**. Startar gruppa på hol 7, set du
    starthol 7, så går appen 7, 8 … og rundt til 6.
@@ -113,7 +117,7 @@ Med fleire spelarar står korta i kasterekkjefølgja, med nummer framfor namnet.
 
 ### Statistikk
 
-Vel statistikk når du set opp runden (**Av**, **Rask** eller **Kast for kast**; valet blir hugsa til neste gong), eller trykk **📊** øvst på scorekortet og vel der. **Rask** gir statistikkmodus. Under di eiga rad
+Vel statistikk når du set opp runden (**Av**, **Rask** eller **Kast for kast**; valet blir hugsa til neste gong) – under knappane står ei kort forklaring på kva valet gir, eller trykk **📊** øvst på scorekortet og vel der. **Rask** gir statistikkmodus. Under di eiga rad
 (berre di) kjem det knappar for **Fairway**, **C1** og **C2** (nådde sirkelen i
 regulation, altså på par − 2 kast eller færre; C1 gjeld òg som C2) og talet på
 **putt**. Statistikken blir synka som scoren og fungerer offline.
@@ -304,6 +308,9 @@ Trykk **Profil** nedst. Øvst står namnet ditt, DiscPulse-ratinga og **trenden*
 av dei siste ti rundane med rating). **⚙** opnar innstillingane: konto, Metrix-profil,
 personvern, Garmin-klokker, språk og tema.
 
+Har nokon lagt deg til i ein runde, står han øvst under **Rundar du er lagd til i**: trykk
+**Godta** for å få runden på profilen din, eller **Avslå**.
+
 **Rundar** viser alle rundane dine som kort, nyaste først: konkurransar (òg importerte),
 uformelle rundar og trening. Kvart kort har namn, bane og layout, dato, scoren din og
 medspelarane sine scorar, og ratinga for runden. Trykk på eit kort for å opne scorekortet.
@@ -327,7 +334,7 @@ dato for når du nådde det, og ein strek som viser kor langt det er att til nes
 Vidare viser **Utvikling** rundar, hol og kast, kor mange banar du har spelt og kva for ei du har
 spelt mest, og for perioden du vel (**Siste 4**, **Siste 10**, **i år** eller **Alle**):
 fordelinga mot par (birdie eller betre, par, bogey, dobbel, trippel+), snittet per full
-runde, ace og beste runde. **Ratinghistorikk** viser ratinga for kvar runde (prikkar,
+runde, ace og beste runde. **Spelt mest med** viser kven du har spelt flest rundar med. **Ratinghistorikk** viser ratinga for kvar runde (prikkar,
 tomme = uformelle) mot den offisielle ratinga (lina). Under står statistikken frå
 kaststatistikken din (fairway, C1R, C2R, putt).
 ### Kople til Metrix-profilen din
