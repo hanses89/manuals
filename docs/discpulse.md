@@ -53,7 +53,7 @@ iPhone tek betre vare på rundane du har lagra.
 ## Start ein runde
 
 På PC-en viser startsida tal for banar, layoutar og konkurransar (trykk for å opne
-listene), dei mest spelte banane siste året, komande konkurransar (eller dei siste
+listene), dei mest spelte banane siste året (som kort med kart, stad, rundar, layoutar og hol), komande konkurransar (eller dei siste
 resultata) og toppen av rangeringa. Nedst finn du lenkjer til resten av DiscPulse.
 
 På mobilen er startsida laga for å spele:
@@ -393,6 +393,11 @@ Hola får kart når nokon har plassert tee og korg:
 - **Klubben som driv bana** kan gjere det sjølv. Eigarar og administratorar av
   klubben ser knappen **Kartlegg bana** (eller **Rediger**) på banesida. Ei bane
   utan klubb kan berre ein administrator i DiscPulse redigere.
+- **Posisjonen til bana:** står bana feil i kartet (til dømes midt i sentrum), opnar
+  redaktøren editoren og vel **Trykk i kartet** (og trykkjer der bana startar) eller
+  **Bruk posisjonen min** når han står ved bana. Importar frå Metrix eller OpenStreetMap
+  endrar han ikkje etterpå. På banesida får du då **🧭 Naviger hit**, som opnar vegbeskriving
+  i kartappen.
 - **Teeskilt:** i same editor vel du eit hol og trykkjer **🪧 Legg til teeskilt**. Ta
   bilete av skiltet eller vel eit bilete. Det blir gjort mindre på telefonen før det
   blir lasta opp. **Byt bilete** og **Fjern** gjer det dei seier. Hola må vere lagra
