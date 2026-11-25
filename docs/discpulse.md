@@ -30,14 +30,19 @@ iPhone tek betre vare på rundane du har lagra.
 På mobilen er startsida laga for å spele:
 
 - **Hald fram med runden** står øvst når du har ein runde som ikkje er fullført.
-- **Baner nær deg** viser dei næraste banane. Har du gitt appen lov til å bruke
-  posisjonen, kjem lista av seg sjølv. Trykk **▶ Spill** ved bana for å starte.
+- **▶ Start runde på næraste bane** står øvst når du ikkje har ein open runde. Appen
+  finn bana nærast deg og går rett til val av layout. Vel layout og spelarar, så er du
+  i gang. Var det feil bane, trykk **← Vel bane**.
+- **Baner nær deg** viser dei næraste banane. Lista kjem av seg sjølv: første gong du
+  opnar appen, spør telefonen om lov til å bruke posisjonen, og seier du ja, kjem ho
+  automatisk kvar gong etter det. Trykk **▶ Spill** ved bana for å starte.
 - **Spel igjen** gir deg dei siste banane dine med eitt trykk.
 
 Du kan òg starte slik:
 
 1. Trykk på den grøne **Spill**-knappen midt i menyen nedst.
-2. Søk etter bana, eller trykk på 📍 for å sjå baner nær deg. Trykk på bana.
+2. Trykk **▶ Start runde på næraste bane**, eller søk etter bana. Dei næraste banane
+   står i lista under av seg sjølv. Trykk på bana.
 3. Vel layout. Har bana berre éin, går appen rett vidare.
 4. Skriv inn spelarane. Den første er deg; namnet blir hugsa til neste gong.
    Trykk **+ Legg til spiller** for fleire (opptil 30).
@@ -265,7 +270,8 @@ Under **Profil → Personvern** styrer du dataa dine:
 
 ## Baner
 
-Under **Baner** kan du søkje på namn eller stad, eller trykke **Nær meg**.
+Under **Baner** står dei næraste banane øvst av seg sjølv når appen får bruke
+posisjonen (**📍 Oppdater** hentar dei på nytt). Under kan du søkje på namn eller stad.
 Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 **Ufullstendige data** manglar noko informasjon.
 
@@ -291,6 +297,10 @@ Hola får kart når nokon har plassert tee og korg:
   korga. Ingen sitt eige spor blir vist, berre snittet.
 
 ## Konkurransar
+
+Øvst under **Konkurransar** står **Konkurransar nær deg**: dei som pågår eller
+startar innan 60 dagar, på baner innan 15 mil, med den næraste først. Lista kjem av
+seg sjølv når appen får bruke posisjonen.
 
 ### Meld deg på
 
