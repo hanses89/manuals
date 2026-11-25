@@ -390,6 +390,10 @@ rundar som er førte i etterkant tel ikkje. Lengda kjem frå hol med kjend lengd
 **Banane du har spelt** står på eit kart lenger nede på **Utvikling**. Trykk på ei bane for å
 sjå kor mange rundar du har der, opne statistikken din på bana eller starte ein ny runde.
 
+**Samle byar** viser kor mange av banane i kvar by du har spelt, til dømes «2 / 5», og kva
+banar som står att. Byen kjem frå banedataa, og stengde eller skjulte banar tel ikkje. 🏆
+betyr at du har spelt alle banane i byen.
+
 Resultata dine frå Disc Golf Metrix ligg på ein eigen spelarprofil som er henta
 frå Metrix. Metrix deler ikkje e-postadresser, så DiscPulse kan ikkje vite av
 seg sjølv at profilen er din.
