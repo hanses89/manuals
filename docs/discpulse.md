@@ -432,6 +432,8 @@ posisjonen (**📍 Oppdater** hentar dei på nytt). Under kan du søkje på namn
 Vel **🗺 Kart** for å sjå alle banane som passar søket og filtera på eitt kart. Tal i
 ein sirkel er fleire baner: trykk for å zoome inn. Trykk på ei bane for å opne
 banesida eller **▶ Spill**. **☰ Liste** tek deg tilbake til lista.
+Kvart banekort viser kor mange layoutar og hol bana har, og kor mange rundar som er spelte
+der på DiscPulse. På brei skjerm står kartet med dei same banane ved sida av lista.
 Øvst på banesida står nøkkeltal: kor mange layoutar, hol og par på hovudlayouten, kor mange
 rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida delt i faner:
 
