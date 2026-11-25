@@ -379,6 +379,9 @@ tomme = uformelle) mot den offisielle ratinga (lina). Under står statistikken f
 kaststatistikken din (fairway, C1R, C2R, putt).
 ### Kople til Metrix-profilen din
 
+**Banane du har spelt** står på eit kart lenger nede på **Utvikling**. Trykk på ei bane for å
+sjå kor mange rundar du har der, opne statistikken din på bana eller starte ein ny runde.
+
 Resultata dine frå Disc Golf Metrix ligg på ein eigen spelarprofil som er henta
 frå Metrix. Metrix deler ikkje e-postadresser, så DiscPulse kan ikkje vite av
 seg sjølv at profilen er din.
