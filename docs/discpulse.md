@@ -397,6 +397,11 @@ Hola får kart når nokon har plassert tee og korg:
   samanlikna med dei fire før (spelarrundar, rundar, unike spelarar, snitt per kort),
   spelarrundar per veke og per vekedag, layoutane med kor mykje dei er spelte og snittet mot
   par, og hol for hol for ein layout du vel. Importerte resultat frå Metrix tel med.
+- **📢 Melding til spelarane** (i baneverktøyet): vel **Informasjon** (til dømes ny
+  korgplassering) eller **Stengd**, skriv meldinga og eventuelt ein sluttdato, og trykk
+  **Publiser**. Meldinga står på banesida og på scorekortet under runden, og stengde banar
+  får ⛔ i lista. Etter sluttdatoen forsvinn ho av seg sjølv; **Fjern** tek henne bort med
+  ein gong.
 - **Posisjonen til bana:** står bana feil i kartet (til dømes midt i sentrum), opnar
   redaktøren editoren og vel **Trykk i kartet** (og trykkjer der bana startar) eller
   **Bruk posisjonen min** når han står ved bana. Importar frå Metrix eller OpenStreetMap
