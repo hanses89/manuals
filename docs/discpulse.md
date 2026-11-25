@@ -268,6 +268,33 @@ runden blir rekna som deg.
 Under **Profil** ser du **Runder på kontoen**, og der loggar du òg ut med
 **Logg ut**.
 
+
+### Profilen: rundar og utvikling
+
+Trykk **Profil** nedst. Øvst står namnet ditt, DiscPulse-ratinga og **trenden** (snittet
+av dei siste ti rundane med rating). **⚙** opnar innstillingane: konto, Metrix-profil,
+personvern, Garmin-klokker, språk og tema.
+
+**Rundar** viser alle rundane dine som kort, nyaste først: konkurransar (òg importerte),
+uformelle rundar og trening. Kvart kort har namn, bane og layout, dato, scoren din og
+medspelarane sine scorar, og ratinga for runden. Trykk på eit kort for å opne scorekortet.
+Du kan filtrere på bane. Uformelle rundar og treningsrundar du har starta sjølv, har
+**🗑** nedst til høgre: trykk og stadfest med **Slett**. Runden blir sletta overalt, òg på
+telefonen og klokka. Konkurransekort kan ikkje slettast.
+
+Vel **Banar** (i staden for **Dato**) for å sjå alle banane du har spelt: kor mange
+rundar, når du sist spelte og beste score. Trykk på ei bane for å sjå rundane der.
+
+- Konkurranserundar har den offisielle DiscPulse-ratinga. Ein fullført uformell runde på
+  ei bane med SSA får ei rating rekna ut med same formel, merkt **\***. Ho tel ikkje i den
+  offisielle ratinga.
+
+**Utvikling** viser rundar, hol og kast, kor mange banar du har spelt og kva for ei du har
+spelt mest, og for perioden du vel (**Siste 4**, **Siste 10**, **i år** eller **Alle**):
+fordelinga mot par (birdie eller betre, par, bogey, dobbel, trippel+), snittet per full
+runde, ace og beste runde. **Ratinghistorikk** viser ratinga for kvar runde (prikkar,
+tomme = uformelle) mot den offisielle ratinga (lina). Under står statistikken frå
+kaststatistikken din (fairway, C1R, C2R, putt).
 ### Kople til Metrix-profilen din
 
 Resultata dine frå Disc Golf Metrix ligg på ein eigen spelarprofil som er henta
@@ -310,6 +337,10 @@ ein sirkel er fleire baner: trykk for å zoome inn. Trykk på ei bane for å opn
 banesida eller **▶ Spill**. **☰ Liste** tek deg tilbake til lista.
 Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
 **Ufullstendige data** manglar noko informasjon.
+
+Er du innlogga og har spelt bana, ser du **Rundane dine her** på banesida: dei siste fem
+rundane, kor mange du har spelt og beste score. **Alle rundane dine på bana** opnar lista på
+profilen.
 
 Trykk **📍 Slå på GPS** over kartet på banesida for å sjå kvar du er i høve til
 bana. Under kartet står den næraste teen eller korga og kor langt unna ho er.
