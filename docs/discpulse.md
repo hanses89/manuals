@@ -363,7 +363,7 @@ rundar, når du sist spelte og beste score. Trykk på ei bane for å sjå rundan
   ei bane med SSA får ei rating rekna ut med same formel, merkt **\***. Ho tel ikkje i den
   offisielle ratinga.
 
-På banesida har kvar layout med SSA boksen **Rating per score**. Opne han for å sjå kva
+På fana **Layoutar** på banesida har kvar layout med SSA boksen **Rating per score**. Opne han for å sjå kva
 rating kvar score gir i dag, med differansen til par. Scoren som gir om lag 1000 er utheva.
 Tabellen følgjer gjeldande SSA, så han endrar seg når banen får ny SSA.
 
@@ -432,12 +432,16 @@ posisjonen (**📍 Oppdater** hentar dei på nytt). Under kan du søkje på namn
 Vel **🗺 Kart** for å sjå alle banane som passar søket og filtera på eitt kart. Tal i
 ein sirkel er fleire baner: trykk for å zoome inn. Trykk på ei bane for å opne
 banesida eller **▶ Spill**. **☰ Liste** tek deg tilbake til lista.
-Banesida viser layoutar, hol, par og lengd der det finst. Baner merka
-**Ufullstendige data** manglar noko informasjon.
+Øvst på banesida står nøkkeltal: kor mange layoutar, hol og par på hovudlayouten, kor mange
+rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida delt i faner:
 
-Er du innlogga og har spelt bana, ser du **Rundane dine her** på banesida: dei siste fem
-rundane, kor mange du har spelt og beste score. **Alle rundane dine på bana** opnar lista på
-profilen.
+- **Oversikt**: kartet, layoutane med **Spill denne layouten**, og rundane dine på bana.
+- **Layoutar**: alle hol med par og lengd, SSA og ratingtabellen per layout.
+- **Kart**: berre kartet.
+- **Resultat**: konkurransane på bana, nyaste først, med lenkje til resultata.
+- **Rundane dine** (innlogga): statistikken din på bana og alle rundane dine der.
+
+Baner merka **Ufullstendige data** manglar noko informasjon.
 
 Trykk **📍 Slå på GPS** over kartet på banesida for å sjå kvar du er i høve til
 bana. Under kartet står den næraste teen eller korga og kor langt unna ho er.
