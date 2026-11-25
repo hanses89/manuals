@@ -248,8 +248,13 @@ Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
 
 ## Fullfør runden
 
-På siste hol blir **Neste** til **Fullfør runden**. Knappen er grå til alle
-spelarane har score på alle hola. Etterpå viser appen stillinga.
+På siste hol går **Neste** til **oppsummeringa**, og der finn du **Fullfør runden**. Knappen
+er grå til alle spelarane har score på alle hola. Etterpå viser appen stillinga.
+
+**Del runden:** når du er innlogga, kan du krysse av for **Del runden med dei som følgjer
+deg** i oppsummeringa. Då blir runden vist i feeden til dei som følgjer deg, og for alle som
+har lenkja. Valet blir hugsa til neste runde. Utan kryss er runden privat. Du kan endre det
+seinare på rundesida.
 
 Du kan avslutte når som helst med **Avslutt** øvst til høgre. Du ser kor mange hol du har
 ført og kan velje:
@@ -262,6 +267,18 @@ ført og kan velje:
 
 På klokka: hald **OPP** inne og vel **Lagre runden** eller **Slett runden** (med
 stadfesting).
+
+## Feed og følgjarar
+
+**Feed** (i menyen øvst på PC, under **☰** på mobil) viser dei siste rundane til spelarane du
+følgjer, og dine eigne. Berre konkurranserundar og rundar spelaren sjølv har delt kjem med,
+aldri private rundar eller kort utan score.
+
+- **Følg** ein spelar med knappen øvst på spelarsida. Spelaren må ha offentleg profil.
+- Til høgre på feed-sida (under på mobil) får du forslag: spelarar du har spelt med.
+- Kvar runde viser score mot par, kast, rating (\* = uoffisiell, rekna frå SSA-en til bana)
+  og kven du spelte med. Trykk **👏** for å gi applaus, og **Se runden** for scorekortet.
+- På framsida (PC) ser du dei fire siste rundane frå dei du følgjer.
 
 ## Slette ein runde
 
