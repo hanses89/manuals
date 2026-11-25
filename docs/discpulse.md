@@ -327,6 +327,11 @@ Hola får kart når nokon har plassert tee og korg:
 - **Klubben som driv bana** kan gjere det sjølv. Eigarar og administratorar av
   klubben ser knappen **Kartlegg bana** (eller **Rediger**) på banesida. Ei bane
   utan klubb kan berre ein administrator i DiscPulse redigere.
+- **Teeskilt:** i same editor vel du eit hol og trykkjer **🪧 Legg til teeskilt**. Ta
+  bilete av skiltet eller vel eit bilete. Det blir gjort mindre på telefonen før det
+  blir lasta opp. **Byt bilete** og **Fjern** gjer det dei seier. Hola må vere lagra
+  først. Under runden ser spelarane **🪧 Teeskilt** i holboksen og opnar skiltet i
+  fullskjerm. Skilta blir lasta ned når runden startar, så dei er der òg utan dekning.
 - **Spelarane** hjelper til utan å gjere noko ekstra. Når fleire spelarar har
   ført kaststatistikk med GPS på eit hol, lærer DiscPulse kvar teen og korga er.
   Det skjer berre når minst tre spelarar er einige om teen og minst fem om
