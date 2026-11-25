@@ -143,6 +143,18 @@ nøyaktig nok (±25 m).
     Mange baner har enno ikkje GPS-punkt for hola. Då ser du berre kartet over
     området. Sjå [Kvifor har ikkje alle banane kart?](#kvifor-har-ikkje-alle-banane-kart).
 
+## Scorekort på nettet
+
+Kvar runde har si eiga side med heile scorekortet: stillinga på kortet, alle hol med
+fargar, lengd og par, og statistikken til dei som førte han.
+
+- Under **Mine runder** opnar du scorekortet med **📋** når runden er synka.
+- På ei spelarside opnar du ein runde ved å trykke på ratinga til høgre.
+- Konkurranserundar og importerte resultat er opne for alle.
+- Dine eigne rundar er private. Det er berre du og spelarane på kortet som ser
+  dei. Trykk **Del runden** på scorekortet, så kan alle med lenkja sjå det, og
+  **Kopier lenkje** for å sende det vidare. **Gjer privat** stengjer det igjen.
+
 ## Fargar på scorekortet
 
 Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
