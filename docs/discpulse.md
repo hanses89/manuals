@@ -348,6 +348,12 @@ telefonen og klokka. Konkurransekort kan ikkje slettast.
 
 Vel **Banar** (i staden for **Dato**) for å sjå alle banane du har spelt: kor mange
 rundar, når du sist spelte og beste score. Trykk på ei bane for å sjå rundane der.
+Øvst står **statistikken din på bana**, per layout:
+
+- **Beste runde** og **snitt** for heile rundar (alle hol, ikkje brotne).
+- **Flest kast tapt**: dei hola der du i snitt bruker mest over par.
+- **Snitt per hol**: kvart hol med snittet ditt, beste score og kor mange gonger du har spelt
+  det. Grønt er under par i snitt, raudt over. Hald peikaren over (PC) for fordelinga.
 
 - Konkurranserundar har den offisielle DiscPulse-ratinga. Ein fullført uformell runde på
   ei bane med SSA får ei rating rekna ut med same formel, merkt **\***. Ho tel ikkje i den
