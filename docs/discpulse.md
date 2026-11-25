@@ -56,11 +56,13 @@ rett til spelarane.
 
 Øvst ser du holnummer, par og lengd. Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar.
 
+Med fleire spelarar står kasterekkjefølgja for holet over korta, til dømes «1. Cia → 2. Bo → 3. Meg», og korta står i same rekkjefølgje. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
+
 | Gjer | Slik |
 |---|---|
 | Set score raskt | Trykk på eit av tala **1–6** under spelaren |
 | Juster | Trykk **−** eller **+**. Er holet tomt, startar **+** på par + 1 og **−** på par − 1 |
-| Set par | Trykk på det store, tomme feltet midt på kortet |
+| Set par | Trykk på det store feltet midt på kortet. På eit tomt hol står par der i grått |
 | Neste hol | **Neste ›**, eller sveip mot venstre |
 | Førre hol | **‹ Forrige**, eller sveip mot høgre |
 | Angre | **↶ Angre** tek bort den siste endringa, éi om gongen |
@@ -168,8 +170,8 @@ Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
 | Bogey (1 over) | Raud | ▲ |
 | Dobbel bogey (2 over) | Lilla | ▲▲ |
 | Trippel bogey (3 over) | Brun | ▲▲▲ |
-| Firedobbel bogey (4 over) | Mørk brun | ▲▲▲▲ |
-| 5 over eller verre | Nesten svart (grå på klokka) | ▲×5, ▲×6 … |
+| Quad bogey (4 over) | Mørk brun | ▲▲▲▲ |
+| 5 over eller verre | Nesten svart (grå på klokka) | +5, +6 … |
 
 ## Fullfør runden
 
@@ -467,8 +469,13 @@ og vel **Statistikk**.
 blir rekna ut av kasta, slik som på telefonen. Vil du berre føre score på eit hol,
 trykk **OPP** før du merkar eit kast.
 
-På klokka aukar **OPP** scoren og **NED** senkar han. Den første trykken på eit
-tomt hol set par. **SELECT** går til neste hol, og **TILBAKE** går til førre. Hald
+Telefonen og klokka står på same hol: byter du hol på den eine, følgjer den andre
+etter innan 10 sekund. Kast du har merka på telefonen, kjem òg til klokka. Du kan
+byrje eit hol på telefonen og fullføre det på klokka.
+
+På eit nytt hol viser klokka par i grått som utgangspunkt. **OPP** aukar scoren og
+**NED** senkar han (frå par). **SELECT** lagrar par om du ikkje har endra noko, og går
+til neste hol. **TILBAKE** går til førre. Hald
 **OPP** inne for å fullføre runden. Klokka lagrar runden etter kvart trykk og synkar
 gjennom telefonen. Ein grøn prikk nedst betyr at alt er synka.
 
