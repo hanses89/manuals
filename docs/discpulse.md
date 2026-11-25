@@ -98,7 +98,15 @@ rundane DiscPulse kjenner (importerte resultat og eigne rundar) og, når du er i
 par, bogey og dobbel eller verre. Statistikken blir lagra på telefonen, så han er der òg
 utan dekning. Har bana eit notat for holet (til dømes om OB eller trafikk), står det
 rett under. Nedst står alle hola som tal: trykk eitt for å hoppe dit; hol du har ført,
-har fargen til scoren din.
+har fargen til scoren din. Sveip stripa til sides for å sjå fleire hol. Ho stoppar der du
+slepp (på PC kan du dra med musa).
+
+**Midtvegs og oppsummering:** på layoutar med 10 hol eller fleire opnar **Neste** etter
+siste hol på første halvdel ein **midtvegsgjennomgang**: score mot par for kvar spelar,
+alle hola i scorefargar og fordelinga (birdie eller betre, par, bogey, dobbel eller verre).
+**Hald fram ›** tek deg til neste hol. På siste hol går **Neste** til **oppsummeringa** av
+heile runden, og der fullfører du runden. Begge ligg òg som eigne knappar i holstripa
+(**½ Midtvegs** og **🏁 Oppsummering**), så du kan opne dei når som helst.
 
 Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar. Er de fleire, er korta tettare (mindre knappar og
 **+ OB** ved sida av tala 1–6), så heile kortet får plass på skjermen.
@@ -611,9 +619,13 @@ tilbake.
 - Spelar de fleire: **«1/3 Bo»** – kven som står for tur (grønt = deg) og plassen i
   kasterekkjefølgja.
 - Den store talet er scoren på holet (grått = ikkje ført enno, ellers i scorefargen).
-- **Total +2 (38)** for spelaren som står for tur.
+- **Total +2 (38)** for spelaren som står for tur – under par i grønt, over par i raudt.
+- **Ringen langs kanten** viser runden: eitt stykke per hol, med klokka frå toppen. Spelte
+  hol har fargen til scoren (same fargar som på mobilen: kvitt par, grønt birdie, raudt
+  bogey …), mørke stykke står att, og ei lysegrøn linje på innsida markerer holet du står på.
+- **Klokkeslettet** står nedst, med synk-prikken til venstre.
 - Har bana GPS-punkt: **→ 54 m** (grøn) = avstanden til korga frå der du står.
-- Prikken nedst: **grøn** = alt er synka, **grå** = ventar på å sende.
+- Prikken ved klokkeslettet: **grøn** = alt er synka, **grå** = ventar på å sende.
 
 ### Start ein runde
 
