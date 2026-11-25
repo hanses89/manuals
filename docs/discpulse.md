@@ -54,7 +54,7 @@ rett til spelarane.
 
 ## Før score
 
-Øvst ser du holnummer og par. Under er det eit kort per spelar.
+Øvst ser du holnummer, par og lengd. Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar.
 
 | Gjer | Slik |
 |---|---|
@@ -64,7 +64,6 @@ rett til spelarane.
 | Neste hol | **Neste ›**, eller sveip mot venstre |
 | Førre hol | **‹ Forrige**, eller sveip mot høgre |
 | Angre | **↶ Angre** tek bort den siste endringa, éi om gongen |
-| Endre par på holet | **−** / **+** ved «Par» i holboksen |
 | OB | **+ OB** under spelaren. Straffeslaget blir lagt til scoren av seg sjølv, og kortet viser «OB ×1». Trykte du feil, tek **−** bort både OB-en og straffeslaget |
 
 ### Statistikk
@@ -169,7 +168,8 @@ Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
 | Bogey (1 over) | Raud | ▲ |
 | Dobbel bogey (2 over) | Lilla | ▲▲ |
 | Trippel bogey (3 over) | Brun | ▲▲▲ |
-| 4 over eller verre | Mørk brun | ▲▲▲ |
+| Firedobbel bogey (4 over) | Mørk brun | ▲▲▲▲ |
+| 5 over eller verre | Nesten svart (grå på klokka) | ▲×5, ▲×6 … |
 
 ## Fullfør runden
 
