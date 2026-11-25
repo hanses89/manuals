@@ -278,6 +278,9 @@ aldri private rundar eller kort utan score.
 - Til høgre på feed-sida (under på mobil) får du forslag: spelarar du har spelt med.
 - Kvar runde viser score mot par, kast, rating (\* = uoffisiell, rekna frå SSA-en til bana)
   og kven du spelte med. Trykk **👏** for å gi applaus, og **Se runden** for scorekortet.
+- **Høgdepunkt** står som merkelappar på runden: 🏅 personleg rekord på layouten (med kor
+  mange kast betre), ⭐ ace, 🛡️ bogeyfri runde og nye merke eller rating-milepælar som vart
+  nådde i den runden.
 - På framsida (PC) ser du dei fire siste rundane frå dei du følgjer.
 
 ## Slette ein runde
@@ -357,7 +360,9 @@ Tabellen følgjer gjeldande SSA, så han endrar seg når banen får ny SSA.
 **Utvikling** byrjar med **streaks**: kor mange veker og dagar på rad du har spelt, den
 lengste streaken, og eit varsel når du må spele denne veka (eller i dag) for å halde han.
 Under står **merka**: birdies, eagles, ace, par, rundar, hol, banar, rundar under par,
-bogeyfrie rundar og tre birdies på rad. Kvart merke har nivå (farga når du har nådd det),
+bogeyfrie rundar, tre birdies på rad, **personlege rekordar** (ein heil runde på ein layout
+under den beste du har hatt der før) og **beste rundrating** (milepælar frå 600 til 1000).
+Brotne rundar (DNF) tel ikkje som heile rundar. Kvart merke har nivå (farga når du har nådd det),
 dato for når du nådde det, og kor langt det er att til neste nivå (til dømes «4 / 10» med ein strek).
 
 Vidare viser **Utvikling** rundar, hol og kast, kor mange banar du har spelt og kva for ei du har
