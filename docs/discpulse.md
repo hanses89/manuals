@@ -56,7 +56,7 @@ rett til spelarane.
 
 Øvst ser du holnummer, par og lengd. Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar.
 
-Med fleire spelarar står kasterekkjefølgja for holet over korta, til dømes «1. Cia → 2. Bo → 3. Meg», og korta står i same rekkjefølgje. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
+Med fleire spelarar kjem kasterekkjefølgja opp på heile skjermen når du trykkjer **Neste ›** til eit hol ingen har ført score på enno. Der står spelarane med store namn, totalen og scoren frå førre hol. Trykk **Start holet ›** (eller på eit namn) for å føre score. Korta står i same rekkjefølgje, med nummer framfor namnet. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
 
 | Gjer | Slik |
 |---|---|
@@ -84,11 +84,17 @@ der du førte statistikk.
 Trykk **📊** to gonger, så knappen viser **🎯**. GPS-en slår seg på, og under di eiga
 rad kjem panelet **Kast for kast**:
 
-1. På teen: trykk **🥏 Kast 1 herifrå**.
-2. Gå til discen og trykk kvar kastet landa: **Fairway**, **Rough**, **OB**, **C2**,
-   **C1** eller **I kurva**. Neste kast startar då frå der du står.
+1. Kast 1 er alltid frå teen, så du treng ikkje trykkje noko før du kastar.
+2. Gå til discen og trykk kvar kastet landa: **C1**, **C2**, **Fairway**, **Rough**,
+   **OB**, **Mando-miss** eller **I kurva**. Neste kast startar då frå der du står.
 3. Når du trykkjer **I kurva**, blir scoren sett til talet på kast, pluss eitt straffeslag
-   per OB.
+   per OB og per mando-miss.
+
+Vala står med det mest sannsynlege først. Med GPS avgjer avstanden til kurva frå der du
+står: under 3 m kjem **I kurva** først, under 10 m **C1**, under 20 m **C2**, elles
+**Fairway**. Utan GPS følgjer rekkjefølgja par: drive på par 3 gir **C1**/**C2** først,
+drive på par 4 og 5 gir **Fairway**/**Rough**/**OB**/**Mando-miss** først, og kastet
+for par eller putt frå C1/C2 gir **I kurva** først.
 
 Appen reknar ut kor langt kvart kast var, og viser kor langt det er att til kurva
 (når holet har koordinatar for kurva). Trykk på kasttypen (Drive, Innspel, Putt) for å
@@ -457,21 +463,27 @@ Har du slått på statistikk for runden på telefonen (📊 eller 🎯), fører 
 statistikk på klokka òg. Du kan slå det av eller på for klokka: hald **OPP** inne
 og vel **Statistikk**.
 
-1. Stå der du kastar frå og trykk **SELECT**. Klokka merkar kastet med posisjonen
-   og avstanden til korga.
-2. Gå til disken og trykk **SELECT** igjen. Vel kvar han landa: **I kurven**,
-   **Sirkel 1**, **Sirkel 2**, **Fairway**, **Rough** eller **OB**. Øvst ser du
-   kor langt det er til korga derifrå.
-3. Landa han ikkje i korga, startar neste kast der du står.
-4. **I kurven** avsluttar holet og set scoren. **SELECT** går så til neste hol.
+1. Kast frå teen. Kast 1 er alltid frå teen, så du treng ikkje trykkje noko der.
+2. Gå til disken og trykk **SELECT**. Vel kvar han landa: **I kurven**, **Sirkel 1**,
+   **Sirkel 2**, **Fairway**, **Rough**, **OB** eller **Mando-miss**. Det mest
+   sannsynlege står øvst (same regel som på telefonen), og tittelen viser kor langt
+   det er til korga derifrå.
+3. Landa han ikkje i korga, startar neste kast der du står. Gå til disken og trykk
+   **SELECT** igjen.
+4. **I kurven** avsluttar holet og set scoren. OB og mando-miss gir eitt straffeslag.
+   **SELECT** går så til neste hol.
 
 **Angre** i lista tek bort det siste kastet. Fairway, C1/C2 i regulering og putt
 blir rekna ut av kasta, slik som på telefonen. Vil du berre føre score på eit hol,
-trykk **OPP** før du merkar eit kast.
+trykk **OPP** eller **NED** før du trykkjer **SELECT** første gong.
 
 Telefonen og klokka står på same hol: byter du hol på den eine, følgjer den andre
 etter innan 10 sekund. Kast du har merka på telefonen, kjem òg til klokka. Du kan
 byrje eit hol på telefonen og fullføre det på klokka.
+
+**OB på klokka:** hald **OPP** inne og vel **OB +1** (øvst i menyen). Straffeslaget
+blir lagt til scoren, og klokka viser «OB ×1» i raudt. **OB −1** i same meny tek det
+bort igjen. OB følgjer med til telefonen og tilbake.
 
 På eit nytt hol viser klokka par i grått som utgangspunkt. **OPP** aukar scoren og
 **NED** senkar han (frå par). **SELECT** lagrar par om du ikkje har endra noko, og går
