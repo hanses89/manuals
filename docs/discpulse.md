@@ -268,20 +268,24 @@ ført og kan velje:
 På klokka: hald **OPP** inne og vel **Lagre runden** eller **Slett runden** (med
 stadfesting).
 
-## Feed og følgjarar
+## Feed, følgjarar og varsel
 
-**Feed** (i menyen øvst på PC, under **☰** på mobil) viser dei siste rundane til spelarane du
-følgjer, og dine eigne. Berre konkurranserundar og rundar spelaren sjølv har delt kjem med,
+Når du er innlogga, er **Heim** feeden din: dei siste rundane til spelarane du følgjer, og
+dine eigne. På mobil står han under **Start runde** og banane nær deg. Berre konkurranserundar og rundar spelaren sjølv har delt kjem med,
 aldri private rundar eller kort utan score.
 
 - **Følg** ein spelar med knappen øvst på spelarsida. Spelaren må ha offentleg profil.
-- Til høgre på feed-sida (under på mobil) får du forslag: spelarar du har spelt med.
+- Til høgre (nedst på mobil) får du forslag: spelarar du har spelt med.
 - Kvar runde viser score mot par, kast, rating (\* = uoffisiell, rekna frå SSA-en til bana)
   og kven du spelte med. Trykk **👏** for å gi applaus, og **Se runden** for scorekortet.
 - **Høgdepunkt** står som merkelappar på runden: 🏅 personleg rekord på layouten (med kor
   mange kast betre), ⭐ ace, 🛡️ bogeyfri runde og nye merke eller rating-milepælar som vart
   nådde i den runden.
-- På framsida (PC) ser du dei fire siste rundane frå dei du følgjer.
+
+**Varsel:** bjølla **🔔** øvst viser kor mange nye varsel du har. Du får varsel når nokon
+byrjar å følgje deg, når nokon gir **👏** til ein runde du var med på, og når ratinga di
+endrar seg etter nattkøyringa. Trykk på bjølla for lista. Då blir varsla merkte som lesne.
+Varsla er med i dataeksporten, og blir sletta saman med kontoen.
 
 ## Slette ein runde
 
