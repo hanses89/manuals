@@ -383,6 +383,10 @@ tomme = uformelle) mot den offisielle ratinga (lina). Under står statistikken f
 kaststatistikken din (fairway, C1R, C2R, putt).
 ### Kople til Metrix-profilen din
 
+**Aktivitet** viser tid på bana, snitt per runde og samla hollengd du har spelt i perioden.
+Tida kjem frå rundar med start- og sluttid mellom 10 minutt og 8 timar. Importerte resultat og
+rundar som er førte i etterkant tel ikkje. Lengda kjem frå hol med kjend lengd.
+
 **Banane du har spelt** står på eit kart lenger nede på **Utvikling**. Trykk på ei bane for å
 sjå kor mange rundar du har der, opne statistikken din på bana eller starte ein ny runde.
 
