@@ -59,7 +59,15 @@ rett til spelarane.
 
 ## Før score
 
-Øvst ser du holnummer, par og lengd. Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar.
+Øvst ser du holnummer, lengd og par på éi linje. Under står **snittet på holet** frå alle
+rundane DiscPulse kjenner (importerte resultat og eigne rundar) og, når du er innlogga,
+**ditt snitt** og **beste** score. Trykk på linja for å sjå fordelinga: birdie eller betre,
+par, bogey og dobbel eller verre. Statistikken blir lagra på telefonen, så han er der òg
+utan dekning. Har bana eit notat for holet (til dømes om OB eller trafikk), står det
+rett under. Nedst står alle hola som tal: trykk eitt for å hoppe dit; hol du har ført,
+har fargen til scoren din.
+
+Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar.
 
 Med fleire spelarar kjem kasterekkjefølgja opp på heile skjermen når du trykkjer **Neste ›** til eit hol ingen har ført score på enno. Der står spelarane med store namn, totalen og scoren frå førre hol. Trykk **Start holet ›** (eller på eit namn) for å føre score. Korta står i same rekkjefølgje, med nummer framfor namnet. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
 
@@ -206,7 +214,7 @@ ført og kan velje:
 - **Lagre runden**: runden blir fullført med dei hola du har spelt. Eit
   konkurransekort kan berre lagrast når alle hola er førte.
 - **Slett runden**: to trykk. Runden blir sletta på telefonen og på serveren (utan
-  dekning så snart du får nett). Eit konkurransekort blir berre fjerna frå telefonen din.
+  dekning så snart du får nett), og forsvinn òg frå klokka og andre einingar. Eit konkurransekort blir berre fjerna frå telefonen din.
 - **Hald fram å spele**: tilbake til runden.
 
 På klokka: hald **OPP** inne og vel **Lagre runden** eller **Slett runden** (med
