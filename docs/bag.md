@@ -217,7 +217,8 @@ vanleg bag att.
 I **Feed** ser du oppdateringar frå spelarane du følgjer: nye diskar, nye
 baggar og innlegg dei skriv. Du kan like og kommentere, og på profilen til ein
 annan spelar trykkjer du **Følg**. Bjølla oppe til høgre viser varsel om nye
-kommentarar, likes og følgjarar.
+kommentarar, likes og følgjarar. Likar nokon det same fleire gonger, får du
+berre eitt varsel.
 
 Skriv `@brukarnamn` for å nemne nokon, òg brukarnamn med bindestrek
 (til dømes `@hans-erik`). Dei får varsel.
