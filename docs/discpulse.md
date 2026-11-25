@@ -8,6 +8,31 @@ inn blir lagra på telefonen med ein gong, og sendt vidare når du får nett att
     Knappane i appen er på bokmål. Du kan føre score utan konto; med konto
     blir rundane lagra på profilen din.
 
+## Rask start
+
+=== "Mobilen"
+
+    1. Trykk den grøne **Spill**-knappen nedst (eller **▶ Start runde på næraste bane** på
+       startsida).
+    2. Vel bane og layout.
+    3. Skriv inn spelarane (du er nummer éin), vel **statistikk** (Av, Rask eller Kast for kast)
+       og trykk **Start runden**.
+    4. På kvart hol: trykk talet (1–6) eller **−**/**+** for kvar spelar. Det store feltet
+       midt på kortet set par med eitt trykk.
+    5. Trykk **Neste ›** (eller sveip mot venstre) for neste hol.
+    6. Når du er ferdig: **Avslutt** øvst til høgre → **Lagre runden**.
+
+=== "Klokka"
+
+    1. Start runden på mobilen (som over) – klokka hentar han sjølv. Eller vel
+       **Baner nær meg** på klokka og start der.
+    2. **OPP**/**NED** endrar scoren (eit tomt hol startar på par, vist i grått).
+    3. **SELECT** stadfestar og går til neste spelar eller neste hol.
+    4. **TILBAKE** går eitt steg tilbake.
+    5. Hald **OPP** inne for menyen: OB, kortet, statistikk, lagre eller slette runden.
+
+    Sjå [Garmin-klokke](#garmin-klokke) for statistikk og alle detaljane.
+
 ## Legg appen på heimeskjermen
 
 Gjer dette før første runde. Då opnar appen seg som ein vanleg app, og
@@ -26,6 +51,10 @@ iPhone tek betre vare på rundane du har lagra.
     3. Vel **Installer app** eller **Legg til på startskjermen**.
 
 ## Start ein runde
+
+På PC-en viser startsida tal for banar, layoutar og konkurransar (trykk for å opne
+listene), dei mest spelte banane siste året, komande konkurransar (eller dei siste
+resultata) og toppen av rangeringa. Nedst finn du lenkjer til resten av DiscPulse.
 
 På mobilen er startsida laga for å spele:
 
@@ -70,7 +99,7 @@ har fargen til scoren din.
 Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar. Er de fleire, er korta tettare (mindre knappar og
 **+ OB** ved sida av tala 1–6), så heile kortet får plass på skjermen.
 
-Med fleire spelarar kjem kasterekkjefølgja opp på heile skjermen når du trykkjer **Neste ›** til eit hol ingen har ført score på enno. Der står spelarane med store namn, totalen og scoren frå førre hol. Trykk **Start holet ›** (eller på eit namn) for å føre score. Korta står i same rekkjefølgje, med nummer framfor namnet. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
+Med fleire spelarar står korta i kasterekkjefølgja, med nummer framfor namnet. Vil du ha rekkjefølgja på heile skjermen før kvart nytt hol (store namn, total og scoren frå førre hol), slår du på **Kasterekkjefølgje før kvart hol** under **Profil → ⚙ Innstillingar**. Då trykkjer du **Start holet ›** for å føre score. Den som hadde lågast score på førre hol, kastar først. Står dei likt, gjeld rekkjefølgja frå holet før. Den første utan score på holet er merkt **Neste ut**.
 
 | Gjer | Slik |
 |---|---|
@@ -84,7 +113,7 @@ Med fleire spelarar kjem kasterekkjefølgja opp på heile skjermen når du trykk
 
 ### Statistikk
 
-Trykk **📊** øvst på scorekortet for å slå på statistikkmodus. Under di eiga rad
+Vel statistikk når du set opp runden (**Av**, **Rask** eller **Kast for kast**; valet blir hugsa til neste gong), eller trykk **📊** øvst på scorekortet og vel der. **Rask** gir statistikkmodus. Under di eiga rad
 (berre di) kjem det knappar for **Fairway**, **C1** og **C2** (nådde sirkelen i
 regulation, altså på par − 2 kast eller færre; C1 gjeld òg som C2) og talet på
 **putt**. Statistikken blir synka som scoren og fungerer offline.
@@ -95,7 +124,7 @@ der du førte statistikk.
 
 ### Kast for kast
 
-Trykk **📊** to gonger, så knappen viser **🎯**. GPS-en slår seg på, og under di eiga
+Vel **Kast for kast** (i oppsettet eller under **📊**), så knappen viser **🎯**. GPS-en slår seg på, og under di eiga
 rad kjem panelet **Kast for kast**:
 
 1. Kast 1 er alltid frå teen, så du treng ikkje trykkje noko før du kastar.
@@ -210,7 +239,7 @@ Kvar score har sin farge og sitt merke, likt på telefon, PC og klokke:
 På siste hol blir **Neste** til **Fullfør runden**. Knappen er grå til alle
 spelarane har score på alle hola. Etterpå viser appen stillinga.
 
-Du kan avslutte når som helst med **🏁** øvst til høgre. Du ser kor mange hol du har
+Du kan avslutte når som helst med **Avslutt** øvst til høgre. Du ser kor mange hol du har
 ført og kan velje:
 
 - **Lagre runden**: runden blir fullført med dei hola du har spelt. Eit
@@ -518,74 +547,111 @@ ratingen hans. Sida **Rating** forklarar utrekninga og har ein kalkulator.
 
 ## Garmin-klokke
 
+### Kople til klokka
+
 1. Installer **DiscPulse** på klokka frå Connect IQ.
 2. Opne appen. Klokka viser ein kode, til dømes `K7F2-9QXM`.
-3. På telefonen eller PC-en: gå til **Profil → Garmin-klokke**, skriv inn koden og
-   trykk **Kople til**. Klokka koplar seg til av seg sjølv etter nokre sekund.
-4. Vel **Baner nær meg**, så banen og layouten.
+3. På mobilen eller PC-en: gå til **Profil → ⚙ Innstillingar → Garmin-klokke**, skriv
+   inn koden og trykk **Kople til**. Klokka koplar seg til av seg sjølv etter nokre sekund.
 
-**Start runden på telefonen, før han på klokka.** Har du starta ein runde på
-telefonen (eller PC-en) i løpet av dei siste 12 timane, hentar klokka han sjølv
-når du opnar appen. Startar du runden etter at appen er open, finn klokka han av seg
-sjølv innan 10 sekund medan hovudmenyen er open, eller med ein gong når du vel
-**Runde frå mobil**. Klokka står då på holet du er på. Er de fleire på kortet, viser
-klokka kasterekkjefølgja når du kjem til eit nytt hol (same regel som på telefonen);
-trykk ein knapp for å føre score.
-
-**Før for heile kortet.** Har du starta runden, kan du føre for alle på kortet frå
-klokka. Namnet til den som står for tur, står over scoren (til dømes «1/3 Bo»).
-**OPP**/**NED** endrar scoren, og **SELECT** stadfestar og går til nestemann i
-kasterekkjefølgja; etter den siste går klokka til neste hol. **TILBAKE** går til
-førre spelar. Statistikk og OB fører du berre for deg sjølv. Det du fører for dei
-andre, kjem på telefonen òg, og omvendt. Scoren du fører på
-klokka, kjem på same scorekort som på telefonen, og avsluttar du runden på
-telefonen, blir han avslutta på klokka òg. Klokka fører berre din eigen score.
-Medspelarar og lagspel førast på telefonen.
-
-Du kan føre litt på klokka og litt på telefonen. Dei held seg i synk: klokka hentar
-det du har ført på telefonen etter kvart hol og kvart 10. sekund, og telefonen
-hentar det du har ført på klokka. Fører du same hol på begge, gjeld det siste.
-Hald **OPP** inne og vel **Kortet** for å sjå stillinga til medspelarane.
-
-Klokka viser **Hol 4** øvst og **Par 3 · 87 m** under. Har bana GPS-punkt, står
-avstanden til korga med grøn skrift nedst.
-
-### Statistikk på klokka
-
-Har du slått på statistikk for runden på telefonen (📊 eller 🎯), fører du
-statistikk på klokka òg. Du kan slå det av eller på for klokka: hald **OPP** inne
-og vel **Statistikk**.
-
-1. Kast frå teen. Kast 1 er alltid frå teen, så du treng ikkje trykkje noko der.
-2. Gå til disken og trykk **SELECT**. Vel kvar han landa: **I kurven**, **Sirkel 1**,
-   **Sirkel 2**, **Fairway**, **Rough**, **OB** eller **Mando-miss**. Det mest
-   sannsynlege står øvst (same regel som på telefonen), og tittelen viser kor langt
-   det er til korga derifrå.
-3. Landa han ikkje i korga, startar neste kast der du står. Gå til disken og trykk
-   **SELECT** igjen.
-4. **I kurven** avsluttar holet og set scoren. OB og mando-miss gir eitt straffeslag.
-   **SELECT** går så til neste hol.
-
-**Angre** i lista tek bort det siste kastet. Fairway, C1/C2 i regulering og putt
-blir rekna ut av kasta, slik som på telefonen. Vil du berre føre score på eit hol,
-trykk **OPP** eller **NED** før du trykkjer **SELECT** første gong.
-
-Telefonen og klokka står på same hol: byter du hol på den eine, følgjer den andre
-etter innan 10 sekund. Kast du har merka på telefonen, kjem òg til klokka. Du kan
-byrje eit hol på telefonen og fullføre det på klokka.
-
-**OB på klokka:** hald **OPP** inne og vel **OB +1** (øvst i menyen). Straffeslaget
-blir lagt til scoren, og klokka viser «OB ×1» i raudt. **OB −1** i same meny tek det
-bort igjen. OB følgjer med til telefonen og tilbake.
-
-På eit nytt hol viser klokka par i grått som utgangspunkt. **OPP** aukar scoren og
-**NED** senkar han (frå par). **SELECT** lagrar par om du ikkje har endra noko, og går
-til neste hol. **TILBAKE** går til førre. Hald
-**OPP** inne for å fullføre runden. Klokka lagrar runden etter kvart trykk og synkar
-gjennom telefonen. Ein grøn prikk nedst betyr at alt er synka.
-
-Under **Profil → Garmin-klokke** ser du dei kopla klokkene dine. Der kan du òg
+Under **Profil → ⚙ Innstillingar → Garmin-klokke** ser du dei kopla klokkene dine og kan
 fjerne ei klokke du har mista eller selt.
+
+### Knappane
+
+På fēnix og liknande klokker heiter knappane **START** (= SELECT) og **BACK/LAP**
+(= TILBAKE). **MENU** får du ved å halde **OPP** inne.
+
+| Knapp | På scorekortet |
+|---|---|
+| **OPP** | +1 på scoren (eit tomt hol startar på par + 1) |
+| **NED** | −1 på scoren (eit tomt hol startar på par − 1) |
+| **SELECT / START** | Ferdig: lagrar scoren (par om du ikkje har endra noko) og går til neste spelar, etter den siste til neste hol. Med statistikk: «kvar landa kastet?» |
+| **TILBAKE / BACK** | Førre spelar, eller førre hol |
+| **Hald OPP (MENU)** | Meny: **OB +1/−1**, **Kortet**, **Statistikk** av/på, **Lagre runden**, **Slett runden** |
+
+**Peikeskjerm** (klokker som har det): trykk øvst på skjermen for +1, nedst for −1 og i
+midten for SELECT. Sveip mot venstre for å stadfeste og gå vidare, mot høgre for å gå
+tilbake.
+
+### Kva du ser
+
+- **Hol 4** øvst og **Par 3 · 87 m** under.
+- Spelar de fleire: **«1/3 Bo»** – kven som står for tur (grønt = deg) og plassen i
+  kasterekkjefølgja.
+- Den store talet er scoren på holet (grått = ikkje ført enno, ellers i scorefargen).
+- **Total +2 (38)** for spelaren som står for tur.
+- Har bana GPS-punkt: **→ 54 m** (grøn) = avstanden til korga frå der du står.
+- Prikken nedst: **grøn** = alt er synka, **grå** = ventar på å sende.
+
+### Start ein runde
+
+- **Frå mobilen (tilrådd):** start runden på mobilen eller PC-en. Opnar du appen på
+  klokka innan 12 timar, hentar ho runden sjølv. Er appen alt open, finn klokka runden
+  innan 10 sekund medan hovudmenyen er open, eller med ein gong når du vel
+  **Runde fra mobil**. Klokka står på holet du er på.
+- **Frå klokka:** vel **Baner nær meg**, så bana og layouten. Finn ikkje klokka posisjonen
+  innan 15 sekund, står det **Ingen GPS-posisjon** – gå ut i ope lende og trykk **SELECT**
+  for å prøve igjen.
+
+### Før score
+
+1. Kom til holet: talet står i grått (par).
+2. Trykk **OPP** eller **NED** til rett score – eller ingenting om det vart par.
+3. Trykk **SELECT**. Er de fleire, kjem neste spelar; etter den siste går klokka til neste hol.
+
+**Før for heile kortet:** har du starta runden, fører du for alle på kortet frå klokka,
+éin spelar om gongen i kasterekkjefølgja. Det du fører på klokka for dei andre, kjem på
+mobilen òg, og omvendt. Statistikk og OB fører du berre for deg sjølv.
+
+**OB:** hald **OPP** inne → **OB +1** (øvst). Straffeslaget blir lagt til, og klokka viser
+«OB ×1» i raudt. **OB −1** tek det bort igjen. Med statistikk vel du heller **OB** når du
+seier kvar kastet landa.
+
+### Statistikk på klokka – steg for steg
+
+Slå på: vel **Kast for kast** når du set opp runden på mobilen, eller hald **OPP** inne på
+klokka og vel **Statistikk**.
+
+Døme: hol 3, par 3, 84 m.
+
+1. **På teen:** kast. Du treng ikkje trykkje noko – kast 1 er alltid frå teen.
+2. **Ved disken:** trykk **SELECT**. Klokka spør **«Kast 1 · 9 m»** (9 m att til korga) og
+   viser vala med det mest sannsynlege øvst: **Sirkel 1, I kurven, Sirkel 2, Fairway, Rough,
+   OB, Mando-miss**. Vel **Sirkel 1** med **SELECT**.
+3. **Putt:** puttar du frå der du står. Gjekk han i: trykk **SELECT** og vel **I kurven**
+   (står no øvst). Holet er ferdig, og scoren (2) blir sett av seg sjølv.
+4. **Neste hol:** trykk **SELECT**.
+
+- Bomma du putten, vel **Sirkel 1** (der disken ligg no) og putt igjen.
+- **OB** og **Mando-miss** gir eitt straffeslag; neste kast er frå dropsona.
+- **Angre** nedst i lista tek bort det siste kastet.
+- Vil du berre føre score på eit hol: trykk **OPP** eller **NED** før du trykkjer **SELECT**.
+- Fairway, C1/C2 i regulering og putting blir rekna ut av kasta, slik som på mobilen.
+
+### Lagre eller slette runden
+
+Hald **OPP** inne og vel **Lagre runden** (hol du ikkje har spelt, blir ståande tomme)
+eller **Slett runden** (stadfest). Ein runde som blir sletta, forsvinn òg frå mobilen og
+nettet.
+
+### Klokke og mobil saman
+
+- Du kan føre litt på klokka og litt på mobilen. Begge hentar det andre har ført etter kvart
+  hol og kvart 10. sekund. Fører du same hol på begge, gjeld det siste.
+- Byter du hol på den eine, følgjer den andre etter innan 10 sekund.
+- Kast du har merka på mobilen, kjem til klokka: du kan byrje eit hol på mobilen og fullføre
+  det på klokka.
+- Hald **OPP** inne og vel **Kortet** for å sjå stillinga til medspelarane.
+
+### Feilsøking
+
+| Problem | Gjer slik |
+|---|---|
+| **Ingen GPS-posisjon** | Gå ut i ope lende og trykk **SELECT** for å prøve igjen |
+| Klokka finn ikkje runden frå mobilen | Sjekk at runden er starta med same konto og er synka på mobilen (✓ Synkronisert), og vel **Runde fra mobil** |
+| Prikken nedst er grå lenge | Klokka får ikkje sendt: sjekk at mobilen er i nærleiken med Garmin Connect og nett. Ingenting går tapt |
+| Klokka er kopla frå | Opne appen og kople til på nytt med koden (sjå over) |
 
 ## Språk og tema
 
