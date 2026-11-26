@@ -281,7 +281,7 @@ Når du er innlogga, er **Heim** feeden din: dei siste rundane til spelarane du 
 dine eigne. På mobil står han under **Start runde** og banane nær deg. Berre konkurranserundar og rundar spelaren sjølv har delt kjem med,
 aldri private rundar eller kort utan score.
 
-**Det neste for deg** står til høgre for feeden på PC og over han på mobil. Kvar liste har
+**Det neste for deg** står over feeden som boksar, i to eller tre kolonnar på PC og éin på mobil. Kvar liste har
 fanene **Komande** og **Tidlegare**.
 - **Konkurransane mine:** konkurransar du er påmeld (med dato, bane og layout), merkte
   *Venteliste* eller *Ventar* når du ikkje er stadfesta. Rundar i ein tour står som
