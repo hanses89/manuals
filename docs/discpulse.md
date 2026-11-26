@@ -635,6 +635,17 @@ meld deg på (det går òg medan konkurransen pågår), kryss av medspelarane du
 gå saman med under **Lag ditt eget kort**, vel starthol og trykk **Lag kortet**.
 Medspelarane ser kortet med ein gong og kan føre score på det.
 
+### Double-konkurranse
+
+Står det **👥 Double** (best shot, alternate shot eller worst shot) på konkurransen, meld
+deg på som vanleg, kvar for deg. Laga blir trekte når arrangøren lagar gruppene: den
+sterkaste (etter DiscPulse-rating) med den svakaste, og så vidare. Er de eit oddetal, blir
+eitt av laga ein trio. Gruppelista viser **Lag 1**, **Lag 2** … framfor namna. Flyttar
+arrangøren ein spelar til ei anna gruppe, blir heile laget med. På scorekortet har kvart
+lag éi rad («Anna & Bo»), og resultatlista viser laga. I ein double-liga får begge på laget
+same plassering og poeng. Double-rundar tel ikkje i ratinga. Arrangøren vel **Format** når
+konkurransen eller ligaen blir oppretta. Double kan ikkje kombinerast med flex start.
+
 ### Før score i konkurranse
 
 Når konkurransen har starta, ser du **Din gruppe** med starthol og tid.
