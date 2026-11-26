@@ -481,8 +481,10 @@ der på DiscPulse. På brei skjerm står kartet med dei same banane ved sida av 
 rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida delt i faner:
 
 **Kartet:** banekartet, kartet ved sida av lista og kartet over banane du har spelt brukar eit
-roleg eige kart med skog, vatn og stiar, i lyst eller mørkt etter temaet ditt. Kartet over bana og
-hola brukar Kartverket i Noreg (med terreng og høgdekurver) og det same rolege kartet elles.
+roleg eige kart med skog, vatn og stiar, i lyst eller mørkt etter temaet ditt. Kartet på banesida
+brukar òg det rolege kartet. I Noreg byter **🗻 Terreng** til Kartverket med terreng og høgdekurver,
+og valet blir hugsa. Kartet på scorekortet og i editoren brukar Kartverket i Noreg, for det er
+det kartet som blir lasta ned til bruk utan nett.
 
 Kvar bane i lista under **Baner** og under **Mest spilte baner** på framsida viser òg vêret akkurat
 no, til dømes *☀️ −3° · 1 m/s ↗*.
