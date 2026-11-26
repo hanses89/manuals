@@ -240,6 +240,9 @@ fargar, lengd og par, og statistikken til dei som førte han.
 - Dine eigne rundar er private. Det er berre du og spelarane på kortet som ser
   dei. Trykk **Del runden** på scorekortet, så kan alle med lenkja sjå det, og
   **Kopier lenkje** for å sende det vidare. **Gjer privat** stengjer det igjen.
+- **Vêr:** når du startar ein runde med nett, hentar scorekortet vêret ved bana frå MET Norway
+  (yr.no) og viser det øvst, til dømes *⛅ 7° · 3 m/s ↙* (pila viser kvar vinden blæs). Vêret
+  blir lagra på runden og står òg på rundesida som *Vêr ved start*.
 - **📷 Del som bilete** lagar scorekortet som eit bilete i ståande format: bane, layout, dato,
   og for kvar spelar (opptil fire) score mot par og kvart hol i scorefargen. På mobilen opnar
   delingsmenyen seg (Instagram, Messenger …), på PC blir biletet lasta ned. **Sjå biletet** opnar
