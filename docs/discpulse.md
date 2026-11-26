@@ -614,7 +614,8 @@ namnet:
 På ein runde står **Del av:** med lenkje til arrangementet (og touren over), og
 **‹ førre / neste ›** til runden før og etter. I lista over konkurransar står berre
 arrangementet, med talet på rundar og perioden. Ein serie som framleis går, står
-under *Komande* til siste runde er spelt.
+under *Komande* til siste runde er spelt. Komande konkurransar frå Metrix (dei neste 60 dagane)
+blir henta kvar natt, med dato, bane og kor mange som er påmelde.
 
 ## Klubbar
 
