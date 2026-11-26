@@ -603,7 +603,10 @@ Under søkefeltet på **Baner**, **Konkurransar** og **Klubbar** finn du filter,
 land, tal på hol, «med kart», kommande, pågåande eller ferdige konkurransar og
 DiscPulse eller Metrix. Filtera kan kombinerast med søket.
 
-På mobil ligg **Rangering**, **Klubbar**, **Bagtag** og **Søk** i menyen **☰** øvst til høgre.
+På mobil ligg **Rangering**, **Rating**, **Klubbar**, **Bagtag** og **Søk** i menyen **☰** øvst til høgre.
+På PC er menyen øvst samla i grupper: **Baner**, **Konkurransar ▾** (alle konkurransar,
+rangering, rating, bagtag og ny konkurranse), **Klubbar**, **Profil ▾** (profil, rundane dine,
+varsel og innstillingar) og **Spel**.
 
 ## Rangering
 
