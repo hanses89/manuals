@@ -476,6 +476,11 @@ rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida
 
 - **Oversikt**: kartet, layoutane med **Spill denne layouten**, og rundane dine på bana.
 - **Layoutar**: alle hol med par og lengd, SSA og ratingtabellen per layout.
+
+Kvar layout viser òg kor lang tid ein runde tek (*≈ 1 t 10 min per runde*, medianen av
+rundar med ekte start og slutt, minst tre) og kor vanskeleg han er (*snitt +6 (433 kort)*,
+snittet mot par over fullførte kort, minst fem, importerte resultat medrekna). Tida finst
+berre for rundar ført i DiscPulse, for Metrix-resultat har ikkje start og slutt.
 - **Kart**: berre kartet.
 - **Resultat**: konkurransane på bana, nyaste først, med lenkje til resultata.
 - **Rundane dine** (innlogga): statistikken din på bana og alle rundane dine der.
