@@ -314,7 +314,9 @@ Påmeldingar på Metrix er ikkje med enno, for dei finst ikkje i API-et deira.
 
 **Varsel:** bjølla **🔔** øvst viser kor mange nye varsel du har. Du får varsel når nokon
 byrjar å følgje deg, når nokon gir **👏** til ein runde du var med på, og når ratinga di
-endrar seg etter nattkøyringa. Trykk på bjølla for lista. Då blir varsla merkte som lesne.
+endrar seg etter nattkøyringa. Driv klubben din ei bane, får du varsel når ein spelar
+melder frå om eit problem der, og har du meldt frå sjølv, får du varsel når det er fiksa.
+Trykk på bjølla for lista. Då blir varsla merkte som lesne.
 Varsla er med i dataeksporten, og blir sletta saman med kontoen.
 
 ## Slette ein runde
@@ -500,6 +502,14 @@ Hola får kart når nokon har plassert tee og korg:
   **Publiser**. Meldinga står på banesida og på scorekortet under runden, og stengde banar
   får ⛔ i lista. Etter sluttdatoen forsvinn ho av seg sjølv; **Fjern** tek henne bort med
   ein gong.
+- **⚠️ Meld frå om eit problem** (alle innlogga, nedst på **Oversikt** på banesida): vel kva
+  det gjeld (skadd korg, skilt manglar, stengt eller hinder, endra hol eller bane, anna),
+  eventuelt holet, og skriv kort kva som er gale. Eigarane og administratorane i klubben
+  som driv bana, får eit varsel i 🔔. Du kan sende fem rapportar per bane per døgn.
+- **Rapportar frå spelarar** (i baneverktøyet, og talet på opne står på 📊-knappen på
+  banesida): kvar rapport viser kva det gjeld, holet, teksten og kven som melde frå.
+  **✓ Merk som fiksa**, gjerne med eit svar, så får spelaren varsel om at det er fiksa.
+  Under **Nyleg fiksa** kan du **opne att** ein rapport.
 - **Posisjonen til bana:** står bana feil i kartet (til dømes midt i sentrum), opnar
   redaktøren editoren og vel **Trykk i kartet** (og trykkjer der bana startar) eller
   **Bruk posisjonen min** når han står ved bana. Importar frå Metrix eller OpenStreetMap
