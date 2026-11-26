@@ -180,6 +180,12 @@ i den rekkjefølgja du skreiv dei inn. Kvart lag må ha 2–4 spelarar. På scor
 blir kvart lag éi rad («Anna & Bo») med éin score per hol. Lagrundar tel ikkje i
 ratinga.
 
+Vel du *Double – beste score*, spelar alle sin eigen disk og har si eiga rad på kortet,
+med **Lag 1**, **Lag 2** … ved namnet. Laget får den beste scoren på kvart hol. Under
+**Stilling** ser du laga øvst og spelarane under. Òg her må kvart lag ha 2–4 spelarar,
+og rundane tel ikkje i ratinga, statistikken eller banerekordane. Formatet finst for
+vanlege rundar og treningsrundar, ikkje i konkurransar.
+
 Fargen på scoren viser resultatet: gul er ace, blå eagle, grøn birdie, grå par,
 oransje bogey og raud dobbel bogey eller verre.
 
