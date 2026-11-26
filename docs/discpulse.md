@@ -537,14 +537,25 @@ ingen av dei har han, slår DiscPulse opp staden bana ligg på. Då står det
 
 Hola får kart når nokon har plassert tee og korg:
 
-- **Klubben som driv bana** kan gjere det sjølv. Eigarar og administratorar av
-  klubben ser knappen **Kartlegg bana** (eller **Rediger**) på banesida. Ei bane
-  utan klubb kan berre ein administrator i DiscPulse redigere.
+- **Berre eigaren av bana kan redigere ho**: eigarar og administratorar i klubben som står
+  som eigar, og dei dei har gitt rolla **baneredaktør**. Dei ser knappen **Kartlegg bana**
+  (eller **Rediger**) på banesida. Andre, òg administratorar i DiscPulse, kan ikkje endre bana
+  utan rolla.
+- **🔑 Kven kan redigere bana** (i baneverktøyet): lista viser eigarane og baneredaktørane.
+  Eigarane søkjer opp ein spelar (offentlege profilar og medlemmer i klubben) og trykkjer
+  **+ namn** for å gi rolla, eller **Fjern** for å ta ho tilbake. Ein baneredaktør kan endre
+  hol, layoutar, posisjonar, meldingar og rapportar, men kan ikkje gi rolla vidare. Ei bane utan
+  klubb får redaktørar frå ein administrator i DiscPulse, som òg må gi seg sjølv rolla
+  (**Gi meg rolla**) før hen kan redigere.
 - **↪ Knekk** (i editoren, når tee og korg er plasserte): har holet ein knekk eller går rundt
   noko, vel **Knekk** og trykk i kartet i rekkjefølgje frå tee mot korg (eller bruk **Bruk min
   posisjon** der du står). Lengda følgjer linja, og linja blir vist på banekartet og i holkartet
   under runden. **↶** tek bort siste knekkpunkt, **Fjern alle** gjer linja rett att.
-- **📊 Baneverktøy** (same personar som kan redigere bana): tal for dei siste fire vekene
+- **⛔ OB** (i editoren): vel **OB**, trykk hjørna rundt OB-området i kartet (eller bruk **Bruk min
+  posisjon** ved kvart hjørne), og trykk **Ferdig sone** når du har minst tre punkt. Eit hol kan ha
+  opptil ti soner. Dei står som raude felt på banekartet og i holkartet under runden. Trykk på ei
+  sone i lista (**Sone 1 ×**) for å fjerne ho.
+- **📊 Baneverktøy** (eigarane og baneredaktørane): tal for dei siste fire vekene
   samanlikna med dei fire før (spelarrundar, rundar, unike spelarar, snitt per kort),
   spelarrundar per veke og per vekedag, layoutane med kor mykje dei er spelte og snittet mot
   par, og hol for hol for ein layout du vel. Importerte resultat frå Metrix tel med.
@@ -679,7 +690,8 @@ ikkje kven som arrangerer, men klubben som driv bana, gjer det nesten alltid.
 **⛳ Banar klubben driv** (eigarar og administratorar i klubben): søk opp bana og trykk **Vi
 driv denne**. Har bana ein operatør i OpenStreetMap med same namn som klubben, blir ho kopla
 med ein gong. Elles ventar førespurnaden på godkjenning frå DiscPulse. Klubben som driv ei
-bane, får baneverktøya (kart, hol, korgposisjonar, meldingar, rapportar og layoutar) og ser
+bane, står som eigar og får baneverktøya (kart, hol, korgposisjonar, meldingar, rapportar og
+layoutar), og kan gi andre rolla som baneredaktør, og ser
 konkurransane der under **Du arrangerer** på heimeskjermen. **Slepp** tek bana bort frå klubben
 att. Ei bane som ein annan klubb driv, kan ikkje krevjast. Du kan òg opprette ein ny klubb.
 
