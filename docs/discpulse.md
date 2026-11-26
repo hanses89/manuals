@@ -480,6 +480,10 @@ der på DiscPulse. På brei skjerm står kartet med dei same banane ved sida av 
 Øvst på banesida står nøkkeltal: kor mange layoutar, hol og par på hovudlayouten, kor mange
 rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida delt i faner:
 
+**Kartet:** banekartet, kartet ved sida av lista og kartet over banane du har spelt brukar eit
+roleg eige kart med skog, vatn og stiar, i lyst eller mørkt etter temaet ditt. Kartet over bana og
+hola brukar Kartverket i Noreg (med terreng og høgdekurver) og det same rolege kartet elles.
+
 Kvar bane i lista under **Baner** og under **Mest spilte baner** på framsida viser òg vêret akkurat
 no, til dømes *☀️ −3° · 1 m/s ↗*.
 
