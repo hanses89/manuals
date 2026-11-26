@@ -108,6 +108,13 @@ alle hola i scorefargar og fordelinga (birdie eller betre, par, bogey, dobbel el
 heile runden, og der fullfører du runden. Begge ligg òg som eigne knappar i holstripa
 (**½ Midtvegs** og **🏁 Oppsummering**), så du kan opne dei når som helst.
 
+**Forventa score og banesnittet:** har du rating, og bana har SSA, ser du før første score
+kva ratinga di seier du bør skyte i dag, til dømes *Forventa for deg i dag: 58 (+4)*. I midtvegs-
+og sluttoppsummeringa står **Mot banesnittet** for kvar spelar: slag du har vunne eller tapt
+mot snittet på hola du har spelt. Berre hol med minst tre scorar tel. For deg står òg det beste
+holet ditt mot snittet og det dyraste. Når runden er heil, viser oppsummeringa kva du var forventa
+å skyte, og kor langt unna du enda.
+
 Par kjem frå layouten og kan ikkje endrast under runden – er det feil, rettar ein baneredaktør det i baneeditoren. Under er det eit kort per spelar. Er de fleire, er korta tettare (mindre knappar og
 **+ OB** ved sida av tala 1–6), så heile kortet får plass på skjermen.
 
@@ -273,6 +280,24 @@ stadfesting).
 Når du er innlogga, er **Heim** feeden din: dei siste rundane til spelarane du følgjer, og
 dine eigne. På mobil står han under **Start runde** og banane nær deg. Berre konkurranserundar og rundar spelaren sjølv har delt kjem med,
 aldri private rundar eller kort utan score.
+
+**Det neste for deg** står til høgre for feeden på PC og over han på mobil. Kvar liste har
+fanene **Komande** og **Tidlegare**.
+- **Konkurransane mine:** konkurransar du er påmeld (med dato, bane og layout), merkte
+  *Venteliste* eller *Ventar* når du ikkje er stadfesta. Rundar i ein tour står som
+  *Tour → 17. runde*. Er du ikkje påmeld noko, får du ei lenkje til komande konkurransar.
+- **Du arrangerer:** konkurransar du har laga, og konkurransane til klubbar der du er
+  administrator, med talet på spelarar.
+- **Konkurransar nær deg:** komande konkurransar rundt deg når du tillèt posisjon
+  (**📍 Nær meg**).
+- **Spelarar du følgjer skal spele:** konkurransar som spelarar du følgjer (med offentleg
+  profil) er påmelde i.
+- **Konkurransar du følgjer:** trykk **☆ Følg** øvst på ei konkurranseside, så kjem ho her.
+- Berre på PC: **statistikken min** (fairway, C1R, putt C1X og putt C2 frå rundar med
+  statistikk), **treningsrundane mine** (dei tre siste rundane utanom konkurransar) og
+  **dei beste rata rundane dine** (dei fem med høgast offisiell rating).
+
+Påmeldingar på Metrix er ikkje med enno, for dei finst ikkje i API-et deira.
 
 - **Følg** ein spelar med knappen øvst på spelarsida. Spelaren må ha offentleg profil.
 - Til høgre (nedst på mobil) får du forslag: spelarar du har spelt med.
