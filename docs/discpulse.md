@@ -502,6 +502,12 @@ Hola får kart når nokon har plassert tee og korg:
   **Publiser**. Meldinga står på banesida og på scorekortet under runden, og stengde banar
   får ⛔ i lista. Etter sluttdatoen forsvinn ho av seg sjølv; **Fjern** tek henne bort med
   ein gong.
+- **🗂️ Administrer layoutar** (i baneverktøyet): **+ Ny layout** med namn og tal på hol
+  (tomme hol, par 3) eller som kopi av ein annan layout (par, lengd og tee- og
+  korgplasseringar). Etterpå tek lenkja **Rediger hol** deg til editoren. Layoutar laga i
+  DiscPulse kan få nytt namn, **leggjast bort** (vert borte frå banesida og nye rundar,
+  men resultata blir verande) og **takast i bruk att**. Layoutar frå Metrix eller
+  OpenStreetMap får namn og status derifrå, men hola kan du redigere.
 - **📍 Korgposisjonar og tee** (i baneverktøyet): kvart hol kan ha fleire korg- og
   teeplasseringar (A, B, C …). Stå der korga står i dag og trykk **+ Her**, så blir
   plasseringa lagra med GPS-en (ho må vere nøyaktig innan 25 m). Første gong blir den gamle
@@ -591,6 +597,24 @@ Under **Konkurranser** ser du resultatlister. Dei som er merka
 **Importert fra DiscGolfMetrix** er henta frå Metrix. Har konkurransen fleire
 klassar, kan du filtrere på klasse. Resultatlista kan lastast ned som rekneark
 med **Last ned resultater (CSV)**.
+
+**Typar frå Metrix:** konkurransane ligg i same tre som på Metrix, og typen står ved
+namnet:
+- **Enkeltrunde:** eitt arrangement med éin runde.
+- **Arrangement:** fleire rundar, til dømes ein vekesgolf med ein runde i veka eller ein
+  turnering over to dagar. Sida viser alle **rundane** med dato, tal på spelarar og
+  vinnar, og **Samanlagt**: summen av alle fullførte rundar per spelar (flest rundar
+  først, så lågast mot par), med kvar runde i eigen kolonne. Arrangøren kan ha andre
+  reglar (beste rundar, poeng), så tabellen er ei oversikt, ikkje den offisielle
+  sluttstillinga.
+- **Tour:** fleire arrangement samla, til dømes ein serie gjennom sesongen. Sida viser
+  delkonkurransane.
+- **Pulje:** ein del av eit arrangement.
+
+På ein runde står **Del av:** med lenkje til arrangementet (og touren over), og
+**‹ førre / neste ›** til runden før og etter. I lista over konkurransar står berre
+arrangementet, med talet på rundar og perioden. Ein serie som framleis går, står
+under *Komande* til siste runde er spelt.
 
 ## Klubbar
 
