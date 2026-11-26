@@ -139,7 +139,12 @@ regulation, altså på par − 2 kast eller færre; C1 gjeld òg som C2) og tale
 
 Under **Profil → Statistikken min** ser du fordelinga av birdie, par og bogey frå
 alle individuelle rundar, og fairway-, C1R- og C2R-prosent og putt per hol frå hola
-der du førte statistikk.
+der du førte statistikk. Der står òg:
+- **Etter par:** snittet ditt mot par på par 3-, par 4- og par 5-hol (par 6 tel med par 5).
+- **Etter lengd:** snittet mot par på hol under 70 m, 70–100 m, 100–130 m og over 130 m.
+  Berre hol med kjend lengd tel.
+- **Putting etter avstand:** kor mange putt du sette frå 0–5, 5–10, 10–15 og 15–20 m.
+  Tala kjem frå kast-for-kast med GPS når korga har posisjon.
 
 ### Kast for kast
 
@@ -403,7 +408,7 @@ dato for når du nådde det, og kor langt det er att til neste nivå (til dømes
 Vidare viser **Utvikling** rundar, hol og kast, kor mange banar du har spelt og kva for ei du har
 spelt mest, og for perioden du vel (**Siste 4**, **Siste 10**, **i år** eller **Alle**):
 fordelinga mot par (birdie eller betre, par, bogey, dobbel, trippel+), snittet per full
-runde, ace og beste runde. **Spelt mest med** viser kven du har spelt flest rundar med. **Ratinghistorikk** viser ratinga for kvar runde (prikkar,
+runde, ace og beste runde. **Spelt mest med** viser kven du har spelt flest rundar med. **Rivalar** viser kampen mot dei du har spelt minst to rundar med: sigrar–tap–likt og kor mange kast du i snitt er føre eller bak per runde. Berre rundar der de begge har fullt kort på dei same hola, tel, både vanlege rundar og konkurransar. **Ratinghistorikk** viser ratinga for kvar runde (prikkar,
 tomme = uformelle) mot den offisielle ratinga (lina). Under står statistikken frå
 kaststatistikken din (fairway, C1R, C2R, putt).
 ### Kople til Metrix-profilen din
