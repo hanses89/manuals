@@ -480,6 +480,11 @@ rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida
 - **Oversikt**: kartet, layoutane med **Spill denne layouten**, og rundane dine på bana.
 - **Layoutar**: alle hol med par og lengd, SSA og ratingtabellen per layout.
 
+På fana **Resultat** står **🏆 Banerekordar** for kvar open layout: den beste fullførte runden
+til kvar spelar, topp ti. Konkurranserundar tel, og vanlege rundar som er delte av spelarar med
+open profil. Parkonkurransar tel ikkje, for der er kvar rad eit lag. Trykk på scoren for
+scorekortet.
+
 Kvar layout viser òg kor lang tid ein runde tek (*≈ 1 t 10 min per runde*, medianen av
 rundar med ekte start og slutt, minst tre) og kor vanskeleg han er (*snitt +6 (433 kort)*,
 snittet mot par over fullførte kort, minst fem, importerte resultat medrekna). Tida finst
