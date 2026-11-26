@@ -297,7 +297,11 @@ Når du er innlogga, er **Heim** feeden din: dei siste rundane til spelarane du 
 dine eigne. På mobil står han under **Start runde** og banane nær deg. Berre konkurranserundar og rundar spelaren sjølv har delt kjem med,
 aldri private rundar eller kort utan score.
 
-**Det neste for deg** står over feeden som boksar, i to eller tre kolonnar på PC og éin på mobil. Kvar liste har
+Når du er innlogga, startar framsida med **Meir for deg** (statistikken din, dei beste rata
+rundane, konkurransar nær deg, konkurransar du følgjer og forslag), så **Mest spilte baner**,
+**Kommende konkurranser** og **Høyest rating**. Under kjem **det neste for deg** (berre når noko
+kjem), **Siste runder** (dei tre siste rundane dine, frå alle einingar og Metrix) og feeden (dei
+ti siste). Boksane står i to eller tre kolonnar på PC og éin på mobil. Kvar liste har
 fanene **Komande** og **Tidlegare**.
 - **Konkurransane mine:** konkurransar du er påmeld (med dato, bane og layout), merkte
   *Venteliste* eller *Ventar* når du ikkje er stadfesta. Rundar i ein tour står som
@@ -326,7 +330,10 @@ Påmeldingar på Metrix er ikkje med enno, for dei finst ikkje i API-et deira.
 **Varsel:** bjølla **🔔** øvst viser kor mange nye varsel du har. Du får varsel når nokon
 byrjar å følgje deg, når nokon gir **👏** til ein runde du var med på, og når ratinga di
 endrar seg etter nattkøyringa. Driv klubben din ei bane, får du varsel når ein spelar
-melder frå om eit problem der, og har du meldt frå sjølv, får du varsel når det er fiksa.
+melder frå om eit problem der, og har du meldt frå sjølv, får du varsel når det er fiksa. Du får
+òg varsel når Metrix-profilen din blir kopla, når du får administrere ein klubb, eller når klubben
+din får ei bane (eller om førespurnaden blir avvist). Administratorar får varsel når ein
+førespurnad ventar på avgjerd, med lenkje rett til rett side under Admin.
 Trykk på bjølla for lista. Då blir varsla merkte som lesne.
 Varsla er med i dataeksporten, og blir sletta saman med kontoen.
 
@@ -437,15 +444,21 @@ sjå kor mange rundar du har der, opne statistikken din på bana eller starte ei
 banar som står att. Byen kjem frå banedataa, og stengde eller skjulte banar tel ikkje. 🏆
 betyr at du har spelt alle banane i byen.
 
+Har ein Metrix-profil nøyaktig same namn som kontoen din, står det **Er dette deg?** på
+profilen og under **Dine rundar** på banesida, med kor mange rundar profilen har, og ei lenkje
+til koplinga.
+
 Resultata dine frå Disc Golf Metrix ligg på ein eigen spelarprofil som er henta
 frå Metrix. Metrix deler ikkje e-postadresser, så DiscPulse kan ikkje vite av
 seg sjølv at profilen er din.
 
-1. Gå til **Profil → Metrix-profilen din**. Namnet ditt er alt fylt inn i søket.
-2. Finn profilen din. Talet på rundar og klubben hjelper deg å velje rett.
-3. Trykk **Dette er meg**, skriv gjerne ei melding og trykk **Send førespurnad**.
+1. Trykk **Kople til** i boksen **Er dette deg?** (profilen er då alt vald), eller gå til
+   **Profil → Innstillingar → Metrix-profilen din**, der namnet ditt står i søket.
+2. Finn profilen din. Talet på rundar og klubben hjelper deg å velje rett. Trykk **Dette er meg**.
+3. Rett under profilen kan du skrive ei melding. Trykk **Send førespurnad**.
 
-Ein administrator sjekkar førespurnaden og godkjenner han. Då blir Metrix-profilen
+Ein administrator sjekkar førespurnaden og godkjenner han. Er du sjølv administrator, går
+han rett gjennom. Då blir Metrix-profilen
 og kontoen din éin profil, med både Metrix-resultata og rundane du har ført i
 DiscPulse. Nye resultat frå Metrix kjem automatisk på same profil etterpå.
 
@@ -527,6 +540,10 @@ Hola får kart når nokon har plassert tee og korg:
 - **Klubben som driv bana** kan gjere det sjølv. Eigarar og administratorar av
   klubben ser knappen **Kartlegg bana** (eller **Rediger**) på banesida. Ei bane
   utan klubb kan berre ein administrator i DiscPulse redigere.
+- **↪ Knekk** (i editoren, når tee og korg er plasserte): har holet ein knekk eller går rundt
+  noko, vel **Knekk** og trykk i kartet i rekkjefølgje frå tee mot korg (eller bruk **Bruk min
+  posisjon** der du står). Lengda følgjer linja, og linja blir vist på banekartet og i holkartet
+  under runden. **↶** tek bort siste knekkpunkt, **Fjern alle** gjer linja rett att.
 - **📊 Baneverktøy** (same personar som kan redigere bana): tal for dei siste fire vekene
   samanlikna med dei fire før (spelarrundar, rundar, unike spelarar, snitt per kort),
   spelarrundar per veke og per vekedag, layoutane med kor mykje dei er spelte og snittet mot
@@ -684,6 +701,16 @@ første som blir godkjend, blir eigar; seinare godkjende blir administratorar.
 Når du administrerer klubben, kan du knyte han til banane han driv (sjå **⛳ Banar klubben
 driv** over). Ein administrator i DiscPulse ser både klubbførespurnader og baneførespurnader
 under `/admin/klubber`.
+
+### Admin (administratorar i DiscPulse)
+
+Administratorar har **🛠 Admin** i profilmenyen (☰ på mobil). Sida samlar alle
+administrative oppgåver med kor mange som ventar: Metrix-profilar som ventar på kopling,
+klubbar og banar som ventar, samanslåtte og skjulte banar, import og rating (siste køyring)
+og opne banerapportar per bane. **Siste avgjerder** viser dei ti siste godkjenningane og
+avvisingane (med kven og når), også dei som gjekk rett gjennom fordi ein administrator
+kopla sin eigen profil. Dei vanlege sidene under Profil har ingen administratorlenkjer.
+Ein konto blir administrator med `npm run user:role -w @discpulse/db -- <e-post> ADMIN`.
 
 ### Vekeliga
 
