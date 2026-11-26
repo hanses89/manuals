@@ -621,7 +621,16 @@ blir henta kvar natt, med dato, bane og kor mange som er påmelde.
 
 Under **Konkurranser → Klubber** finn du klubbane. Trykk **Bli medlem** for å
 bli med. På klubbsida ser du kunngjeringar, konkurransane til klubben og
-medlemene. Du kan òg opprette ein ny klubb.
+medlemene. Konkurransane står under **Komande** og **Tidlegare**. Lista tek med både dei klubben
+har laga i DiscPulse og konkurransar frå Metrix som er spelte på banane klubben driv. Metrix seier
+ikkje kven som arrangerer, men klubben som driv bana, gjer det nesten alltid.
+
+**⛳ Banar klubben driv** (eigarar og administratorar i klubben): søk opp bana og trykk **Vi
+driv denne**. Har bana ein operatør i OpenStreetMap med same namn som klubben, blir ho kopla
+med ein gong. Elles ventar førespurnaden på godkjenning frå DiscPulse. Klubben som driv ei
+bane, får baneverktøya (kart, hol, korgposisjonar, meldingar, rapportar og layoutar) og ser
+konkurransane der under **Du arrangerer** på heimeskjermen. **Slepp** tek bana bort frå klubben
+att. Ei bane som ein annan klubb driv, kan ikkje krevjast. Du kan òg opprette ein ny klubb.
 
 For norske klubbar viser klubbsida òg organisasjonsnummer, organisasjonsform,
 kommune og nettside frå Einingsregisteret (Brønnøysund), når klubben er
@@ -637,6 +646,10 @@ klubbsida, trykk **Be om å administrere klubben**, skriv inn rolla di og trykk
 **Send førespurnad**.
 Ein administrator i DiscPulse (eller eigaren av klubben) godkjenner førespurnaden. Den
 første som blir godkjend, blir eigar; seinare godkjende blir administratorar.
+
+Når du administrerer klubben, kan du knyte han til banane han driv (sjå **⛳ Banar klubben
+driv** over). Ein administrator i DiscPulse ser både klubbførespurnader og baneførespurnader
+under `/admin/klubber`.
 
 ### Vekeliga
 
