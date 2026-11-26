@@ -240,6 +240,11 @@ fargar, lengd og par, og statistikken til dei som førte han.
 - Dine eigne rundar er private. Det er berre du og spelarane på kortet som ser
   dei. Trykk **Del runden** på scorekortet, så kan alle med lenkja sjå det, og
   **Kopier lenkje** for å sende det vidare. **Gjer privat** stengjer det igjen.
+- **📷 Del som bilete** lagar scorekortet som eit bilete i ståande format: bane, layout, dato,
+  og for kvar spelar (opptil fire) score mot par og kvart hol i scorefargen. På mobilen opnar
+  delingsmenyen seg (Instagram, Messenger …), på PC blir biletet lasta ned. **Sjå biletet** opnar
+  det i ein ny fane. Biletet følgjer same reglar som scorekortet: ein privat runde kan berre du
+  og dei på kortet sjå.
 
 ## Fargar på scorekortet
 
