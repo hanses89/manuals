@@ -502,6 +502,13 @@ Hola får kart når nokon har plassert tee og korg:
   **Publiser**. Meldinga står på banesida og på scorekortet under runden, og stengde banar
   får ⛔ i lista. Etter sluttdatoen forsvinn ho av seg sjølv; **Fjern** tek henne bort med
   ein gong.
+- **📍 Korgposisjonar og tee** (i baneverktøyet): kvart hol kan ha fleire korg- og
+  teeplasseringar (A, B, C …). Stå der korga står i dag og trykk **+ Her**, så blir
+  plasseringa lagra med GPS-en (ho må vere nøyaktig innan 25 m). Første gong blir den gamle
+  plasseringa lagra som A. Trykk på bokstaven for å gjere plasseringa til **dagens**: holet
+  flyttar seg i kartet, avstandane følgjer, og lengda blir justert. Nye rundar brukar dagens
+  plassering, og scorekortet viser *Korg B* og *Tee A* under holnummeret. **×** fjernar ei
+  plassering som ikkje er i bruk.
 - **⚠️ Meld frå om eit problem** (alle innlogga, nedst på **Oversikt** på banesida): vel kva
   det gjeld (skadd korg, skilt manglar, stengt eller hinder, endra hol eller bane, anna),
   eventuelt holet, og skriv kort kva som er gale. Eigarane og administratorane i klubben
