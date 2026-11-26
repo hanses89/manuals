@@ -480,6 +480,9 @@ der på DiscPulse. På brei skjerm står kartet med dei same banane ved sida av 
 Øvst på banesida står nøkkeltal: kor mange layoutar, hol og par på hovudlayouten, kor mange
 rundar som er spelte der på DiscPulse, og kor mange konkurransar. Under er sida delt i faner:
 
+Kvar bane i lista under **Baner** og under **Mest spilte baner** på framsida viser òg vêret akkurat
+no, til dømes *☀️ −3° · 1 m/s ↗*.
+
 - **Oversikt**: **vêret** no og om 2, 4 og 6 timar (temperatur, vind og nedbør frå MET Norway, med
   lenkje til yr.no), kartet, layoutane med **Spill denne layouten**, og rundane dine på bana.
 - **Layoutar**: alle hol med par og lengd, SSA og ratingtabellen per layout.
